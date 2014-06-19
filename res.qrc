@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>1-48.ico</file>
+    <file>2-48.ico</file>
+    <file>3-48.ico</file>
+  </qresource>
+  <qresource prefix="flags">
+    <file>toeic.png</file>
+    <file>traduct.png</file>
+    <file>qcm6.png</file>
+  </qresource>
+</RCC>

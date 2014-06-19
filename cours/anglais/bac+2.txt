@@ -1,0 +1,35 @@
+to enforce:faire respecter(la loi)
+to catch to:surprendre
+to prosecute:poursuivre(en justice)
+to tipp of:informer
+to pick up:arrêter(par la police)
+to break in:entrer(par effraction)
+to run off with:voler
+to blow up:faire exploser(une bombe)
+to lock up:enfermer(en prison)
+robbery:vol
+assault and battery:coups et blessures
+mayhem:pagaille
+grim:sinistre
+to vow:faire un serment
+turf:gazon
+threat:menace
+to shift:changer
+to spark:provoquer
+to crack-down:visser
+lure:leurre
+silk:soie
+to involve:faire participer(quelqu'un)
+to imply:signifier
+to implicate:impliquer(dans un crime)
+to grip:saisir
+billboard:panneau publicitaire
+synonyme increase:surge,grow,reap,escalate
+synonyme if:should(hypothèse + imparfait)
+burglary:cambriolage
+spear:lance(arme)
+bow:arc(arme)
+casualties:victimes,dommages(collatérales)
+wounded:blessé(par une arme)
+withdraw:battre en retraite,se retirer
+ought:il faut que(syn should)

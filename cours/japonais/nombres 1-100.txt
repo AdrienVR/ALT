@@ -1,0 +1,101 @@
+0:rei
+1:ichi
+2:ni
+3:san
+4:yon
+5:go
+6:roku
+7:nana
+8:hachi
+9:kyû
+10:jû
+11:jû ichi
+12:jû ni
+13:jû san
+14:jû yon
+15:jû go
+16:jû roku
+17:jû nana
+18:jû hachi
+19:jû kyû
+20:nijû
+21:nijû ichi
+22:nijû ni
+23:nijû san
+24:nijû yon
+25:nijû go
+26:nijû roku
+27:nijû nana
+28:nijû hachi
+29:nijû kyû
+30:sanjû
+31:sanjû ichi
+32:sanjû ni
+33:sanjû san
+34:sanjû yon
+35:sanjû go
+36:sanjû roku
+37:sanjû nana
+38:sanjû hachi
+39:sanjû kyû
+40:yonjû
+41:yonjû ichi
+42:yonjû ni
+43:yonjû san
+44:yonjû yon
+45:yonjû go
+46:yonjû roku
+47:yonjû nana
+48:yonjû hachi
+49:yonjû kyû
+50:gojû
+51:gojû ichi
+52:gojû ni
+53:gojû san
+54:gojû yon
+55:gojû go
+56:gojû roku
+57:gojû nana
+58:gojû hachi
+59:gojû kyû
+60:rokujû
+61:rokujû ichi
+62:rokujû ni
+63:rokujû san
+64:rokujû yon
+65:rokujû go
+66:rokujû roku
+67:rokujû nana
+68:rokujû hachi
+69:rokujû kyû
+70:nanajû
+71:nanajû ichi
+72:nanajû ni
+73:nanajû san
+74:nanajû yon
+75:nanajû go
+76:nanajû roku
+77:nanajû nana
+78:nanajû hachi
+79:nanajû kyû
+80:hachijû
+81:hachijû ichi
+82:hachijû ni
+83:hachijû san
+84:hachijû yon
+85:hachijû go
+86:hachijû roku
+87:hachijû nana
+88:hachijû hachi
+89:hachijû kyû
+90:kyûjû
+91:kyûjû ichi
+92:kyûjû ni
+93:kyûjû san
+94:kyûjû yon
+95:kyûjû go
+96:kyûjû roku
+97:kyûjû nana
+98:kyûjû hachi
+99:kyûjû kyû
+100:hyaku

@@ -1,0 +1,29 @@
+##### FENETRE DE PROGRAMMATION DE NAO ######
+
+def main():
+
+  ## on commence par identifier la position de la balle
+  distanceX,distanceY=detecterBalle()
+
+  ## on se dirige vers la balle
+  avancer(distanceX,distanceY)
+
+  ##puis, pour tirer on identifie la position des cages
+  distanceX,distanceY=detecterCages()
+  tirer(distanceX,distanceY)
+  
+## on peut également définir de nouvelles fonctions
+def etreContent():
+  leverLesBras()
+  baisserLesBras()
+
+def leverLesBras():pass
+  ##... à compléter ...
+  ##
+
+def baisserLesBras():pass
+  ##... à compléter ...
+  ##
+
+afficher("Demarrage du programme")
+main()

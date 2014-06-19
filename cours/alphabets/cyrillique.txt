@@ -1,0 +1,33 @@
+﻿a:a(comme dans «papa»)
+б:B((bé), comme dans «bar»)
+в:V((vé), comme dans «vivre»)
+г:Gué
+д:D((dé), comme dans «droit»)
+е:yé, comme dans «miel»)
+ё:yo, comme dans «yoga»)
+ж:gé,
+з:Z(zé), comme dans «zone»)
+и:i, comme dans «lire»)
+й:ï, comme dans «aïl»)
+к:K((ka), comme dans «Karine»)
+л:L((elle), comme dans «malle»)
+м:M((émme), comme dans «mère»)
+н:N((énne), comme dans «numéro»)
+о:O, comme dans «porte»)
+п:P((pé), comme dans «piste»)
+р:R((érre à roulé), comme dans «route»)
+с:S((ésse), comme dans «sortie»)
+т:T((té), comme dans «tarte»)
+у:ou, comme dans «poudre»)
+ф:F((éf), comme dans «foire»)
+х:kheu,
+ц:tseu, comme dans «tsé»)
+ч:tcheu, comme dans «tchèque»)
+ш:cheu, comme dans «choisir»)
+щ:tcheu, comme dans «chien» en allongeant le «ch»)
+ъ:signe dur / lettre muette
+ь:signe mou / lettre muette
+ы:entre le "i" et le "ou"
+э:É, comme dans «père»)
+ю:you, comme dans «Yougoslavie»)
+я:ya, comme dans «diamant»)

@@ -1,0 +1,35 @@
+﻿delay:ing
+look forward to:ing
+consider:ing
+see:ing,v(or V V)
+feel:ing,v(or V V)
+hear:ing,v(or V V)
+decide:to
+hesitate:to
+choose:to
+offer:to
+ask:to
+refuse:to
+attempt:to
+fail:to
+manage:to
+begin:ing,to
+continue:ing,to
+hate:ing,to
+intend:ing,to
+like:ing,to
+love:ing,to
+prefer:ing,to
+start:ing,to
+forget drive:ing(event or past)
+remember bring:to(change from one action to another)
+go on study:ing(continue activity)
+go on win:to(change from one action to another)
+regret revise:ing(feel sorry about you didn't)
+regret inform:to(say sorry, in formal letter)
+stop smoke:ing(finish an action)
+stop take:to(finish an action in order to do sthg else)
+try turn:ing(do sthg as an experiment)
+try take:to(attempt do sthg difficult)
+needs clean:ing(someone should do it)
+needs drink:to(physically necessity)

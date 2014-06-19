@@ -1,0 +1,83 @@
+Company:Entreprise
+Business:Entreprise
+Customers:Clients, Clientèle
+Executive director:Directeur executif
+Manufature:Fabrication, Fabrique
+Product:Produit
+Industrial:Industriel
+Built:Construire
+Primary:Secteur primaire (ex : agriculture)
+Manufacturing:Fabrication, Secteur secondaire
+Service:Service, Secteur tertiaire
+Quaternary Sector:Secteur quaternaire
+Trainers Shoes:Chaussures d'entrainement
+Clothes:vêtements
+Protective gear:Équipements de protection
+Helmet:Casque
+Hard hat:Casque
+Carpenter:Charpentier
+Hammer:Marteau
+Coal:Charbon
+Production line:Ligne de production
+Assembly:Assemblage
+Goggles:Lunettes de protection
+Lumber:Planche, Poutre
+Timber:Bois
+Molten Steel:Acier en fusion
+Oil:Petrole
+Petrole:Essence
+Gas UK gaz / US:essence
+Fuel:Carburant
+Neat:soigné/propre
+Svelte:Mince
+Swiping:Balayé, flanqué …
+Licensed:Autorisé
+Tributes:Hommages
+Cutting-edge:Le tranchant de la lame
+Flop:Fiasco
+Thin:Mince
+Former:Ancien
+CEO:PDG
+Founder:Fondateur
+Handheld:Ordinateur de poche
+Overturned:Renversé
+Nylon:Nylon
+Vaccuum:Aspirateur
+Dumped:Sous évalué, abandonné
+High Heat:Forte chaleur
+Handle:Poignée
+Flow:Flux, courant
+To cool:Refroidir
+Belt:Ceinture, courroie
+Damage:Dégat, déterioration
+Smooth:Lisse
+Container:Recipient
+Trusty:Sûr, loyal
+Airtight:Hermétique
+Lid:Couvercle
+Weld:Soudage
+Shape:Forme, contour
+Mechanized:Mécanisé
+Reusable:Réutilisable
+Punch:Poiçon, perforateur
+Pulls:Traction
+Stack:Pille, empillement
+Packaging:Emballage
+Line-up:File
+Through:À travers
+Sheets:Feuilles,plaques
+Load:Chargement, charger
+Ream:Fraiser
+Scraps:Restes, débris
+Harden:Trempé
+Folding:Pliure, pliant
+Contents:Contenu
+Empty:Vide
+High:Haut
+Height:Hauteur
+Wide:Large
+Width:Largeur
+Weighty:Lourd
+Weight:Poids
+Lengthy:Long
+Length:Longueur

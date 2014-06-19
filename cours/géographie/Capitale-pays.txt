@@ -1,0 +1,156 @@
+﻿Abou Dabi:Émirats arabes unis,eau
+Accra:Ghana
+Achgabat:Turkménistan
+Addis-Abeba:Éthiopie
+Alger:Algérie
+Amman:Jordanie
+Amsterdam:Pays-Bas,pb
+Ankara:Turquie
+Asmara:Érythrée
+Astana:Kazakhstan
+Asunción:Paraguay
+Athènes:Grèce
+Bagdad:Irak
+Bakou:Azerbaïdjan
+Bamako:Mali
+Bangkok:Thaïlande
+Bangui:République centrafricaine,rc
+Belgrade:Serbie
+Berlin:Allemagne
+Berne:Suisse
+Beyrouth:Liban
+Bichkek:Kirghizistan
+Bissau:Guinée-Bissau
+Bogota:Colombie
+Brasilia:Brésil
+Bratislava:Slovaquie
+Brazzaville:République du Congo,congo
+Bruxelles:Belgique
+Bucarest:Roumanie
+Budapest:Hongrie
+Buenos Aires:Argentine
+Bujumbura:Burundi
+Canberra:Australie
+Caracas:Venezuela
+Chişinău:Moldavie
+Colombo:Sri Lanka
+Conakry:Guinée
+Copenhague:Danemark
+Dakar:Sénégal
+Damas:Syrie
+Dhâkâ:Bangladesh
+Djibouti:Djibouti
+Dodoma:Tanzanie
+Doha:Qatar
+Douchanbé:Tadjikistan
+Dublin:Irlande
+Erevan:Arménie
+Freetown:Sierra Leone
+Gaborone:Botswana
+Georgetown:Guyana
+Guatemala:Guatemala
+Hanoï:Viêt Nam
+Harare:Zimbabwe
+Helsinki:Finlande
+Islamabad:Pakistan
+Jakarta:Indonésie
+Jerusalem:Israël
+Kaboul:Afghanistan
+Kampala:Ouganda
+Katmandou:Népal
+Khartoum:Soudan
+Kiev:Ukraine
+Kigali:Rwanda
+Kingston:Jamaïque
+Kinshasa:République démocratique du Congo,congo
+Koweït:Koweït
+Kuala Lumpur:Malaisie
+La Havane:Cuba
+Le Caire:Égypte
+Libreville:Gabon
+Lilongwe:Malawi
+Lima:Pérou
+Lisbonne:Portugal
+Ljubljana:Slovénie
+Lomé:Togo
+Londres:Royaume-Uni
+Luanda:Angola
+Lusaka:Zambie
+Madrid:Espagne
+Managua:Nicaragua
+Manama:Bahreïn
+Manille:Philippines
+Maputo:Mozambique
+Mascate:Oman
+Maseru:Lesotho
+Mexico:Mexique
+Minsk:Biélorussie
+Mogadiscio:Somalie
+Monrovia:Libéria
+Montevideo:Uruguay
+Moscou:Russie
+Nairobi:Kenya
+Nassau:Bahamas
+Naypyidaw:Birmanie
+Ndjamena:Tchad
+New Delhi:Inde
+Niamey:Niger
+Nicosie:Chypre
+Nouakchott:Mauritanie
+Oslo:Norvège
+Ottawa:Canada
+Ouagadougou:Burkina Faso
+Oulan-Bator:Mongolie
+Panama:Panama
+Paramaribo:Suriname
+Paris:France
+Phnom Penh:Cambodge
+Podgorica:Monténégro
+Port Moresby:Papouasie-Nouvelle-Guinée,nouvelle guinée
+Port-Louis:Maurice
+Port-au-Prince:Haïti
+Port-d'Espagne:Trinité-et-Tobago
+Porto-Novo:Bénin
+Prague:République tchèque
+Pretoria:Afrique du Sud
+Pyongyang:Corée du Nord
+Pékin:Chine
+Quito:Équateur
+Rabat:Maroc
+Reykjavik:Islande
+Riyad:Arabie saoudite
+Rome:Italie
+Rīga:Lettonie
+Saint-Domingue:République dominicaine
+San José:Costa Rica
+San Salvador:Salvador
+Sanaa:Yémen
+Santiago:Chili
+Sarajevo:Bosnie-Herzégovine
+Singapour:Singapour
+Skopje:Macédoine
+Sofia:Bulgarie
+Stockholm:Suède
+Sucre:Bolivie
+Suva:Fidji
+Séoul:Corée du Sud
+Tachkent:Ouzbékistan
+Tallinn:Estonie
+Tananarive:Madagascar
+Tbilissi:Géorgie
+Tegucigalpa:Honduras
+Tirana:Albanie
+Tokyo:Japon
+Tripoli:Libye
+Tunis:Tunisie
+Téhéran:Iran
+Varsovie:Pologne
+Vienne:Autriche
+Vientiane:Laos
+Vilnius:Lituanie
+Washington:États-Unis,usa
+Wellington:Nouvelle-Zélande
+Windhoek:Namibie
+Yamoussoukro:Côte d'Ivoire
+Yaoundé:Cameroun
+Zagreb:Croatie

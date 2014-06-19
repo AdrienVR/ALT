@@ -1,0 +1,2 @@
+cd Desktop\PYQtProjects\
+pyrcc4 -o res_rc.py res.qrc

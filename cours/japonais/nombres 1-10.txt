@@ -1,0 +1,11 @@
+0:rei
+1:ichi
+2:ni
+3:san
+4:yon
+5:go
+6:roku
+7:nana
+8:hachi
+9:kyû
+10:jû

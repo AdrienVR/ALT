@@ -1,0 +1,43 @@
+zero:zéro (langage courant)
+nil:nul (match nul)
+nought:zéro (le chiffre 0)
+"O":zéro (numéros de téléphone)
+one:un
+two:deux
+three:trois
+four:quatre
+five:cinq
+six:six
+seven:sept
+eight:huit
+nine:neuf
+ten:dix
+eleven:onze
+twelve:douze
+thirteen:treize
+fourteen:quatorze
+fifteen:quinze
+sixteen:seize
+seventeen:dix-sept
+eighteen:dix-huit
+nineteen:dix-neuf
+twenty:vingt
+twenty-one:vingt et un
+twenty-two:vingt-deux
+twenty-three:vingt-trois
+thirty:trente
+forty:quarante
+fifty:cinquante
+sixty:soixante
+seventy:soixante-dix
+eighty:quatre-vingts
+ninety:quatre-vingt-dix
+one hundred, a hundred:cent
+one hundred and one, a hundred and one:cent-un
+two hundred:deux-cents
+three hundred:trois-cents
+one thousand, a thousand:mille
+two thousand:deux mille
+three thousand:trois mille
+one million, a million:un million
+one billion, a billion:un milliard

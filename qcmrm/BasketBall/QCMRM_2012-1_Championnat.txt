@@ -1,0 +1,70 @@
+﻿13) Le ballon peut être :
+ A) délibérément dévié avec le genou
+ B) délibérément dévié avec le tibia
+ C) délibérément dévié avec la jambe
+ D) involontairement dévié avec le tibia
+ E) involontairement dévié avec une partie de la jambe
+#Art. 13.2 Comment jouer le ballon
+Un joueur ne doit pas courir avec le ballon, lui donner délibérément un coup de pied, le bloquer avec une partie de la jambe ou le frapper avec le poing. Cependant, toucher ou entre en contact accidentellement avec le ballon avec une partie quelconque de la jambe n’est pas une violation.
+D,E
+
+14) Dans les consignes championnat de France 2012-2013, lors d'un remplacement l’arbitre doit:
+ A) contrôler la tenue du joueur remplaçant
+ B) faire le geste conventionnel de demande de remplacement
+ C) faire la demande de remplacement avant la gestuelle d'une faute
+ D) valider le remplacement et autoriser ainsi le remplaçant à devenir joueur, en faisant le geste approprié
+#Consignes championnat de France 2012-2013 « mécanique remplacement »
+A,B,D
+
+15) L'équipe A contrôle le ballon depuis 6'' dans sa zone arrière lorsqu'une double faute est sifflée en zone arrière A entre A12 et B13 :
+ A) L'équipe A bénéficiera de 8'' pour amener le ballon en zone avant suite à la remise en jeu
+ B) L'équipe A bénéficiera de 2'' pour amener le ballon en zone avant suite à la remise en jeu
+ C) La remise en jeu se situera à cheval sur la ligne médiane
+ D) La remise en jeu se situera en zone arrière à l’endroit le plus proche où le ballon se trouvait
+ E) La remise en jeu se situera en zone arrière à l’endroit le plus proche où la double faute a été sifflée
+ F) L’arbitre devra annoncer le temps restant pour passer en zone avant à l’équipe effectuant la remise en jeu
+#Art. 28 et 35, mécanique art 4.4.3, consignes championnat de France 2012-2013 (décompte des secondes)
+B,E,F
+
+16) Lors de la réception du ballon, le joueur a le choix du pied de pivot lorsqu’ :
+ A) Il est en l’air
+ B) Il a les deux pieds au sol
+ C) Il a un seul pied en contact avec le sol
+ D) Il effectue un arrêt simultané
+ E) Il effectue un arrêt alternatif
+#Art. 25.2.1
+B,D
+
+17) Dans les consignes championnat de France 2012-2013, lors d’une faute technique ou d'une faute disqualifiante sans rapport, l'arbitre doit faire contresigner la feuille par :
+ A) le capitaine A
+ B) le capitaine B
+ C) l’entraineur A
+ D) l’entraineur B
+ E) Les deux arbitres
+#Consignes championnat de France 2012-2013, administrative faute technique et faute disqualifiantes sans rapport
+E
+
+18) Pendant l’entre-deux les coéquipiers du sauteur :
+ A) ne peuvent pas occuper des positions adjacentes autour du cercle si un adversaire manifeste le désir de s’intercaler
+ B) Ne peuvent pas bouger tant que le ballon n’a pas été touché par un sauteur
+ C) Doivent tous se situer autour du cercle central
+ D) Ne peuvent pas entrer dans le cercle central avant que le ballon ne soit légalement touché par un sauteur
+#Art. 12
+A,D
+
+19) La possession alternée commence :
+ A) lorsque le ballon est tenu par l’arbitre pour la remise en jeu
+ B) lorsque le ballon est à la disposition du joueur pour la remise en jeu
+ C) lorsque le ballon quitte les mains du joueur pour la remise en jeu
+ D) lorsque le ballon est touché par un joueur sur le terrain suite à la remise en jeu
+#ART. 12 Entre-deux et possession alternée
+B
+
+20) A4 qui n’a pas encore dribblé lance le ballon pour lui-même contre le panneau et le reprend ensuite avant qu’un autre joueur ait touché le ballon.
+ A) cette action est légale
+ B) le joueur peut ensuite passer
+ C) le joueur peut ensuite tirer
+ D) le joueur peut ensuite dribbler
+ E) le joueur peut ensuite relancer le ballon pour lui-même contre le panneau
+#Art. 24.1 et Interprétations Officielles ART. 24 Dribble. : Après avoir attrapé le ballon, A4 peut tirer au panier ou passer le ballon mais ne peut pas commencer un nouveau dribble.
+A,B,C

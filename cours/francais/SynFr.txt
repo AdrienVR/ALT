@@ -1,0 +1,1658 @@
+abaissement:baisse, diminution, aplatissement, chute, affaissement, dégradation, avilissement, affaiblissement 
+abandon:abandonnement, concession, départ, renonciation, désertion, cession, renoncement, abdication 
+abattement:abattage, abat, épuisement, affaiblissement, affaissement, prostration, faiblesse, torpeur 
+abbaye:monastère, cloître, béguinage, couvent, prieuré, ermitage, communauté 
+abbé:supérieur, prêtre, curé, vicaire 
+abdiquer:démissionner, abandonner, céder, capituler, laisser, quitter, résigner 
+abdomen:ventre, panse, estomac, torse, tronc 
+aberration:égarement, folie, contresens, absurdité, bévue, erreur, fourvoiement, non-sens 
+abjuration:reniement, apostasie, conversion 
+abjurer:renier, apostasier, abandonner, quitter, rétracter, renoncer 
+ablation:mutilation, excision, retranchement, suppression 
+abnégation:dévouement, désintéressement, sacrifice, renoncement, altruisme 
+abolir:annuler, anéantir, détruire, supprimer, effacer, abroger, défaire, abattre 
+abolitionniste:antiesclavagiste, libérateur 
+abomination:horreur, aversion, dégoût, exécration, haine, répulsion 
+abondance:quantité, profusion, multitude, affluence, diffusion, exubérance, foisonnement, déluge 
+aborigène:autochtone, indigène, naturel 
+abri:refuge, protection, cachette, gîte, retraite, antre, cache, couvert 
+abroger:abolir, annuler, supprimer, retirer, casser, révoquer, infirmer 
+abréger:réduire, raccourcir, restreindre, condenser, diminuer, écourter, accourcir, resserrer 
+abrégé:court, précis, résumé, raccourci, sommaire, manuel, compendium, notice 
+abréviation:résumé, raccourci, 
+absent:distrait, rêveur 
+absolu:total, complet, plein, radical, universel, direct, aveugle, nécessaire 
+absolument:tout, complètement, entièrement, totalement, pleinement, foncièrement, littéralement, nécessairement 
+absolution:abolition, acquittement, grâce, pardon, rémission, amnistie 
+absorbant:laborieux 
+absorber:avaler, consumer, ingurgiter, gober, aspirer, boire, digérer, ingérer 
+absorption:ingestion, attention, extase 
+absoudre:acquitter, pardonner, disculper, dispenser, innocenter, libérer, réhabiliter, affranchir 
+abstention:renonciation, effacement, empêchement, récusation, neutralité 
+abstrait:vague, métaphysique, scientifique 
+absurde:faux, idiot, fou, ridicule, grotesque, sot, absurdité 
+absurdité:illogisme, déraison, extravagance, aberration, incohérence, stupidité, idiotie, folie 
+abuser:duper, égarer, enjôler, leurrer, mystifier, tromper, amuser, attraper 
+académicien:immortel, académiste, universitaire 
+académique:correct, conventionnel, soigné, noble, universitaire, scolaire 
+accent:prononciation, inflexion, intonation, chant, manière, note, ton 
+accentuation:intensification, aggravation, renforcement, multiplication, gradation, redoublement, augmentation, amélioration 
+accentuer:intensifier, prononcer, relever, souligner, insister, augmenter, accroître, accuser 
+acceptation:approbation, acquiescement, accord, consentement, adhésion 
+acception:désignation, signification, sens, définition 
+accessoire:annexe, complémentaire, incident, second, inférieur, garniture, supplément, accompagnement 
+accident:incident, événement, phénomène, aventure, malheur, mésaventure, complication, catastrophe 
+accidentellement:occasionnellement, fortuitement, incidemment 
+accidenté:imprévu, mouvementé, inégal, irrégulier, montagneux, montueux, vallonné, pittoresque 
+acclimatation:acclimatement, naturalisation 
+accolade:embrassade, baiser, caresse, salut 
+accommoder:arranger, agencer, disposer, proportionner, ajuster, fricasser, restaurer, assaisonner 
+accompagnateur:animateur, acolyte, guide, leader, chef, duègne 
+accompagnement:accessoire, garniture, complément, escorte, cortège, équipage, suite, conduite 
+accomplir:achever, terminer, exécuter, commettre, perpétrer, réaliser, remplir, effectuer 
+accomplissement:achèvement, exécution, opération, pratique, réalisation 
+accord:entente, paix, connivence, complicité, fraternité, sympathie, affinité, concorde 
+accoster:aborder, approcher, arriver, débarquer, côtoyer, rencontrer, joindre, raccrocher 
+accoutrement:habillement, vêtement, habit, affublement, harnachement, mise, costume, équipage 
+accoutumance:coutume, habitude, usage, mode, routine, us, adaptation, acclimatement 
+accréditer:autoriser, propager, authentifier 
+accumulateur:pile, dynamo, générateur, alternateur, réacteur 
+accumulation:entassement, addition, agglomération, amoncellement, amas, quantité, tas 
+accusateur:dénonciateur, délateur, calomniateur 
+accusé:prononcé 
+accélérateur:champignon 
+acerbe:mordant, acide, âcre, âpre, aigre, agressif, acrimonieux, virulent 
+acide:amer, mordant, piquant, raide, vert, lipide 
+acidité:âpreté, verdeur 
+acné:inflorescence, couperose, bouton 
+acolyte:complice, associé, affidé, accompagnateur, compagnon, compère, satellite, suivant 
+acoustique:sonore 
+acquiescement:consentement, acceptation, adoption, approbation, assentiment, ratification, agrément, adhésion 
+acquittement:absolution, libération, pardon, décharge, payement, rédemption, règlement, remboursement 
+acquéreur:acheteur, chaland 
+acrimonie:âcreté, aigreur, hargne, malignité, maussaderie, humeur 
+acrobate:équilibriste, trapéziste, danseur, funambule, pitre 
+acrobatie:saut, culbute, bond, gambade, voltige 
+acte:action, exploit, fait, geste, épisode, mouvement, période, mesure 
+acteur:artiste, interprète, comédien, cabotin, histrion, figurant, star, vedette 
+actif:agissant, énergique, dynamique, diligent, affairé, entreprenant, travailleur, vif 
+action:acte, fait, opération, oeuvre, travail, mouvement, geste, activité 
+actionnaire:associé, commanditaire 
+actionner:mouvoir, déférer, exciter, tourmenter, harceler 
+activité:célérité, animation, rapidité, vitalité, vivacité, énergie, zèle, ardeur 
+actualité:originalité, nouveauté, fraîcheur 
+acuité:finesse, intensité, pénétration 
+adaptation:transformation, application, accoutumance, acclimatation, accommodation, traduction 
+addenda:supplément, addition, appendice 
+additif:addition, supplément 
+addition:adjonction, ajout, additif, supplément, complément, annexe, appendice, note 
+adepte:adhérent, affidé, associé, partisan, disciple, prosélyte, ouaille 
+adhérence:adhésion, cohésion, cohérence, jonction, liaison, union 
+adhérent:adepte, attaché, approbateur, assemblé, fixé, partisan, membre 
+adhérer:grouper, coller, combiner, joindre, unir, lier, souder, marier 
+adhésif:collant 
+adhésion:approbation, consentement, acceptation, accord, acquiescement, adhérence, agrément, assentiment 
+adipeux:gros, gras, pansu 
+adiposité:obésité, graisse, embonpoint 
+adjectif:attribut, épithète 
+adjonction:addition, réunion, accession, admission, association, jonction 
+adolescent:jeune, éphèbe, enfant, jouvenceau, blanc-bec 
+adossé:proche, voisin, adjacent, attenant, joignant, limitrophe, mitoyen, avoisinant 
+adresse:dextérité, habileté, finesse, maestria, maîtrise, souplesse, jonglerie, escamotage 
+adulte:grand, jeune 
+adverbe:verbe 
+affaire:occupation, fonction, ouvrage, soin, travail, besogne, devoir, difficulté 
+affaissement:déclin, abaissement, dépression, dégringolade, tassement, affaiblissement, abattement, accablement 
+affichage:réclame, affiche, annonce, publicité 
+affiche:annonce, proclamation, programme, avis, publicité, réclame, écriteau, étiquette 
+aggravation:augmentation, accroissement, redoublement, renforcement, recrudescence, complication, progrès 
+agneau:mouton, bélier, brebis 
+agriculteur:cultivateur, agronome, campagnard, laboureur, éleveur, planteur, paysan, fermier 
+agréable:aimable, charmant, attrayant, délectable, délicieux, enchanteur, enivrant, gracieux 
+agrément:consentement, acquiescement, adhésion, approbation, autorisation, ratification, aveu, ornement 
+aide:assistance, appui, collaboration, coopération, protection, renfort, secours, soutien 
+aigreur:âcreté, acidité, âpreté, rudesse, acrimonie, animosité, amertume, ressentiment 
+aiguille:montagne, colonne, sommet, pic, alêne, dent, index 
+aiguillon:dard 
+aile:flanc, aggravation, élytre 
+aimant:tendre, câlin 
+ajournement:retard, remise, renvoi, atermoiement, sursis, délai, recul, prorogation 
+ajourner:retarder, différer, tarder, remettre, temporiser, recaler, coller, surseoir 
+ajustement:accommodement, conciliation, arrangement, disposition, habillement, parure, mise, costume 
+ajusteur:métallo, métallurgiste, chaudronnier, fondeur, forgeron, fraiseur, riveur 
+aliment:nourriture, subsistance, pâture, alimentation, boustifaille, portion, provision, ration 
+alimentation:subsistance, approvisionnement, ravitaillement, régime, aliment 
+aller:marcher, être 
+allié:ami, parent, auxiliaire, partenaire, appui 
+allocation:subvention, attribution, subside, gratification, pension, secours, prestation 
+allégorie:parabole, comparaison, métaphore, apologue, fable, fiction, emblème, symbole 
+altération:modification, changement, désorganisation, décomposition, dégénération, érosion, entorse, infection 
+aléatoire:problématique 
+amaigrissement:maigreur, diminution, émaciation, consomption, dépérissement, atrophie, appauvrissement 
+amende:punition, sanction, peine, châtiment, contravention, indemnité 
+ami:allié, intime, tendre, uni, camarade, copain, compagnon, connaissance 
+amour:affection, amitié, attachement, tendresse, penchant, sentiment, inclination, caprice 
+ampoule:cloque, cloche, bulle, vésicule 
+amélioration:perfectionnement, embellissement, augmentation, progrès, transformation, affermissement, perfection, réparation 
+analgésique:analgésie 
+ancien:vieux, antique, vécu, vétéran, passé, rococo, primitif 
+ange:archange, chérubin, envoyé, messager, chou, coeur 
+anniversaire:commémoration, fête 
+annonce:communication, information, nouvelle, proclamation, propos, rapport, affiche, avis 
+annonceur:présentateur, speaker 
+année:an, annuité, date, millésime, âge 
+anomalie:irrégularité, inégalité, difformité, étrangeté, bizarrerie, incohérence, singularité, rareté 
+anormal:irrégulier, singulier, extraordinaire, bizarre, excentrique, braque 
+anormalement:normalement 
+anticiper:devancer, préjuger 
+anxiété:inquiétude, préoccupation, souci, tourment, angoisse, énervement, peur, alarme 
+appareil:machine, engin, instrument, outil, dispositif, avion, dentier, cérémonie 
+apparence:aspect, air, dehors, extérieur, figure, forme, surface, mine 
+application:attention, concentration, contention, méditation, persévérance, réflexion, tension, travail 
+apprentissage:stage, initiation, formation, instruction, expérience, début 
+approche:accès, rencontre, venue, arrivée, abord, combat, proximité, voisinage 
+approvisionnement:stock, fourniture, munition, provision, réserve, vivres, ravitaillement, alimentation 
+appétit:désir, goût, passion, tendance, aspiration, appétence, besoin, concupiscence 
+aptitude:capacité, disposition, penchant, talent, vocation, qualité, goût, habileté 
+arbitrage:jugement, décision, sentence, verdict, intervention, médiation 
+arbitre:juge, régulateur, médiateur, magistrat, conciliateur, maître, souverain, règle 
+arbre:arbrisseau, arbuste, axe 
+arche:arcade, voûte, arc 
+ardoise:tuile 
+arme:armure, armement, blason, cachet, écusson, armoiries, argument, moyen 
+armoire:dressoir, placard, buffet, vitrine, bahut, crédence, huche 
+arène:amphithéâtre, piste, théâtre, cirque, gravier, sable 
+aspirant:prétendant, candidat 
+aspiration:inspiration, ambition, mouvement, souhait, prétention, désir, élan, respiration 
+assemblée:foule, meeting, rassemblement, attroupement, réunion, groupement, auditoire, public 
+assez:suffisamment, plutôt, passablement, relativement, prou, trop, grandement 
+assistant:présent, aide, adjoint, auxiliaire, spectateur, auditeur, témoin 
+astuce:ruse, artifice, habileté, hypocrisie, malice, perfidie, rouerie, ficelle 
+astucieux:rusé, malin, perfide, adroit, coquin, génial, inventif, machiavélique 
+astérisque:signe, marque, repère 
+athée:impie, païen, incroyant, sceptique 
+atout:avantage, chance, carte, recours, coup, blessure, tout 
+attaquant:combattant, assaillant 
+attente:espérance, expectative, prévision, souffrance, désir, espoir, souhait, pause 
+aube:aurore, crépuscule, matin, soleil, début, commencement 
+auditoire:public, salle, assistance, galerie, assemblée 
+augmentation:accroissement, agrandissement, amplification, croissance, dilatation, extension, addition, grossissement 
+auteur:écrivain, écrivailleur, écrivassier, littérateur, prosateur, romancier, poète, dramaturge 
+auto:voiture, automobile 
+autobiographie:vie 
+autochtone:indigène, aborigène, naturel 
+autre:différent, disparate, dissemblable, distinct, hétérogène, nouveau, second 
+avance:progression, mouvement, marche, acompte, provision, crédit, escompte, prêt 
+avant:devant, front, proue, précédent 
+avantage:supériorité, dessus, prééminence, succès, triomphe, victoire, avance, acquêt 
+avenant:plaisant, venant 
+aventurier:vagabond, nomade, écumeur, intrigant 
+avertisseur:signal, klaxon, sonnerie, sonnette, trompe 
+aveugle:absolu 
+avidité:appétit, faim, voracité, gloutonnerie, concupiscence, convoitise, cupidité, avarice 
+avion:jet, appareil, aéroplane, zinc, taxi 
+avocat:défenseur, défense, apologiste, orateur, rhéteur, serviteur, intercesseur, apôtre 
+avoir:fortune, patrimoine, bien, propriété, capital, argent, richesse, compte 
+avortement:échec, insuccès 
+axe:pivot, charnière, arbre, essieu, ligne 
+bac:cuve, baquet, cuveau, cuvier 
+bagarre:bataille, échauffourée, mêlée, dispute, querelle, grabuge, rixe, vilain 
+baie:golfe, fenêtre, anse, embrasure, lucarne, calanque, crique 
+bain:ablution, baignade, douche, hydrothérapie, immersion, lavage, toilette, baignoire 
+baisse:abaissement, diminution, affaissement, descente, décrue, reflux, chute, effondrement 
+balai:nettoyage, brosse 
+balle:ballon, boule, pelote, dragée, projectile, plomb, cartouche, figure 
+ballon:balle, boule, montgolfière, montagne 
+bambin:enfant, gamin, petit, marmot 
+banc:siège, banquette, roche, couche, assise 
+bande:troupe, réunion, compagnie, assemblée, clan, clique, meute, volée 
+bannière:drapeau, enseigne, étendard, gonfalon, guidon, flamme, oriflamme, chemise 
+barbe:barbouze, bouc, poil, fossile 
+barrage:obstacle, blocage, fermeture, barrière, digue, écluse 
+barre:tige, lisière, digue, bande, gouvernail, franc, trait, ligne 
+bascule:balance, balançoire 
+basse:bas 
+bateau:navire, barque, bâtiment, cargo, chaland, yacht, paquebot, vaisseau 
+beau:joli, chic, chouette, enchanteur, superbe, noble, grand, gentil 
+beaucoup:copieusement, considérablement, abondamment, amplement, énormément, excessivement, largement, plantureusement 
+beauté:splendeur, éclat, magnificence, sublimité, harmonie, finesse, grâce, joliesse 
+belle:maîtresse, beau 
+belligérant:combattant, adversaire, ennemi 
+bibliothèque:cabinet, dépôt 
+bicyclette:vélo, bécane, clou, machine 
+bien:bon, exemplaire, juste, parfait, rationnel, séant, acquêt, propriété 
+bijou:joyau, ornement, parure, garnement, affiquet 
+biographie:histoire, vie, souvenir 
+bizarre:déséquilibré, farfelu, anormal, capricieux, grotesque, lunatique, original, singulier 
+bière:sarcophage, cercueil 
+blague:farce, mensonge, plaisanterie, tour, hâblerie, attrape, canular, bévue 
+blaireau:brosse, pinceau 
+blessure:lésion, plaie, mutilation, ulcère, coupure, écorchure, morsure, contusion 
+bleu:azur, interdit, saignant, novice, nouveau, conscrit, écolier, tache 
+bobine:rochet, rouleau, figure, tête 
+boisson:rafraîchissement, breuvage, consommation, liquide, potion, alcoolisme, ivresse 
+bol:tasse, coupe, jatte, écuelle, chance 
+bombe:projectile, pétard, fête, festin, débauche, bombance, noce 
+bon:gros, heureux, sacré, solide, humain, droit, juste, simple 
+bonbon:friandise, gourmandise 
+bond:saut, cabriole, culbute, gambade, pirouette, soubresaut, voltige 
+bonnet:coiffure, coiffe, béguin, calotte, calot, toque 
+bord:extrémité, bordure, lisière, périphérie, pourtour, côté, contour, frange 
+bosse:protubérance, aspérité, coup, inégalité, gibbosité, don, instinct, box 
+bossu:disgracié 
+botte:bouquet, faisceau, gerbe, chaussure, bottine, bottillon, coup 
+bouche:gueule, orifice, babines, cavité, embouchure, bec, bouc 
+boucher:étalier, bourreau 
+bouchon:tampon, tapon, guinguette, gargote, estaminet 
+boucle:anneau, agrafe, ardillon, broche, fermail, fibule 
+bouclier:écu, pavois, targe, cuirasse, défense, protection, rempart, sauvegarde 
+boue:saleté, sol, crotte, terrain, champ, fange, vase, ordure 
+bouffi:enflé, soufflé, gros 
+bouffée:souffle, exhalaison, air, émanation, accès, explosion 
+bouillie:bouilli 
+boule:sphère, pelote, balle, ballon, bille, boulet, globe, colère 
+bourrin:cheval 
+bourse:porte-monnaie, escarcelle, aumônière, poche, sac, sacoche, enveloppe, gibecière 
+bouse:fèces, crotte, déjection, ordure, saleté, excrément, chiure, fiente 
+bouteille:flacon, carafon, fiole, burette, litre, gourde 
+bovin:boeuf, bétail 
+branche:branchage, rameau, ramure, baguette, bois, bouture, brindille, broutille 
+brasse:bras 
+bref:court, résumé, sommaire, instantané, impératif, bulle 
+bribe:lambeau, miette, morceau, reste, rien, débris, fragment, partie 
+brillant:luisant, scintillant, lumineux, beau, frais, splendeur, éclat, lustre 
+brin:lambeau, bois, grain 
+briquet:épée, fusil 
+brosse:pinceau, blaireau 
+brouillard:vapeur, brume, nuage, confusion, obscurité 
+broyeur:meule, concasseur 
+bruit:murmure, ronron, bruissement, bourdonnement, brouhaha, son, ton, voix 
+brun:châtain, bistre, chocolat, marron 
+brusque:brutal, bourru, rude, véhément, vif, violent, sec, nerveux 
+brusquerie:brièveté, impétuosité, précipitation, rudesse 
+brut:rudimentaire, inachevé, informe, nu, simple, grossier, fruste, inculte 
+buanderie:lavoir, blanchisserie 
+buffet:dressoir, armoire, desserte, vaisselier, restaurant, buvette, cafétéria 
+bulbe:oignon, renflement 
+bulle:bref, résumé, ballon, vésicule 
+bureau:pupitre, secrétaire, table, office, agence, service, travail 
+buste:torse, tronc, thorax, gorge, poitrine, corsage 
+butée:arrêt, cliquet, taquet 
+bébé:enfant, môme, nourrisson, poupard, poupon, nouveau-né, lardon, loupiot 
+bélier:agneau, mouton, brebis 
+bénédiction:dédicace, inauguration, sacre, consécration, onction 
+bénévole:volontaire 
+béret:chapeau, coiffe, bonnet, coiffure, couvre-chef 
+cabane:baraque, bicoque, cahute, hutte, maison, maisonnette, chaumière, gourbi 
+cachette:abri, refuge, retraite, terrier, asile, cache, antre, mystère 
+cadavre:dépouille, corps, mort, charogne 
+cadeau:présent, don, donation, étrenne, gratification, pourboire, souvenir, largesse 
+cadre:bordure, encadrement, limite, châssis, bâti, décor, entourage, milieu 
+café:jus, bistrot, buvette, taverne, bar, brasserie, mastroquet, troquet 
+cahier:classeur, album 
+caillou:pierre, galet, rocher, projectile, crâne, tête, figure 
+cale:soute, étai, étançon, soutien, support, coin, cal 
+calendrier:almanach, éphéméride, annuaire, agenda 
+camarade:compagnon, ami, copain, collègue, condisciple, confrère 
+cambriolage:vol, attaque, hold-up 
+cambrioleur:voleur, casseur 
+camion:véhicule, fardier 
+campagne:nature, expédition, entreprise, opération, polémique, guerre 
+camping:camp, campement, bivouac 
+caméra:appareil 
+canal:chenal, conduit, aqueduc, caniveau, chéneau, égout, gargouille, gouttière 
+canapé:divan, sofa 
+canard:journal, bruit, bobard 
+candide:ingénu, innocent, naïf, niais, crédule, franc, sincère, simple 
+canular:mystification, blague, farce, plaisanterie 
+capacité:contenance, volume, mesure, cubage, épaisseur, grosseur, profondeur, tonnage 
+caprice:humeur, accès, boutade, comédie, extravagance, fantaisie, folie, frasque 
+caractère:lettre, signe, type, chiffre, tempérament, personnalité, individualité, nature 
+caractéristique:typique, particulier, déterminant, personnel, particularité, caractère, indice, marque 
+caravane:voiture, roulotte 
+cargo:bateau 
+carnaval:déguisement, mascarade, travesti, divertissement 
+carotte:ruse, artifice, ficelle, filouterie 
+carrefour:bifurcation, croisement, fourche, embranchement, rond-point, étoile 
+carrière:mine, hypogée, piste, champ, course, profession, état, situation 
+carrousel:concours, lutte, combat, assaut, joute, tournoi 
+carré:ferme, franc, simple, frais, large, case, planche, fichu 
+cartable:serviette, sac, carton 
+carte:atout, chance, plan, figuration, graphique, menu, ticket, billet 
+cascadeur:doublure 
+casier:case, compartiment, rayon 
+casque:calotte, heaume 
+casse-cou:imprudent, audacieux, sauteur, risque-tout 
+cassette:boîte, caisse, coffre, coffret 
+catastrophe:désastre, calamité, cataclysme, drame, fatalité, infortune, malheur, sinistre 
+catégoriquement:franchement, librement, nettement, carrément, fermement, hardiment 
+cauchemar:rêve, songe, délire, tourment, hallucination 
+cavalier:insolent, familier, danseur, chevalier 
+cave:creux, sous-sol, souterrain, caveau, cellier, chai, crypte, silo 
+cavité:trou, creux, abîme, anfractuosité, brèche, crevasse, fente, fosse 
+cellule:case, prison, bloc, cabane, cachot, geôle, loge, taule 
+cendre:poussière, débris, dépouille 
+cercueil:sarcophage, bière 
+certitude:persuasion, conviction, croyance, opinion, foi, évidence, affirmation, fermeté 
+cerveau:intelligence, esprit, entendement, cervelle, tête, jugement, raison 
+chagrin:triste, mélancolique, pleureur, misanthrope, mélancolie, morosité, bile, maussaderie 
+chaise:siège, fauteuil, banc, banquette, tabouret, chaire, stalle, trône 
+chalet:pavillon, villa 
+chaleur:feu, brûlure, animation, effervescence, enthousiasme, exaltation, fièvre, ardeur 
+chameau:rosse, vache 
+champignon:accélérateur 
+chandail:tricot, pull, pull-over 
+changement:amendement, correction, modification, rectification, nuance, réforme, échange, commutation 
+chanson:chant, air, musique, refrain, rengaine, baliverne, conte, flonflon 
+chantage:pression, escroquerie, extorsion, filouterie, intimidation, vol 
+chanteur:chantre, cantatrice, artiste, choriste, musicien, interprète, ménestrel, troubadour 
+chapeau:coiffure, chaperon, couvre-chef 
+char:carriole, charrette, gerbière, tombereau 
+charge:poids, faix, fardeau, obligation, responsabilité, servitude, soin, gêne 
+chariot:truc, wagon 
+charretier:cocher, voiturier, conducteur, roulier 
+chasseur:braconnier, boucanier, groom 
+chat:minet, matou 
+chaussette:bas 
+chaussure:soulier, botte, bottine, sandale, godillot, grolle, péniche, pompe 
+chemin:allée, route, rue, artère, layon, sentier, sente, marche 
+cheminée:foyer, âtre 
+chemise:vêtement, bannière, cilice, haire, limace, liquette, plastron, enveloppe 
+chenille:serpent, lézard, reptile, vers 
+cheval:poney, coursier, jument, palefroi, roussin, dada, destrier, monture 
+chevalier:paladin, preux, protecteur 
+cheveu:tif 
+cheville:âme, centre, pivot 
+chien:avare, toutou, cabot 
+chiffon:loque, guenille, haillon, lambeau, oripeau 
+chiffre:numéro, signe, cachet, indice, monogramme, sceau, total, montant 
+chirurgie:opération, intervention 
+choc:coup, heurt, percussion, secousse, commotion, battement, achoppement, collision 
+chocolat:châtain, bistre, brun, marron 
+choix:adoption, élection, option, triage, décision, résolution, nomination, désignation 
+chose:machin, bidule, truc, bagatelle, babiole, gaudriole, réalité, fait 
+chou:ange, coeur 
+chuchotement:murmure, bourdonnement, chuchoterie, susurrement 
+chut:silence 
+chute:culbute, glissade, trébuchement, cabriole, cascade, cataracte, saut, décadence 
+chèvre:bique, grue 
+cible:but, objectif, objet, visée, mire 
+cicatrice:trace, marque, stigmate, blessure, balafre 
+ciel:atmosphère, air, éther, espace, firmament, horizon, paradis, olympe 
+cinglé:fou 
+circonscription:contrée, territoire, zone, pays, province, terre, région 
+circulaire:rond, orbiculaire, giratoire 
+ciseau:gouge, pointe, burin, grattoir, onglier 
+citoyen:citadin, bourgeois, habitant, électeur, individu, type 
+citron:jaune, limon, tête 
+citrouille:crâne, boule, caboche, cafetière, carafe, carafon, cassis, citron 
+civière:brancard, bard 
+classe:catégorie, clan, couche, division, caste, groupe, ordre, série 
+cliché:photographie, image, négatif, banalité, redite, poncif, phrase 
+client:acheteur, acquéreur, preneur, consommateur, importateur, chaland, pratique, fidèle 
+clochard:vagabond, mendiant 
+cloche:clochette, carillon, sonnette, beffroi, bourdon, campanile, grelot, timbre 
+cloque:ampoule, bulle 
+clou:pointe, furoncle, abcès, automobile, bagnole, guimbarde, bicyclette 
+clé:principal, passe-partout, solution, explication, introduction, prise, condition 
+coche:entaille, coupure, encoche, diligence, omnibus 
+cochon:malpropre, paillard, porc, pourceau, verrat 
+coffre-fort:fortune, richesse, coffre 
+coffret:cassette, boîte 
+coiffure:chapeau, coiffe, bonnet, béret, couvre-chef, chevelure 
+coin:recoin, encoignure, angle, cale, renforcement, trou, endroit, quartier 
+collant:emmerdant, assommant, casse-pieds, crampon, poison, sangsue 
+collation:goûter, lunch, en-cas, conférence 
+colle:glu, poix, empois, gomme, menterie, bourde, retenue, consigne 
+collier:chaîne, ornement, carcan, cercle, rivière 
+collège:école, établissement, gymnase, lycée, institution, compagnie 
+collègue:associé, confrère 
+colombe:pigeon, palombe, ramier, tourterelle 
+colon:agriculteur, agronome, cultivateur, laboureur, fermier, métayer, planteur, colonisateur 
+colère:fureur, irritation, mécontentement, rage, révolte, courroux, emportement, exaspération 
+combat:bataille, conflit, engagement, escarmouche, mêlée, rencontre, approche, assaut 
+combattant:rival, adversaire, assaillant, belligérant, antagoniste, soldat, guerrier, jouteur 
+combinaison:assemblage, union, composition, organisation, amalgame, mélange, mixtion, cotte 
+comble:plein, rempli, complet, sommet, cime, couronnement, mansarde, pinacle 
+comme:quand, presque, comment, que 
+commerce:négoce, trafic, échange, débit, mercantilisme, vente, fonds, relation 
+commode:pratique, possible, simple, chiffonnier, armoire 
+communauté:association, corporation, agrégation, groupement, société, généralité, identité, connexité 
+commune:municipalité, mairie, commun 
+commère:bavard, compère 
+compagnie:association, assemblée, corporation, réunion, société, troupe, unité, bande 
+compagnon:ami, camarade, copain, condisciple, associé, commensal, acolyte, époux 
+complice:affidé, associé, acolyte, compère, aide, auxiliaire, compagnon 
+complicité:accord, connivence, coopération, entente, affiliation, collusion, intelligence 
+complément:supplément, surplus, solde, suite, reste, accompagnement, accroissement, appendice 
+composant:constituant 
+compréhension:intelligence, clarté, compréhensibilité, entendement, pénétration, jugement, conception, vision 
+comptable:responsable, garant 
+compte:calcul, dénombrement, recensement, relevé, énumération, dû, facture, mémoire 
+compétence:autorité, pouvoir, attribution, ressort, talent, habileté, savoir, art 
+comédien:hypocrite, acteur, artiste, mine, cabotin, baladin, pitre, menteur 
+concert:harmonie, accord, entente, union, intelligence, sérénade, audition, récital 
+concierge:garde, gardien, portier, gérant, geôlier, guichetier, pipelet, suisse 
+conciliateur:médiateur, arbitre 
+conclusion:fin, achèvement, dénouement, épilogue, terminaison, règlement, solution, moralité 
+concordance:concomitance, conformité, correspondance, harmonie, analogie, ressemblance, similitude, symétrie 
+concordant:accordant, homologue, simultané 
+concurrent:rival, candidat, émule 
+conduite:canalisation, canal, conduit, tube, collecteur, oléoduc, pipeline, comportement 
+conflit:désaccord, opposition, discorde, conflagration, tiraillement, contestation, discussion, altercation 
+conférence:réunion, assemblée, congrès, causerie, colloque, conciliabule, conversation, dialogue 
+congé:repos, vacances, relâche, délassement, loisir, autorisation, permission, chômage 
+connexion:connexité, affinité, alliance, liaison, lien, union, analogie, cohérence 
+conseil:avis, admonestation, avertissement, indication, inspiration, instruction, leçon, recommandation 
+conseiller:inspirateur, guide, directeur, instigateur, mentor, dire 
+consommateur:acheteur, acquéreur, preneur, client, importateur, chaland, pratique 
+conséquence:conclusion, déduction, résultat, suite, corollaire, importance, gravité, effet 
+conte:fable, histoire, récit, roman, fiction, chanson, mensonge, duperie 
+contrainte:force, coercition, exigence, imposition, nécessité, obligation, violence, pression 
+contraste:opposition, antithèse, désaccord, différence, disparité, dissemblance, diversité, variété 
+contrat:accord, arrangement, compromis, convention, entente, marché, pacte, stipulation 
+contrebandier:fraudeur, falsificateur 
+controverse:discussion, altercation, conflit, contention, contestation, débat, chicane, différend 
+copain:ami, camarade, compagnon, compère 
+coquin:criminel, lâche, bandit, faquin, escroc, canaille, crapule, garnement 
+corbeau:hulotte, rapace, requin 
+corde:cordage, cordon, amarre, câble, filière, hart, pendaison, potence 
+cornichon:niais, naïf, badaud, bête, dadais, gobeur, jobard, jocrisse 
+corvée:labeur, besogne, travail, service, ouvrage, devoir, contribution 
+costume:vêtement, tenue, mise, accoutrement, affublement, ajustement, habillement, habit 
+cou:gorge, nuque, col, collerette, encolure, jabot 
+couche:pellicule, change, teinture, pointe, croûte, épaisseur, enduit, lange 
+couchette:lit, couche, matelas, litière, plumard, plume, dodo, grabat 
+coude:angle, courbe, encoignure, saillie, détour, sinus, tournant, méandre 
+couloir:corridor, dégagement, entrée, passage, vestibule, galerie, conduit 
+coup:attaque, blessure, horion, marron, apostrophe, atout, bastonnade, coquart 
+coupable:responsable, tombé, interdit, grave, pécheur 
+coupe:calice, bol, hanap, compétition, coupure, césure, section, dépendance 
+coupé:barré, fiacre 
+cour:tribunal, parlement, conseil, patio, atrium 
+courant:ordinaire, commun, vulgaire, direction, évolution, mouvement, électricité, fleuve 
+courbe:cassé, courbure, cambrure, coude, galbe, méandre, sinuosité, virage 
+coureur:vadrouille, débauché, autruche, émeu 
+couronne:diadème, auréole, laurier, palme, sceptre, monarchie, souveraineté, orbite 
+courroie:lanière, bride, sangle 
+course:compétition, joute, raid, parcours, randonnée, excursion, promenade, marche 
+court:abrégé, petit, courtaud, minuscule, nain, bref, éphémère, réduit 
+coussin:polochon, traversin 
+coutume:habitude, accoutumance, manie, pratique, routine, tradition, usage, us 
+couvercle:revêtement, chape, enveloppe 
+crainte:peur, alarme, alerte, angoisse, appréhension, frayeur, inquiétude, frousse 
+crampe:contraction, tiraillement 
+crayon:croquis, dessin, ébauche, esquisse, canevas, charbon, pastel, fusain 
+crevaison:explosion, détonation, rupture, éclatement 
+cri:exclamation, clabauderie, clameur, vocifération, criaillerie, gémissement, hurlement, plainte 
+criant:voyant, évident, flagrant, manifeste, frappant 
+crible:passoire, tamis, claie, grille, sas 
+crinière:chevelure, perruque, tignasse, toison 
+crique:golfe, baie, anse, calanque 
+crise:impasse, angoisse, détresse, marasme, récession, danger, péril, risque 
+critique:sérieux, grave, glose, jugement, opinion, appréciation, avis, discussion 
+croche:croc 
+croisière:tournée, tour, excursion, promenade, expédition, navigation, exode, voyage 
+croissance:augmentation, agrandissement, accroissement, crue, développement, progrès, progression 
+croissant:grandissant, progressif 
+croix:crucifix, christ, épreuve, affliction, calvaire, peine, tribulation, martyre 
+croyance:foi, certitude, confiance, tradition, conviction, créance, dogme, religion 
+cruche:âne, balourd, lourdaud, bête, buse, butor, niais, mâchoire 
+crypte:caveau, cave, souterrain, hypogée, cimetière 
+crèche:auge, râtelier, berceau, maison, pièce 
+crème:pommade, élite, choix, gratin 
+crédit:influence, pouvoir, puissance, considération, empire, faveur, ascendant, autorité 
+cube:volume, masse, bloc, puissance, cubage 
+cuir:dépouille, peau 
+cuisine:popote, repas, table, bouffe, tambouille, combinaison 
+cuisinier:chef, cordon-bleu, gâte-sauce, gargotier, marmiton 
+cuisse:flanc, bassin, hanche 
+culot:aplomb, audace, toupet, effronterie, souffle, dépôt, résidu 
+culotte:pantalon, braies, short, culot 
+célèbre:fameux, glorieux, illustre, notoire, public, réputé, renommé, triomphal 
+dame:demoiselle, madame, dam 
+danse:ballet, chorégraphie, gambade, gavotte, rigodon, cancan, contredanse, entrechat 
+degré:marche, échelon, gradin, escalier, pas, échelle, niveau, classe 
+demande:désir, réclamation, réquisition, recours, requête, sollicitation, souhait, voeu 
+demandeur:postulant, réclamant, solliciteur, quémandeur 
+demeure:habitation, domicile, foyer, maison, résidence, séjour, hôtel, logement 
+demi:moitié 
+dent:molaire, croc, quenotte, canine, chicot, défense, montagne, mâchoire 
+dessin:représentation, illustration, image, plan, croquis, figuration, forme, graphique 
+dette:devoir, obligation, engagement, emprunt, passif, débet, dû, solde 
+devise:emblème, écusson, symbole, allégorie, sentence 
+devoir:travail, tâche, exercice, affaire, office, corvée, copie, obligation 
+diadème:couronne, sceptre 
+diamant:brillant, solitaire 
+dieu:déité, providence, divinité, créateur, dieu 
+diffusion:propagation, distribution, transmission, émission, épanchement, expansion, irradiation, circulation 
+digue:barrage, barrière, entrave, chaussée, embarcadère, barre, estacade, jetée 
+diligence:activité, empressement, hâte, rapidité, vélocité, vitesse, célérité, promptitude 
+diminution:abaissement, réduction, restriction, décroissance, raréfaction, remise, ristourne, bonification 
+diplomate:roué, fin, intrigant, circonspect, politique, ambassadeur, attaché, ministre 
+dire:affirmation, parole, rapport, déclaration, propos, parler, lire, penser 
+directeur:dirigeant, chef, patron, souverain, président, administrateur, confesseur, doyen 
+disparité:différence, dissemblance, hétérogénéité, diversité, inégalité, variété, disproportion, distance 
+dispositif:installation, disposition, organisation, agencement, aménagement, arrangement, plan, système 
+disposition:arrangement, distribution, groupement, installation, ordre, organisation, place, position 
+dispute:controverse, contestation, débat, désaccord, différend, explication, contention, querelle 
+disque:cercle, plaque, plateau, palet, enregistrement, gravure, disquette, musique 
+dissimulation:comédie, fausseté, feinte, fiction, affectation, hypocrisie, duplicité, grimace 
+distinction:différence, différenciation, discernement, démarcation, élégance, délicatesse, goût, décoration 
+dit:mot, propos, maxime 
+diversité:divergence, inégalité, différence, dissemblance, dissension, contraste, variété, hétérogénéité 
+division:désunion, désaccord, déchirement, discorde, disjonction, haine, inimitié, schisme 
+doigt:brin, poignée, pointe, grain, nuage, soupçon, goutte, miette 
+domination:autorité, empire, pouvoir, puissance, suprématie, tyrannie, souveraineté, absolutisme 
+dommage:triste, dégât, dégradation, détérioration, perte, tort, endommagement, ravage 
+don:tombeur 
+donjon:beffroi, clocher, tour, campanile 
+donner:offrir, remettre, accorder, gratifier, passer, présenter, procurer, administrer 
+donnée:élément, précision, renseignement, donné 
+dossier:chemise, cause 
+dot:dotation, apport, douaire 
+doublement:double 
+douleur:souffrance, tourment, peine, désolation, affliction, épreuve, gêne, mal 
+douloureux:amer, triste, mortel, piquant, violent 
+doute:indécision, incertitude, incrédulité, hésitation, indétermination, perplexité, scrupule, appréhension 
+droit:vertical, tribord, juste, sain, bon, direct, frais, raide 
+duo:paire, ensemble, double, couple, époux 
+dur:ferme, résistant, solide, raide, fort, rugueux, méchant, rude 
+dynamisme:activité, vitalité, énergie 
+débat:discussion, altercation, contestation, controverse, délibération, explication, séance, dispute 
+débutant:apprenti, novice 
+décharge:déchargement, quittance, acquit, acquittement, reçu, dispense, exemption, exonération 
+décision:délibération, jugement, résolution, décret, parti, arbitrage, verdict, ordonnance 
+déclaration:discours, manifeste, proclamation, affirmation, inscription, profession, aveu, confession 
+déclin:chute, décadence, déclinement, décours, décroissance, dépression, descente, affaissement 
+découvert:déficit, couvert 
+découverte:invention, trouvaille, exploration, reconnaissance, recherche, découvert 
+défaut:manque, carence, pénurie, privation, absence, faute, manquement, refus 
+défense:protection, fortification, résistance, aide, rescousse, secours, abri, soutien 
+défi:duel, cartel, gant, insulte, provocation, bravade 
+définition:décision, résolution, caractérisation, délimitation, détermination, fixation, volonté, dessein 
+délai:temps, terme, marge, sursis, répit, prolongation, remise, ajournement 
+délit:crime, faute, forfait, péché, infraction, contravention, manquement, lit 
+démarche:marche, course, pas, tenue, allure, air, aspect, maintien 
+démon:génie, esprit, inspiration, dieu, diable, satan 
+départ:partance, déménagement, disparition, exode, migration, abandon, début, commencement 
+département:gouvernement, cabinet, conseil, ministère, départ 
+dépendance:corrélation, interdépendance, enchaînement, liaison, solidarité, annexe, accessoire, appartenance 
+dépense:usage, emploi, frais, débours, dépens, sacrifice, sortie, charge 
+déplacé:inconvenant, inconvenable, inopportun, malséant, malvenu, incorrect, insolent, scabreux 
+dépliant:pliant 
+dérive:chemin, destination, route, itinéraire, voie, gouvernail, direction, rive 
+désavantage:inconvénient, incommodité, infériorité, handicap, perte, préjudice, dessous, avantage 
+désert:sauvage, seul, solitaire, vide, isolé, pampa, savane, solitude 
+désir:envie, ambition, appétit, souhait, tentation, voeu, volonté, attirance 
+désordre:désorganisation, perturbation, dérangement, embrouillement, bouleversement, complication, fouillis, confusion 
+déséquilibre:dérangement, désordre, désorganisation, dérèglement, trouble, perturbation, désarroi, agitation 
+détaillant:commerçant, boutiquier, marchand, débitant, vendeur 
+détective:agent, commissaire, policier, limier 
+détérioration:altération, dégradation, endommagement, ruine, avarie, dégât, abaissement, baisse 
+déversement:sortie, dégorgement, écoulement, expulsion, rejet, évacuation, issue, crachement 
+déversoir:versoir 
+ecchymose:tache, contusion, meurtrissure, bleu 
+effectif:réel, positif 
+effervescence:échauffement, ébullition, bouillonnement, animation, agitation, émotion, emportement, exaltation 
+effet:conséquence, influence, impact, empire, emprise, résultat, suite, portée 
+emballage:caisse, carton, conditionnement, sac, sachet, container, empaquetage 
+emballement:enthousiasme, fougue, mouvement, toquade 
+embardée:déviation, écart 
+emblème:devise, image, signe, symbole, attribut, décoration, hiéroglyphe, écusson 
+emplacement:lieu, position, situation, place, endroit, étendue, placement 
+emploi:usage, utilisation, destination, maniement, dépense, travail, situation, fonction 
+employé:salarié, agent, commis, fonctionnaire, garde, travailleur, bureaucrate, expéditionnaire 
+empoté:maladroit, lambin 
+enceinte:rempart, mur, contour, enclos, circonférence, circuit, périmètre, tour 
+encyclopédie:dictionnaire, glossaire, lexique, répertoire, vocabulaire 
+enfant:jeune, gamin, gosse, adolescent, bambin, bébé, môme, chérubin 
+enfer:supplice, douleur, souffrance, géhenne, fer 
+engagement:garantie, signature, combat, pacte, traité, contrat, convention, lien 
+engouement:enthousiasme, entichement, infatuation, ravissement, toquade, admiration, emballement, mode 
+enlèvement:kidnapping, rapt 
+ennemi:antagoniste, contraire, nuisible, méchant, adversaire, combattant, belligérant 
+enregistrement:immatriculation, prise, disque 
+enseignant:instituteur, professeur 
+enseignement:éducation, instruction, pédagogie, école, leçon, doctrine, morale, conclusion 
+ensemble:totalité, tout, généralité, masse, total, monde, gens, groupe 
+entaille:coche, encoche, rainure, rayure, cran, incision, coupure, estafilade 
+entendre:ouïr, écouter, comprendre, concevoir, discerner, distinguer, percevoir, saisir 
+entité:essence, existence, être 
+entorse:altération, exception, torse 
+entreprise:opération, plan, projet, action, ouvrage, expédition, oeuvre, aventure 
+enveloppe:étui, fourreau, emballage, gaine, housse, sac, chape, chemise 
+envie:désir, souhait, volonté, goût, ambition, appétence, besoin, tentation 
+envoi:expédition, dédicace, message, colis, échange 
+erreur:malentendu, confusion, méprise, quiproquo, faute, contresens, faiblesse, lapsus 
+escale:halte, arrêt, relâche, étape, port 
+escalier:degré, échelle, perron 
+escapade:fugue, évasion, sortie, bordée, fredaine 
+escargot:colimaçon, limaçon 
+escarpement:escarpe 
+esclave:prisonnier, captif, serf, ilote, jouet, pantin, chose 
+escroc:malfaiteur, filou, voleur, larron, pirate, tripoteur, coquin, écornifleur 
+escroquerie:chantage, attrape, filouterie, friponnerie, fraude, vol 
+espion:rapporteur, mouchard, délateur, émissaire, indicateur, cafard, dénonciateur, affidé 
+esprit:intelligence, génie, intellect, raison, talent, boule, cerveau, création 
+espèce:sorte, genre, nature, qualité, race, classe, groupe, variété 
+essai:test, expérience, expérimentation, tentative, vérification, épreuve, entreprise, traité 
+est:orient, levant 
+estimation:évaluation, estime, appréciation, approximation, jugement, calcul, avis, expertise 
+estomac:ventre, aplomb 
+estuaire:embouchure, golfe 
+exacerber:exciter, exaspérer, irriter 
+exactitude:ponctualité, justesse, précision, régularité, rigueur, minutie, assiduité, soin 
+examen:étude, analyse, consultation, observation, contrôle, délibération, inspection, exploration 
+excentrique:étrange, anormal, bizarre, original, singulier, périphérique 
+exception:anomalie, irrégularité, singularité, particularité, phénomène, restriction, réserve, dérogation 
+excitation:exaltation, agitation, animation, ébullition, surexcitation, enthousiasme, énervement, fièvre 
+excuse:pardon, regret, prétexte, échappatoire, faux-fuyant, défaite, raison, explication 
+exemple:modèle, image, règle, type, idéal, exemplaire, chemin, leçon 
+exercice:pratique, travail, apprentissage, application, expérience, habitude, manoeuvre, marche 
+expert:bon, savant, connaisseur, spécialiste, maître 
+exploit:assignation, copie, notification, acte, citation, prouesse, performance, record 
+exposition:explication, développement, narration, préambule, présentation, récit, étalage, exhibition 
+expédition:activité, exécution, achèvement, diligence, promptitude, voyage, entreprise, campagne 
+expérience:essai, expérimentation, tentative, test, épreuve, connaissance, observation, acquis 
+extrait:résumé, raccourci, sommaire, abrégé, analyse, citation, manuel, précis 
+extraordinaire:particulier, anormal, fort, merveilleux, extra, sensationnel, sublime, superlatif 
+extérieur:étranger, dehors, apparence, aspect, air, façade, attitude, surface 
+fable:moralité, apologue, légende, parabole, allégorie, allusion, conte, anecdote 
+fabricant:industriel, manufacturier 
+fabrication:création, invention, production, composition, confection 
+facile:commode, faisable, abordable, accessible, possible, praticable, réalisable, simple 
+facture:manière, style, technique, exécution, caractère, travail, compte, état 
+fade:terne, plat 
+fagot:bourrée, fascine, javelle, margotin 
+faible:débile, malingre, délicat, asthénique, infirme, mourant, rachitique, anémique 
+faim:appétit, appétence, besoin, désir, envie, soif, boulimie, fringale 
+faisceau:bouquet, jet 
+fait:accompli, achevé, bâti, acte, action, exploit, événement, cas 
+familier:ordinaire, coutumier, simple, grossier, cavalier, liant 
+famine:faim, misère, disette 
+fanfare:musique, fracas, éclat 
+fanion:drapeau, étendard 
+farceur:plaisantin, baladin, clown, histrion, turlupin 
+fardeau:charge, poids, faix, joug 
+fastidieux:agaçant, assommant, dégoûtant, importun, lassant, déplaisant, énervant, ennuyeux 
+faucon:pèlerin 
+fauteuil:siège, place 
+fauteur:excitateur, instigateur, appui 
+faveur:privilège, avantage, crédit, honneur, pouvoir, service, estime, popularité 
+femme:compagne, personne 
+ferme:dur, résistant, audacieux, courageux, assuré, droit, carré, philosophe 
+feu:défunt, incendie, embrasement, combustion, brasier, flambée, sinistre, famille 
+feuille:verdure, feuillage, bouture, bouton, pousse, page, journal, gazette 
+fidèle:dévot, religieux, solide, orthodoxe, adorateur, croyant, prosélyte, ouaille 
+fil:suite, cours, enchaînement, téléphone, bigophone, lame, tranchant 
+filet:réseau, résille, nasse, épervier, filoche, piège, rets, embûche 
+filière:corde, ficelle, cordage, hiérarchie 
+fille:fillette, demoiselle, fil 
+film:bande, pellicule 
+filtre:percolateur, fontaine 
+fin:délié, grêle, menu, petit, malin, caustique, délicat, supérieur 
+fièvre:température, agitation, excitation, fébrilité, fougue, passion, chaleur, folie 
+flagrant:certain, constant, évident, incontestable, patent, criant 
+flamme:lueur, lumière, éclat, clarté, feu, passion, zèle, amour 
+fleur:beauté, éclat, lustre, élite, choix, meilleur, crème, ornement 
+flopée:quantité, cortège, ribambelle, kyrielle, tapée 
+floraison:épanouissement, éclosion 
+flotte:eau, pluie, escadre, marine, flot 
+flèche:projectile, trait, carreau, dard, lardon, fléchette 
+fléau:désastre, cataclysme, catastrophe, sinistre, ruine, calamité, choléra, plaie 
+fléchette:projectile, trait, carreau, dard, lardon, flèche 
+foi:fidélité, exactitude, sincérité, franchise, honnêteté, véracité, confiance, créance 
+foire:assemblée, débauche, fête, festin, kermesse, marché, vogue, halle 
+folie:démence, aliénation, délire, aberration, déraison, divagation, égarement, frénésie 
+fonction:emploi, métier, occupation, profession, office, mission, ministère, service 
+fontaine:source, ruisseau, réservoir, récipient, bassin, filtre, puits 
+formation:création, élaboration, fondation, constitution, composition, institution, organisation, production 
+forme:apparence, aspect, configuration, conformation, dehors, disposition, état, figure 
+formidable:redoutable, épouvantable, effrayant, effroyable, terrible, terrifiant, imposant, stupéfiant 
+fort:puissant, résistant, solide, costaud, grand, gros, profond, savant 
+fosse:creux, excavation, cavité, trou, fossé, gouffre, fouille, tombe 
+fossile:vieux, barbe 
+fossé:tranchée, canal, barrière, bief, distance, douve, rigole 
+fou:malade, absurde, cinglé, dingue, inconscient, ardent, amoureux, visionnaire 
+fouet:cravache, martinet, chambrière, discipline, étrivière, garcette, knout, châtiment 
+fouille:fosse, ouverture, mine, puits, inspection, examen, perquisition, visite 
+foulard:écharpe, fichu, cache-col 
+foule:cohue, affluence, monde, multitude, bousculade, attroupement, régiment, troupeau 
+four:chaufour, fournil, échec, insuccès, désastre, chute 
+fournisseur:pourvoyeur, ravitailleur 
+fourrure:pelleterie, poil, pelisse, pelage, toison 
+fragile:frêle, débile, délicat, faible, sensible, chétif, malingre, cassant 
+fraise:collerette, collet, encolure, col, cou, détroit, frais, frai 
+frange:bord, marge 
+fraude:tromperie, escroquerie, fourberie, improbité, tricherie, supercherie, contrebande 
+frein:limite, digue, bride, opposition 
+fret:louage, affrètement, charge, cargaison 
+fringant:vif, alerte, pétulant, agile, sautillant, guilleret, sémillant, ingambe 
+frisson:frémissement, tremblement, tressaillement, frissonnement, froissement, bruissement, émotion, effroi 
+froid:réfrigérant, rude, flegmatique, indifférent, indolent, calme, piquant, terne 
+front:face, façade, coalition, ligue, bloc, groupement, audace, impudence 
+frontière:limite, borne, lisière, confins, ligne, démarcation 
+frottement:friction 
+frère:frérot, parent, semblable, ami, compagnon, confrère, copain, camarade 
+fugitif:fuyant, évadé, réfugié, errant, incertain, instable, passager, mobile 
+fuite:fugue, évasion, débâcle, débandade, déroute, déménagement, sauve-qui-peut, subterfuge 
+fumée:exhalaison, vapeur, fumet, nuage, smog 
+fureur:rage, furie, colère, impétuosité, violence, emportement, acharnement, agitation 
+fusil:arquebuse, carabine, escopette, espingole, canardière, flingue, mousquet, tromblon 
+fusion:fonte, liquéfaction, réunion, combinaison, conciliation, mélange 
+fusée:missile, artifice 
+fée:esprit, sylphe, lutin, elfe 
+fétiche:amulette, idole, talisman, porte-bonheur, mascotte 
+gabardine:imper, imperméable 
+gaffe:erreur, faute, aberration, absurdité, baliverne, blague, bourde, bourdon, bévue, bêtise, idiotie, imbécillité, impair, maladresse, mécompte, méprise, sottise, stupidité, égarement 
+gage:foi, garant, garantie, caution, arrhes, cautionnement, chemise, confiance, consignation, croyance, créance, crédit, dédit, dépôt, entrepôt, mante, nantissement, opinion, otage, acompte, plaid, preuve,
+gain:acquisition, acquêt, aubaine, avantage, bien, bonheur, butin, bénéfice, dividende, dotation, enrichissement, excédent, fortune, fruit, héritage, intérêt, issue, production, profit, prospérité, rapport, regain, rendement, rentabilité, rente, retour, revenu, récolte, triomphe, victoire, émolument 
+galerie:allée, cave, colonnade, corridor, couloir, cours, hall, narthex, passage, salle, souterrain, tunnel 
+gamme:échelle, éventail 
+gant:mitaine, moufle 
+gardien:argus, cerbère, concierge, conservateur, factionnaire, garde, geôlier, guetteur, guichetier, guide, inspecteur, porte-clefs, portier, protecteur, sentinelle, supérieur, surveillant, veilleur 
+gauche:balourd, butor, bête, lourdaud, lâche, maladroit, pataud, sot, âne 
+gaz:air, bouquet, brouillard, brume, exhalaison, fumée, nuage, odeur, parfum, senteur, vapeur, émanation 
+gazon:herbage, herbe, pelouse, prairie, pré, pâture, verdure, végétation 
+gestion:accompagnement, administration, bureaucratie, conduite, conseil, consultation, direction, gouvernail, gouvernement, gérance, intendance, management, maniement, manutention, organisation, pilotage
+gestionnaire:administrateur, chef, directeur, dirigeant, gérant, manager, organisateur, responsable 
+gifle:affront, bourrade, camouflet, claque, coup, outrage, soufflet, taloche, tape 
+gitan:bohémien, nomade, romanichel, tzigane, vagabond 
+globe-trotter:aventurier, explorateur, navigateur, nomade, passager, promeneur, représentant, touriste, voyageur 
+gobelet:verre, tasse, amphore, coupe, flûte, glace, godet, pot, réceptacle, récipient, timbale, urne, vaisseau, vase 
+gomme:bourde, colle, empois, glu, poix, effaceur 
+gorille:singe, chimpanzé, clown, grimacier, orang-outan, ouistiti 
+gouffre:abysse, abîme, brèche, cavité, creux, crevasse, fosse, fossé, fouille, précipice, puits, savant, tombe, trou 
+grand:adulte, ancien, majeur, noble, patricien, savant 
+grand-mère:bonne-maman, mère, mère-grand, mémère, mémé 
+grange:grenier, pailler, silo 
+gratte-ciel:building, immeuble, résidence, tour, édifice 
+gravure:estampe, figure, gloire, illustration, image, impression, photographie, planche, plaque, plateau, rayon, tableau, tirage, édition, épreuve 
+grenier:chambre, comble, débarras, déblai, grange, mansarde, pailler, remise, silo 
+grief:accusation, affectation, allégation, attaque, calomnie, charge, diffamation, dommage, dénigrement, détriment, erreur, faute, imputation, incrimination, inculpation, injustice, mal, médisance, plainte, préjudice, tort 
+griffe:agrafe, claque, collant, coup, crampon, crochet, forcerie, gifle, grappin, habileté, harpon, main, ongle, parafe, paraphe, patte, sceau,, serre; marque, signature 
+grille:barrage, barricade, barrière, claie, clôture, crible, enceinte, enclos, fermeture, grillage, passoire, porte, sas, tamis, tampon, vantail, volet 
+grimace:bouderie, moue, physionomie, rictus, simagrée, sourire, spasme 
+grondement:bourdonnement, bruissement, bruit, chuchotement, foudre, frémissement, gazouillement, marmonnement, murmure, tonnerre, vacarme, éclat 
+grossiste:boutiquier, commerçant, débitant, détaillant, marchand, margoulin, mercanti, négociant, trafiquant 
+grotte:abri, antre, cachette, caverne, creux, excavation, faille, fente, fosse, gîte, nid, repaire, retraite, tanière, terrier, tranchée, trou 
+groupe:bande, gang, rassemblement, troupeau, foule; secte, organisation, clan 
+grève:arrêt, arène, berge, bord, cessation, côte, discontinuation, falun, grain, gravier, interruption, limon, panne, pause, plage, poussière, relâche, repos, rivage, rive, sable, suspension, terminaison 
+guide:accompagnateur, acolyte, aviateur, berger, cicérone, gardien, mentor, pasteur, pilote, timonier, vacher, éclaireur 
+gymnase:académie, bahut, bazar, boîte, collège, compagnie, faculté, institut, institution, lycée, société, école, établissement 
+géant:colosse, cyclope, goinfre, goulu, génie, hercule, homme, héros, mastodonte, ogre, surhomme, titan 
+gémissement:chagrin, clabauderie, clameur, complainte, cri, criaillerie, doléance, exclamation, hurlement, jérémiade, lamentation, larme, litanie, plainte, pleur, sanglot, soupir, vocifération 
+génération:accouchement, conception, copulation, coït, création, enfantement, fabrication, formation, fécondation, grossesse, généalogie, maternité, multiplication, naissance, procréation, production, prolifération, reproduction, éclosion, émission 
+généreux:charitable, compatissant, grand, large, indulgent, magnanime, munificent 
+habile:adroit, alerte, capable, dispos, expérimenté, industrieux, diplomate, politique 
+habilement:adroitement, finement, intelligemment, savamment, subtilement, promptement, prestement, vivement 
+habitant:bourgeois, citadin, citoyen, âme, occupant, faune 
+habitude:coutume, mode, moeurs, usage, tradition, accoutumance, règle, us 
+habituer:exercer, accoutumer, adapter, familiariser, naturaliser, rompre, façonner, acclimater 
+habitué:formé, dressé, fait, familier 
+halte:arrêt, pause, station, étape, gîte, escale, répit, interruption 
+hangar:abri, entrepôt, remise, dock, appentis 
+haut:grand, supérieur, levé, ancien, fort, puissant, dominateur, noble 
+hauteur:altitude, élévation, montagne, colline, supériorité, éminence, grandeur, sommité 
+herbe:graminée, verdure, gazon, pelouse, épice, pré, prairie, pâture 
+hermétisme:spiritisme, magie, divination, occultisme, alchimie 
+heure:moment, instant, temps, époque, tour 
+heureux:bon, serein, original, juste, content, joyeux, aise, bienheureux 
+hirondelle:vache 
+histoire:récit, anecdote, épisode, narration, légende, mensonge, blague, comédie 
+historien:chroniqueur, annaliste, historiographe 
+hiver:arrière-saison, froid, vieillesse, déclin 
+hold-up:vol, attaque, cambriolage 
+holocauste:renoncement, sacrifice, immolation 
+hommage:respect, déférence, gloire, soumission, culte, vénération, don, dédicace 
+homme:bonhomme, gars, mâle, type, loustic, adolescent, pistolet, mari 
+honte:déshonneur, humiliation, infamie, opprobre, turpitude, bassesse, abjection, discrédit 
+horloge:pendule, coucou 
+horreur:abjection, atrocité, infamie, ignominie, laideur, effroi, haine, aversion 
+houle:flot, onde, vague, lame, ressac 
+huile:graisse, pétrole, essence, fuel, mazout, gas-oil, chrême, extrême-onction 
+hybride:métis, mulâtre 
+hymne:cantique, chant, louange, poème, psaume 
+hypothèque:créance, gage, sûreté, nantissement 
+hébergement:habitat, cantonnement, casernement, logement, installation, séjour, studio 
+hélice:spirale, rouleau, torsade 
+idée:aperçu, ébauche, esquisse, image, représentation, vision, échantillon, vue 
+ignominieux:abject, honteux, ignoble, indigne, infâme, méprisable, odieux, vil 
+image:reproduction, cliché, dessin, épreuve, esquisse, figure, illustration, métaphore 
+imaginaire:irréel, idéal, fantastique, légendaire, merveilleux, faux 
+impasse:cul-de-sac, crise 
+imperméable:étanche, imper, gabardine 
+important:capital, considérable, essentiel, grand, grave, principal, remarquable, saillant 
+imposture:fausseté, mensonge, tromperie, hypocrisie, illusion 
+impulsion:élan, excitation, incitation, direction, essor, mobile, animation, entraînement 
+incendie:feu, brasier, embrasement, sinistre 
+incitation:exhortation, appel, encouragement, instigation, conseil, excitation, invitation, provocation 
+inclinaison:angle, obliquité, pente, penchant, rampe, dévoiement, descente, déclivité 
+incliné:rampant, oblique, tombant 
+inconvénient:défaut, danger, obstacle, risque, empêchement, objection, incommodité, déplaisir 
+individu:personne, être, homme, type, personnage, particulier, mec, quidam 
+industrie:dextérité, adresse, art, entregent, habileté, savoir-faire, intelligence, invention 
+industriel:fabricant, entrepreneur, usinier, manufacturier 
+indépendant:affranchi, autonome, seul, non-conformiste 
+infatigable:résistant, increvable, inlassable, robuste, fort, zélé 
+infirmier:garde-malade, ambulancier, brancardier 
+influence:domination, importance, empire, emprise, ascendant, crédit, appui, pouvoir 
+infusion:décoction, macération, tisane 
+inondation:submersion, débordement, déluge, invasion 
+inquiet:anxieux, soucieux, troublé, perplexe, impatient, insatisfait, fiévreux, pessimiste 
+insecte:mouche, moucheron 
+installation:intronisation, nomination, camp, campement, logement, poste, appartement, aménagement 
+instant:instantané, rapide, moment, minute, seconde, point 
+instructeur:éducateur, professeur, moniteur 
+intellectuel:moral, clerc, mandarin 
+interdiction:prohibition, opposition, veto, défense, embargo, suspension, retrait 
+interprète:porte-parole, intermédiaire, commentateur, exégète, traducteur, drogman, truchement, artiste 
+intervalle:espace, intermède, intermittence, moment, pause, entracte, interstice, écart 
+intéressant:curieux, beau, original, piquant, plaisant 
+intérimaire:remplaçant, suppléant 
+inventeur:créateur, innovateur, novateur, auteur, fabricateur 
+invitation:faire-part, prière, appel, sollicitation, convocation, incitation, avertissement, exhortation 
+invité:commensal, convive, hôte 
+ironie:humour, persiflage, dérision, raillerie, sarcasme, moquerie, plaisanterie, risée 
+irrésistible:irrépressible, impérieux, implacable, incoercible, indomptable, invincible, fort, concluant 
+isolation:isolement 
+itinéraire:parcours, circuit, route, passage, chemin, direction 
+jabot:col, collerette, encolure, cou 
+jambage:montant, portant 
+jambe:patte, gigot, quille, échasse, flûte, pilon 
+jaune:blond, doré, citron, orange, orangé, fauve, safran, timide 
+jeu:plaisanterie, tromperie, calembour, badinage, liberté, marge, réjouissance, amusement 
+jeune:jeunet, jeunot, jouvenceau, vert, mineur, naïf, virginal, vierge 
+joint:attaché, fonction, attache, articulation, commissure 
+jointure:commissure, articulation, attache, liaison 
+jonction:rencontre, raccord, articulation, commissure, union, liaison, réunion, assemblage 
+jonque:jonc 
+jour:journée, aurore, aube, matin, lever, naissance, existence, vie 
+journal:quotidien, gazette, hebdomadaire, magazine, revue, publication, organe, presse 
+journaliste:rédacteur, reporter, correspondant, courriériste, échotier, envoyé, chroniqueur 
+joyau:bijou, garniture, ornement, parure 
+joyeux:heureux, content, plaisant, rieur, aise, soldat 
+juge:magistrat, interrogateur, arbitre 
+jupe:cotillon, jupon 
+juste:légitime, droit, court, petit, jeune, collant, précis, rationnel 
+labeur:travail, besogne, occupation, ouvrage, peine, corvée, fatigue, production 
+laboratoire:atelier, chantier, ouvroir, boutique 
+labyrinthe:dédale, complication, enchevêtrement, méandre, imbroglio, lacis 
+lac:étang, eau, lagon, loch, chott 
+langue:idiome, dialecte, langage, parler, patois, style 
+lanière:courroie, lien 
+large:grand, bon, libéral, philanthrope, prodigue, riche, donneur, largeur 
+larme:pleur, sanglot, goutte 
+latitude:faculté, liberté, possibilité, permission, marge, climat, région, étendue 
+latte:planche, bâton, sabre, épée 
+lavage:nettoyage, lessivage, blanchissage, blanchiment, ablution, bain, purification, lavement 
+lavement:lavage 
+lecteur:liseur, pick-up 
+lecture:déchiffrage, délibération, culture, leçon 
+lettre:missive, message, pli, courrier, dépêche, épître, correspondance, bafouille 
+leurre:tromperie, duperie, embûche, piège, attrape, illusion, imposture, appât 
+levée:digue, barrière, chaussée, pli, main, révolte, enrôlement, suppression 
+liaison:relation, rapport, correspondance, affinité, connexion, connexité, jointure, fréquentation 
+liant:doux, élastique, poli 
+liasse:tas, amas 
+liberté:élargissement, affranchissement, exemption, franchise, relaxation, sursis, droit, pouvoir 
+libre:indépendant, franc, souverain, maître, aisé, autonome, désinvolte, disponible 
+libéral:large, prodigue, indépendant 
+lien:corrélation, liaison, rapport, relation, affinité, alliance, analogie, connexion 
+lieu:endroit, emplacement, place, position, poste, site, situation, voisinage 
+limace:chemise, liquette, loche 
+limier:policier, espion, détective 
+limite:frontière, lisière, confins, contour, bord, cadre, cercle, barrière 
+liste:tableau, dénombrement, énumération, inventaire, catalogue, nomenclature, répertoire, relevé 
+lit:couchette, couche, matelas, litière, plumard, plume, dodo, grabat 
+livre:ouvrage, volume, bouquin, brochure, écrit, édition, factum, libelle 
+loge:cabine, cabinet, box, cabanon, cellule, hutte, loggia, stalle 
+logement:demeure, appartement, domicile, gîte, habitation, logis, maison, résidence 
+loi:charte, arrêt, droit, législation, code, décret, édit, commandement 
+longeron:madrier, travée, poutre, montant 
+loquet:fermeture, cadenas 
+louche:bigle, trouble, suspect, oblique, amphibologique, équivoque, bizarre, cuiller 
+loup:loulou, enfant, masque 
+loyer:intérêt, prix, salaire, bail, location, fermage 
+lueur:éclair, lumière, clarté, éclat, splendeur, flamme, feu, trace 
+lumière:clarté, illumination, lueur, éclairage, rayonnement, 
+lustre:éclat, brillant, relief, splendeur, poli, fleur, fraîcheur, plafonnier 
+luxe:faste, magnificence, pompe, splendeur, superfluité, somptuosité, abondance, profusion 
+lèvre:commissure, coupe, babines, lippe, bord, bouche 
+légende:mythe, fable, conte, récit, histoire, tradition, explication 
+légume:salade, verdure 
+magasin:commerce, boutique, fonds, échoppe, supermarché, bazar, entrepôt, réserve 
+magicien:mage, enchanteur, sorcier, astrologue, devin, thaumaturge, alchimiste, charmeur 
+magnifique:munificent, superbe, solennel, généreux, imposant, large, magistral, splendide 
+maigre:grêle, pauvre, médiocre, petit 
+maille:maillon, point, discussion, dispute, contestation, mail 
+maillot:tricot, gilet, pull-over, sweater, chandail 
+main:patte, griffe, touche, gifle, claque, coup, soufflet, habileté 
+maison:chez-soi, demeure, domicile, foyer, habitation, home, résidence, asile 
+mal:tort, dommage, imperfection, insuffisance, perte, préjudice, peine, épreuve 
+maladie:affection, mal, indisposition, malaise, souffrance, syndrome, trouble, manie 
+malin:débrouillard, fin, taquin, mariol, mariolle, roublard, compliqué, sorcier 
+mallette:bagage, malle, sac, valise 
+maman:mère 
+mamelon:colline, éminence, hauteur, butte, protubérance 
+manche:idiot, imbécile, entournure, poignet, parement, revers, détroit, queue 
+manchon:bague, alliance, chevalière, virole, boucle, anneau, bride, collier 
+mandat:pouvoir, procuration, effet, charge, commission, mission, délégation, ambassade 
+manifestation:marque, phénomène, signe, symptôme, démonstration, expression, témoignage, éclosion 
+mannequin:marionnette, polichinelle, fantoche, guignol, esclave, pantin 
+manoeuvre:manipulation, machination, tripotage, combinaison, intrigue, brigue, manège, manigance 
+manque:pénurie, faute, absence, insuffisance, lacune, manquement, omission, oubli 
+manteau:pardessus, cape, caban, capote, mante, pelisse, chape, voile 
+manuel:précis, analyse, cours, extrait, livre, bréviaire 
+maquette:esquisse, ébauche, plan, étude, modèle, projet 
+marasme:crise, athrepsie, cachexie, stagnation 
+marbre:airain, pierre, fer, bronze 
+marché:halle, foire, braderie, souk, affaire, accord, contrat, convention 
+mari:conjoint, époux, homme 
+mariage:accord, assortiment, association, réunion, mélange, union, alliance, épousailles 
+marin:matelot, navigateur, marsouin, moussaillon, mousse 
+marque:signe, trait, cachet, chiffre, coche, cote, empreinte, estampille 
+marteau:fou, cinglé, maillet, picot, mailloche, boucharde, massette, besaiguë 
+marécage:marais, étang, maremme 
+mathématique:précis, automatique, logique, géométrie, algèbre, calcul, analyse 
+matin:matinée, aube, aurore, lever, point, réveil, potron-minet, commencement 
+matinée:matin, aube, aurore, lever, point, réveil, potron-minet 
+mec:type, individu 
+meilleur:supérieur, extra, fin, noble, parfait, premier, singulier, sublime 
+menace:avertissement, intimidation, danger, péril, risque 
+mensonge:contrevérité, fable, menterie, invention, tromperie, feinte, histoire, illusion 
+menteur:hypocrite, fanfaron, faux, imposteur, mythomane, comédien, trompeur 
+mer:océan, marée, large 
+message:annonce, commission, avis, communication, dépêche, correspondance, déclaration, épître 
+mesure:mensuration, mesurage, comparaison, détermination, arpentage, évaluation, pondération, proportion 
+meuble:mobile, mobilier, ameublement 
+meurtre:assassinat, crime, homicide, attentat, liquidation 
+meurtrier:destructeur, criminel, homicide, assassin, tueur, escarpe 
+midi:sud 
+mignon:gentil, délicat, doux, joli, favori, courtisan 
+milieu:centre, axe, coeur, foyer, intérieur, noyau, entre-deux, intermédiaire 
+militaire:guerrier, soldat 
+militant:sympathisant, partisan 
+milliardaire:richissime, cossu 
+millésime:an, annuité, date, année 
+minable:misérable, lamentable, pauvre, piteux, pitoyable, souffreteux, pouilleux, piètre 
+mince:fin, grêle, maigre, ténu, délié, étroit, délicat, léger 
+mineur:inférieur, jeune, ouvrier, porion, haveur, herscheur, raucheur 
+minorité:opposition, résistance, opposant 
+miroir:glace, psyché 
+mission:charge, commission, délégation, députation, pouvoir, mandat, ministère, ambassade 
+mode:vogue, fantaisie, engouement, goût, style, coutume, façon, convenance 
+modèle:parfait, bon, exemplaire, archétype, exemple, type, spécimen, formule 
+moi:individualité, caractère, personnalité, nature, originalité, être, personne, particularité 
+moindre:inférieur, cadet, dernier 
+monde:univers, cosmos, astre, macrocosme, terre, globe, planète, sphère 
+moniteur:instructeur, entraîneur 
+monnaie:pièce, argent, appoint, mitraille 
+monstre:chimère, dragon, vampire 
+montagne:mont, colline, élévation, éminence, altitude, butte, cime, faîte 
+montre:démonstration, étalage, exhibition, exposition, parade, apparat, vitrine, chronomètre 
+monture:cheval, assemblage, montage 
+moquerie:ironie, dérision, persiflage, plaisanterie, raillerie, risée, impertinence, lazzi 
+morceau:bout, fragment, grain, fraction, lambeau, miette, parcelle, part 
+morsure:blessure, piqûre, plaie 
+mort:défunt, décédé, trépassé, décès, disparition, trépas, fin, destruction 
+mortier:canon, obusier 
+mot:terme, locution, expression, dicton, syntagme, vocable, parole, phrase 
+moteur:machine, force, âme 
+mouche:insecte, moucheron, espion, mouchard 
+moucheron:mouche, insecte 
+moue:grimace, bouderie, lippe, mou 
+moule:forme, modèle, type, empreinte, matrice 
+mourant:agonisant, moribond, faible 
+moustique:cousin, maringouin 
+moutarde:moutard 
+mouton:agneau, bélier, brebis, espion, mouchard, délateur 
+moyen:intermédiaire, médian, modéré, médiocre, ordinaire, commun, procédé, façon 
+musique:fanfare, orchestre, clique, nouba, bruit, mélodie, murmure, harmonie 
+musée:cabinet, galerie, muséum, collection 
+mystificateur:plaisantin, fumiste, fantaisiste, amateur 
+mythe:fable, fiction, légende, allusion 
+mère:maman, mer 
+mécanicien:conducteur, chauffeur, machiniste, mécano, dépanneur, monteur 
+médecin:docteur, toubib, généraliste, praticien, thérapeute, clinicien, spécialiste 
+médiateur:négociateur, intermédiaire, conciliateur, arbitre 
+mélange:alliage, combinaison, brassage, fusion, union, association, amalgame, assemblage 
+mémoire:souvenir, commémoration, réminiscence, souvenance, mémorial, rappel, renommée, dissertation 
+mémorial:souvenir, commémoration, réminiscence, souvenance, mémoire, rappel 
+nappe:linge, étendue, surface, couche 
+natif:originaire, né, inné, naturel, indigène, aborigène, insulaire 
+natte:tresse, paillet 
+naturel:logique, franc, naïf, simple, indigène, bâtard, aborigène, autochtone 
+naufrage:sinistre, submersion, engloutissement, perdition, ruine, destruction, désastre, échec 
+navigateur:marin, matelot 
+navire:bateau, embarcation, vaisseau, bâtiment 
+neige:pluie, grêle, précipitation 
+nerf:vigueur, énergie, force 
+nervure:nerf, arête, saillie 
+nez:pif, blair, tarin, clairvoyance, flair, prévoyance 
+nid:aire, repaire 
+noir:crasseux, couvert, clandestin, triste, malheureux, méchant, pervers, obscurité 
+noix:noisette, imbécile 
+nom:signature, qualification, dénomination, appellation, désignation, titre, célébrité, réputation 
+nombre:chiffre, quantité, masse, foule, majorité, multiplicité, pluralité 
+nomination:désignation, affectation, promotion, mention 
+norme:règle, modèle, principe, loi, idéal, type, standard, canon 
+nounou:nourrice, nurse 
+nouvelle:annonce, information, récit, narration, conte, fable, roman, journal 
+noyau:milieu, centre 
+noyer:étouffer, engloutir, inonder, submerger, immerger, plonger, délayer 
+nu:chauve, vide, pauvre, misérable, simple, franc 
+nuage:nue, nuée, brouillard, trouble, soupçon, souci, brouille, brouillerie 
+nuit:obscurité, ténèbres, soir, ombre 
+numéro:chiffre, tour, phénomène, original 
+nègre:esclave, marron 
+né:natif, naissant, issu 
+nécessité:nécessaire, besoin, obligation, disette, exigence, loi, dénuement, détresse 
+objectif:neutre, scientifique, but, visée, cible, résultat, extérieur 
+obligatoire:obligé, forcé, impérieux, indispensable, inévitable, nécessaire, coercitif, fatal 
+observateur:curieux, spectateur, témoin 
+obstacle:barrage, barrière, digue, haie, mur, embarras, entrave, empêchement 
+obstruction:engorgement, embarras, obstacle, occlusion, entrave, oblitération 
+obèse:gros 
+obéissance:subordination, soumission, obédience, observance, servitude, docilité, sujétion, discipline 
+occasion:chance, aubaine, événement, circonstance, conjoncture, hasard, moment, possibilité 
+oeil:châsse, chas, quinquet, vue, regard 
+offre:présentation, ouverture, proposition, enchère 
+oignon:bulbe, échalote, racine, cor, montre 
+oiseau:volatile, individu, moineau, chevalet 
+ombre:nuit, pénombre, ténèbres, clair-obscur, contraste, demi-jour, obscurcissement, ombrage 
+opération:campagne, bataille, spéculation, affaire, calcul, accomplissement, entreprise, exécution 
+orchestre:ensemble, formation 
+ordre:plan, qualité, valeur, degré, civilisation, société, corporation, genre 
+oreille:esgourde, versoir, anse, corne, oreillard, faveur, confiance 
+organe:partie, voix, journal, membre, instrument, organisme, mécanisme, accessoire 
+organisation:constitution, disposition, structure, conformation, fonctionnement, complexion, composition, dispositif 
+ornière:routine, fondrière 
+orphelin:seul, pupille 
+oubli:défaillance, inadvertance, lacune, manque, absence, trou, amnésie, ombre 
+oui:parfait, si 
+ouragan:cyclone, tempête, tornade, tourmente, vent, bourrasque, orage, rafale 
+outil:instrument, appareil, engin, machine, ustensile, outillage, matériel 
+ouvrier:prolétaire, travailleur, manoeuvre, salarié, journalier, artisan, artiste 
+ovale:ovoïde, ellipse 
+pacte:convention, traité, marché, accord, alliance, contrat 
+paillard:polisson, libertin, débauché, grivois, sybarite, cochon, jouisseur, fêtard 
+pain:baguette, flûte 
+palefrenier:valet, cocher, rustre 
+palmier:palme 
+panier:cabas, corbeille, bourriche, hotte, paneton, crinoline 
+panne:arrêt, interruption, débine, dèche, purée, pan 
+pantalon:culotte 
+pantoufle:chausson, savate, babouche, mule 
+papa:père, vieux, paternel 
+paquet:bagage, colis, ballot, balluchon, sachet, liasse 
+paragraphe:division, chapitre, passage, subdivision, alinéa 
+parapluie:pépin 
+parc:pâtis, clôture, bergerie, parcage, parking, garage, jardin, square 
+parcelle:fragment, fraction, division, lambeau, morceau, lopin, détail, paillette 
+pare-brise:carreau, verre, glace, vitrine, vitre 
+parent:allié, semblable, descendant, famille, ascendant, géniteur, proche, mère 
+paresseux:fainéant, flemmard, inactif, flâneur, cossard, musard, cancre, tire-au-flanc 
+parfum:senteur, odeur, arôme, bouquet, effluve, exhalaison, fumet, essence 
+pari:enjeu, mise, gageure 
+paria:ilote 
+parodie:caricature, imitation, pastiche, travestissement, contrefaçon, charge 
+paroi:cloison, mur, muraille, séparation 
+part:lot, division, partage, morceau, portion, coopération, concours, partie 
+parti:absent, groupe, clan, association, mouvement, rassemblement, union, corps 
+particulier:personnel, original, caractéristique, singulier, bizarre, extraordinaire, précis, individu 
+partie:fragment, fraction, élément, morceau, part, parcelle, pièce, segment 
+passage:chemin, endroit, allée, défilé, parcours, corridor, couloir, dégagement 
+passager:court, discontinu, éphémère, provisoire, passant, voyageur 
+passerelle:passage, pont, passereau 
+passé:antique, vécu 
+patin:ski, semelle 
+patte:jambe, membre, pied, patoche, main 
+pause:silence, mi-temps, entracte, arrêt, interruption, intervalle, repos, relâche 
+pavillon:kiosque, belvédère, rotonde, chalet, maisonnette, cottage, villa, drapeau 
+paysan:rustique, campagnard, terrien, villageois, agriculteur, cultivateur, fermier, rustre 
+peine:chagrin, affliction, douleur, détresse, amertume, déchirement, désolation, malheur 
+peinture:tableau, toile, barbouillage, gribouillage, laque, description, image, portrait 
+penchant:goût, impulsion, inclination, propension, affection, amour, aptitude, disposition 
+pensionnaire:interne, hôte, pensionné 
+pensée:esprit, intelligence, raison, entendement, conscience, maxime, proverbe, adage 
+pente:déclivité, descente, inclinaison, versant, côte, inclination, tendance, propension 
+perron:degré, échelle, escalier 
+perroquet:macareux 
+personnalité:individualité, caractère, moi, nature, originalité, être, personne, particularité 
+personne:individu, personnage, créature, être, mortel, humain, personnalité, sujet 
+personnel:original, intime, particulier, égoïste, main-doeuvre, domesticité, salarié 
+perte:mort, dommage, déficit, dégât, gaspillage, gâchage, anéantissement, ruine 
+petit:minuscule, maigre, menu, court, fin, nabot, nain, réduit 
+peu:rarement, sobrement, faiblement, mal, modérément 
+photographie:illustration, image, photo, cliché, diapositive, épreuve, portrait, reproduction 
+phrase:style, proposition, propos, période 
+phénomène:fait, excentrique, original, monstre, merveille, miracle, rareté, exception 
+pic:montagne, pointe, sommet, cime, crête, aspérité, pioche, pivert 
+pied:paturon, peton, pince, pinceau, panard, patte, savate, syllabe 
+pile:précis, pilier, générateur, tas, amas, amoncellement, entassement, monceau 
+pilote:nautonier, batelier, lamaneur, nocher, timonier, aviateur, guide, conducteur 
+pilule:comprimé, globule, granulé, grain, granule, contraceptif 
+piment:assaisonnement, saveur, sel 
+pince:tenaille, pied, main, pli 
+pioche:pic 
+pionnier:défricheur, colon, explorateur, sapeur, bâtisseur, créateur, promoteur 
+pipe:bouffarde, brûle-gueule, calumet, cigarette, pipe-line 
+piscine:bassin, thermes 
+piste:foulée, trace, signe, chemin, voie, carrière, arène, cirque 
+pistolet:revolver, browning, parabellum, pulvérisation, homme, type 
+pivot:palier, crapaudine, soutien, tourillon, appui, axe, base, centre 
+piège:attrape, filet, chausse-trape, collet, lacet, ratière, souricière, gluau 
+piétinement:lenteur, ralentissement, retard 
+placard:pancarte, affiche, écriteau, armoire 
+place:endroit, emplacement, espace, position, lieu, disposition, terrain, fauteuil 
+plage:bord, rive, grève 
+plaidoyer:discours, apologie, défense, éloge, justification, plaid, plaidoirie 
+plaie:lésion, déchirure, écorchure, blessure, brûlure, coupure, incision, entaille 
+plaisir:bien-être, bonheur, béatitude, contentement, délectation, euphorie, félicité, satisfaction 
+plan:plat, uni, ordre, importance, ressource, domaine, surface, projet 
+plante:végétal, être, plant, plan 
+plaque:plaquette, lame, disque, plateau 
+plaquette:plaque, livre 
+plat:plain, uni, uniforme, plan, raide, flatteur, fade, médiocre 
+plate:plat 
+plate-forme:terrasse, terrassement, programme, base, plateau, wagon 
+plateau:causse, plate-forme, wagon, support, assiette, plat, disque, plaque 
+plein:rempli, comble, complet, pourri, potelé, massif, total, tout 
+pli:fronce, repli, ride, plissement, ondulation, levée, habitude, lettre 
+pluie:précipitation, averse, flotte, ondée, bruine, crachin, giboulée, grain 
+plume:plumage, plumet, aigrette, panache, style, stylo 
+pneu:dépêche, pneumatique 
+poignée:quantité, abondance, espagnolette, crémone 
+point:article, chapitre, question, propos, sujet, matière, partie, division 
+pointage:contrôle, examen, expertise, vérification, apurement, contre-épreuve, règlement, récolement 
+pointe:extrémité, bout, cap, cime, crête, pic, pique, point 
+pointeur:soldat, canonnier, munitionnaire, artilleur 
+poire:sot, imbécile, naïf, face, figure 
+policier:flic, poulet, roussin, bourre, agent, commissaire, détective, limier 
+politique:diplomate, diplomatique, tactique, fin 
+pomme:figure, visage, face 
+poney:cheval, coursier, jument, palefroi, roussin, dada, destrier, monture 
+pont:passerelle, aqueduc, viaduc, ponceau 
+porc:cochon, porcelet, goret, verrat, pourceau, sanglier, truie 
+porcelet:porc, goret 
+port:rade, débarcadère, escale, destination, abri, refuge, havre, aspect 
+porte:ouverture, porche, portail, portière, portique, huis, fermeture, entrée 
+porte-parole:interprète, leader 
+portefeuille:bourse, porte-monnaie, escarcelle 
+portier:concierge, gardien, cerbère, huissier 
+poseur:prétentieux, affecté, pédant, fat 
+poste:récepteur, radio, télé, télévision, appareil, lieu, place, situation 
+pouce:pied, toise 
+poule:poularde, poulet, poulette, femelle, enjeu, mise, groupe, catégorie 
+poulet:coquelet, chapon, poularde, poule, lettre 
+poupe:postérieur, derrière, dos, arrière 
+poupée:femme, bamboche, pantin, pépée, figurine 
+pourcentage:intérêt, taxe, taux 
+pourriture:décomposition, infection, gangrène, corruption, crapule, saleté, charogne 
+poussière:poudre, pollen, poussier, sable, cendre, débris, dépouille, rien 
+poussoir:commutateur, bouton 
+pouvoir:faculté, capacité, habileté, compétence, don, possibilité, influence, crédit 
+poème:poésie, ballade, élégie, épigramme, fable, hymne, ode 
+prairie:champ, pâturage, pré, herbage, pacage 
+pratique:utilitaire, efficace, commode, possible, usage, tradition, routine, mode 
+premier:nouveau, original, prime, petit, gagnant, supérieur, principal, meilleur 
+prescription:ordre, ordonnance, commandement, conseil, injonction, instruction, loi, précepte 
+pression:influence, contrainte, chantage, serrement, étreinte, poids 
+pressé:pressant, urgent, impatient, empressé, précoce, diligent, rapide, vite 
+prestation:obligation, redevance, contribution, allocation, aide, impôt, tribut 
+preuve:démonstration, justification, motif, raison, argument, confirmation, conviction, fondement 
+prime:premier, redevance, somme, supplément, récompense, avantage, cadeau, gratification 
+principal:fondamental, capital, déterminant, clef, fond, directeur 
+priorité:aînesse, avantage, primauté 
+prison:cellule, cage, cachot, cabane, dépôt, geôle, pénitencier, taule 
+prisonnier:détenu, captif, esclave, séquestré, taulard 
+privation:absence, manque, restriction, défaut, dénuement, insuffisance, perte, sacrifice 
+privilège:faveur, avantage, concession, passe-droit, apanage, droit, exemption, monopole 
+prix:coût, cours, rémunération, rétribution, valeur, somme, tarif, taux 
+problème:difficulté, cas, question, demande, énigme, sujet 
+producteur:créateur, fabricateur 
+produit:profit, rapport, bénéfice, fruit, gain, résultat, récolte, production 
+professionnel:technique, spécialiste 
+profondeur:force, capacité, dimension, distance, hauteur, épaisseur, fond, fosse 
+programme:projet, idée, opinion, affiche, dessein, plate-forme 
+proie:butin, prise, dépouille, victime 
+projection:transfert, identification 
+projet:but, dessein, intention, plan, programme, vue, résolution, pensée 
+promenade:avenue, cours, parc, promenoir, balade, excursion, randonnée, sortie 
+promesse:engagement, parole, serment, convention, contrat, assurance, voeu, protestation 
+propriétaire:possesseur, maître 
+protagoniste:artiste, interprète, comédien, cabotin, histrion, figurant, star, vedette 
+proximité:approche, contact, rapprochement, parenté, imminence, voisinage, contiguïté 
+pré:prairie, pâturage, champ, herbage, terrain 
+précipité:rapide, instantané, dépôt, sédiment 
+précision:exactitude, ponctualité, sûreté, justesse, réalisme, rigueur, clarté, netteté 
+précédent:antérieur, préalable, devancier, précurseur, exemple 
+prédateur:voleur, brigand, écumeur, maraudeur, pillard 
+préface:introduction, préambule, prologue, avant-propos, commencement, notice, avertissement, avis 
+préoccupation:souci, tintouin, tourment, inquiétude, occupation, soin, tracas, anxiété 
+présage:signe, augure, annonce, symptôme, divination, prévision 
+présent:assistant, spectateur, auditeur, témoin, moderne, cadeau, don, gratification 
+présentation:exposition, exhibition, apparence, allure, tenue, attitude, étiquette, usage 
+préservatif:contraceptif 
+publicité:réclame, affiche, annonce, affichage 
+pull-over:pull, lainage, laine, chandail, tricot 
+pur:intact, net, candide, clair, idéal, immaculé, fin, limpide 
+puzzle:casse-tête 
+pèlerin:voyageur, faucon 
+père:papa, parent, créateur, fondateur, inventeur, directeur, religieux, ancêtre 
+pénalité:peine, châtiment, pénalisation 
+pépin:graine, béguin, caprice, complication, ennui, difficulté, parapluie 
+pépinière:plantation, plant 
+quai:débarcadère, embarcadère, trottoir 
+quantité:abondance, foule, masse, multitude, nombre, tas, avalanche, cargaison 
+quart:partie, instant, moment 
+quartier:phase, temps, partie, portion, tranche, morceau, coin, hameau 
+quasi:presque, quasiment 
+quelque:environ, si 
+querelle:désaccord, différend, chamaillerie, chicane, contestation, controverse, discussion, dispute 
+question:demande, interrogation, problème, point, affaire, matière, sujet, cause 
+quittance:acquit, décharge, récépissé, reçu 
+quotidien:journalier, périodique 
+race:sang, famille, lignée, maison, ascendance, dynastie, naissance, nation 
+racine:base, pivot, attache, radicelle, bouture, fibre, germe, origine 
+radiateur:radier 
+rafale:bourrasque, cyclone, ouragan, tempête, tourbillon, tourmente, trombe, vent 
+raideur:rigidité, engourdissement, ankylose, rigueur 
+raison:entendement, compréhension, connaissance, discernement, esprit, intelligence, jugement, lucidité 
+rame:aviron, branche, rien, train, métro 
+rampe:accoudoir, appui, balustrade, pente, inclinaison 
+rang:rangée, ligne, haie, alignement, file, front, queue, groupe 
+rangée:rang, ligne, alignement, colonnade, ranger 
+rappel:évocation, commémoration, mention, réminiscence, citation, mémoire, appel, ordre 
+rapport:procès-verbal, relation, lien, liaison, correspondance, corrélation, dépendance, proportion 
+rassemblement:attroupement, ralliement, réunion, groupe, multitude, troupeau, groupement 
+raté:mauvais, échec 
+ravisseur:kidnappeur, voleur 
+rayon:trait, rai, faisceau, lueur, irradiation, rayonnement, reflet, compartiment 
+recensement:dénombrement, inventaire, récapitulation, compte, liste, statistique, vérification 
+recherche:poursuite, perquisition, inquisition, ambition, enquête, fouille, prospection, curiosité 
+recomposition:composition 
+reconnaissance:exploration, fouille, recherche, découverte, examen, prospectus, sondage, gratitude 
+recrue:novice, bleu, conscrit, crue 
+redondance:superfluité, verbiage, inutilité, pléonasme, superfétation 
+regard:oeillade, contrôle, examen, vue 
+registre:livre, journal, livret, répertoire, matrice, matricule, minutier, ton 
+relation:ami, connaissance, témoignage, narration, annonce, récit, chronique, mémoire 
+relativement:passablement, assez, proportionnellement 
+remède:solution, compensation, antidote, consolation, contrepoison, traitement, médicament, panacée 
+renard:fouineur, chercheur, fureteur, fouinard, indiscret 
+renarde:renard 
+rendement:production, récolte, rapport, gain, intérêt, productivité, efficacité, travail 
+renflement:augmentation, gonflement, rondeur, bulbe, bombement, tubercule, vésicule, ventre 
+renommée:réputation, nom, bruit, célébrité, notoriété, popularité, prestige, renom 
+renoncer:renier, abdiquer, abjurer, répudier, abandonner, délaisser, quitter 
+renouvellement:prorogation, reconduction, remplacement, changement, rénovation, renaissance, renouveau, recommencement 
+renversement:bouleversement, changement, retournement, inversion, chute, dégringolade, éboulement, écroulement 
+reprise:retour, recommencement, recrudescence, relance, récidive, continuation, réouverture, round 
+reproche:observation, blâme, critique, désapprobation, remontrance, semonce, algarade, grognement 
+représentant:agent, délégué, envoyé, mandataire, porte-parole, remplaçant, correspondant, préposé 
+représentation:présentation, exhibition, description, évocation, image, notation, figure, dessin 
+respectueux:poli 
+respirer:aspirer, inspirer, renifler, ronfler, souffler, absorber, exhaler, expirer 
+responsable:comptable, garant, auteur, coupable, chef, dirigeant, leader 
+reste:reliquat, résidu, miette, surplus, excédent, solde, complément, stock 
+retard:lenteur, ralentissement, piétinement, sursis, ajournement, atermoiement, délai 
+retour:renvoi, réciprocité, rétroaction, rétrogradation, réversion, échange, retraite, ricochet 
+retraité:traité 
+revenant:avenant, esprit, apparition, fantôme, ombre, spectre, venant 
+revenu:rentré, rente, dividende, dotation, gain, intérêt, produit, profit 
+riche:capitaliste, nabab, puissant, rupin, ploutocrate, pourvu, précieux, princier 
+rideau:tenture, draperie, store, voilage, toile, portière, écran 
+rien:bagatelle, bêtise, broutille, niaiserie, vétille, paille, zéro, minutie 
+rire:hilarité, rigolade, sourire, ricanement 
+risque:péril, danger, hasard, menace, inconvénient, aléa 
+robe:soutane, toge, épitoge, froc, pelage, corsage, cotillon, jupe 
+rochet:bobine, rouleau 
+rogne:colère, humeur, boule 
+roi:monarque, majesté, empereur, chef, prince, sire, souverain, potentat 
+romancier:écrivain, auteur 
+rondelle:cercle, rouelle, rond, tranche 
+rose:saumon, lilas, rosace, vitrail 
+rouge:écarlate, cramoisi, saignant, roux, vermillon, tomate, carmin, groseille 
+rouleau:cylindre, bobine 
+route:voie, trajet, chemin, étape, itinéraire, direction, voyage, chaussée 
+royaume:monarchie, empire, pays, état 
+rude:grossier, dur, rugueux, rustique, sauvage, violent, abrupt, farouche 
+rue:voie, passage, chemin, cours, avenue, chaussée, ruelle, venelle 
+ruine:débris, décombres, éboulement, vestige, dégât, dégradation, délabrement, décadence 
+ruse:astuce, artifice, attrape, fraude, machination, manoeuvre, truc, affectation 
+rustre:grossier, impoli, rustaud, rustique, goujat, balourd, butor, agriculteur 
+rythme:mesure, cadence, mouvement, tempo, balancement, harmonie, symétrie, mélodie 
+règle:norme, précepte, règlement, ordre, commandement, discipline, droit, formalité 
+réalisable:exécutable, faisable, possible 
+réalisateur:exécutant, exécuteur 
+réalisation:exécution, confection, création, oeuvre, effet, liquidation, vente 
+réalité:vérité, véracité, réel, matérialité, matière, objet, objectivité, chose 
+réception:accueil, admission, entrée, perception, cérémonie, gala, soirée, visite 
+récipient:réceptacle, pot, gobelet, vase 
+récit:histoire, historique, conte, chronique, fable, légende, narration, rapport 
+récolte:moisson, ramassage, vendange, cueillette, fenaison, coupe, arrachage, collecte 
+récompense:prix, prime, gratification, don, mention, accessit, décoration, palme 
+réduction:soumission, analyse, examen, diminution, restriction, miniature, remise, ristourne 
+réel:assuré, juste, effectif, positif, solide, réalité 
+réfrigérateur:frigo, frigidaire, glacière 
+réfugié:échappé, émigré 
+référence:recommandation, renvoi, repère, dénotation, désignation 
+région:contrée, territoire, zone, pays, province, terre, circonscription 
+régulièrement:uniformément, assidûment, correctement, exactement, ponctuellement, normalement, habituellement, théoriquement 
+répondant:responsable, otage, garant, garantie, caution 
+réponse:riposte, réplique, repartie, objection, réfutation, verdict 
+réprimer:contraindre, comprimer, contenir, arrêter, empêcher, modérer, refouler, refréner 
+répulsif:dégoûtant, écoeurant, répugnant, repoussant 
+répétition:imitation, reproduction, copie, double, refrain, réplique, antienne, recommencement 
+réseau:entrelacement, entrelacs, enchevêtrement, filet, lacis, plexus, tissu 
+réservoir:citerne, cuve, réserve, réceptacle, vivier 
+résistance:endurance, fermeté, force, solidité, dureté, défense, opposition, désobéissance 
+résolution:courage, énergie, fermeté, hardiesse, bravoure, décision, résorption, disparition 
+résumé:bref, court, sommaire, précis, abrégé, récapitulation, raccourci, abréviation 
+rétrécissement:resserrement, diminution, étranglement 
+réunion:rassemblement, assemblage, groupement, rapprochement, synthèse, jonction, annexion, incorporation 
+réussite:succès, triomphe, victoire, résultat, gain, bonheur, chance, prospérité 
+sac:sachet, sacoche, serviette, cartable, musette, panier, poche, réticule 
+sacoche:sac, bourse, réticule 
+sage:sérieux, bon, circonspect, grave, calme, modéré, gentil, philosophe 
+salaire:solde, traitement, rémunération, rétribution, paie, paye, mois, quinzaine 
+saleté:crasse, impureté, ordure, excrément, immondice, souillure, tache, cochonnerie 
+salle:auditoire, assistance, pièce, salon, antichambre, enceinte 
+salon:pièce, boudoir, fumoir, exposition 
+salut:salutation, courbette, révérence, salamalec, accolade, sauvegarde, abri, délivrance 
+sanctuaire:église, temple, intimité, asile 
+sang:origine, parenté, race, famille, hérédité, lignée, maison, sève 
+sans-abri:sans-logis, sinistré 
+saumon:rose, lilas 
+saut:bond, chute, culbute, élan, enjambée, gambade, cabriole, pirouette 
+sauvage:primitif, barbare, cannibale, fauve, misanthrope, ours, seul, solitaire 
+sauvetage:sauvegarde, abri, délivrance, salut, guérison, libération, rétablissement, sûreté 
+sauveur:rédempteur, messie, libérateur, bienfaiteur, défenseur, protecteur 
+savon:dispute, réprimande, sérénade, engueulade 
+schéma:plan, diagramme, esquisse, canevas, figuration, figure, tracé 
+scie:tronçonneuse, égoïne, rengaine 
+sculpteur:statuaire 
+sculpture:statue, bas-relief 
+scène:plateau, lieu, tableau, spectacle, comédie, théâtre, querelle, dispute 
+secousse:choc, coup, achoppement, agitation, commotion, contrecoup, ébranlement, mouvement 
+secrétaire:pupitre, bureau, table 
+sein:poitrine, buste, gorge, néné, téton, entrailles, flanc, giron 
+selle:sel 
+semaine:solde, traitement, rémunération, rétribution, paie, paye, mois, quinzaine 
+sensation:impression, perception, sentiment, émotion, effet, conscience 
+sensible:humain, bon, aimant, compatissant, miséricordieux, douloureux, névralgique, vulnérable 
+sentiment:impression, perception, sens, sensation, instinct, conscience, connaissance, opinion 
+serpent:reptile, lézard, chenille, vers 
+serre:griffe, ergot, forcerie 
+serrure:fermeture, cadenas 
+serveur:barman, garçon 
+service:administration, bureau, office, organisme, département, état, fonction, emploi 
+serviette:cartable, porte-documents, sac 
+serviteur:domestique, valet, laquais, larbin 
+seul:singulier, particulier, simple, isolé, solitaire, désert, indépendant, sauvage 
+si:oui 
+sieste:repos, sommeil 
+sifflet:invitation, excitation, incitation, interjection, pourvoi, recours, voix, proclamation 
+signe:indice, indication, manifestation, marque, preuve, présage, pronostic, symptôme 
+sillage:passage, trace 
+simple:uniforme, seul, commode, familier, naturel, populaire, rustique, sommaire 
+singe:chimpanzé, gorille, orang-outan, ouistiti, clown, grimacier 
+sinistre:stupéfiant, affreux, triste, mortel, catastrophe, incendie, inondation, naufrage 
+sirène:corne, sifflet 
+site:paysage, panorama, si 
+situation:orientation, emplacement, disposition, place, exposition, lieu, point, endroit 
+siège:chaise, fauteuil, banc, banquette, tabouret, chaire, stalle, trône 
+slogan:devise, formule 
+sobre:tempérant, modéré, abstinent, tempéré, frugal, austère, continent, concis 
+sobrement:discrètement, simplement, peu 
+sobriété:austérité, abstinence, économe, tempérance, discrétion, retenue, mesure, continence 
+société:groupe, communauté, collectivité, monde, milieu, classe, institut, congrégation 
+soeur:nonne 
+soie:soir 
+solitaire:seul, isolé, désert, renfermé, sauvage, ermite, anachorète, moine 
+sombre:obscur, noir, ténébreux, foncé, opaque, morose, triste, chagrin 
+son:bruit, voix, sonorité, timbre, ton, note, volume 
+sorte:genre, espèce, variété, classe, groupe, nature, catégorie, caractère 
+sortie:promenade, tour, balade, exode, départ, issue, porte, évacuation 
+sou:aumône, obole 
+soubrette:servante, bonne 
+souci:embêtement, désagrément, embarras, ennui, emmerdement, empoisonnement, nuage, travail 
+souffle:vent, courant, bouffée, respiration, expiration, haleine, soupir, aplomb 
+souffrance:douleur, malaise, peine, tourment, affliction, amertume, chagrin, désolation 
+souhait:voeu, envie, aspiration, ambition, désir, demande 
+soulager:décharger, débarrasser, alléger, apaiser, atténuer, tempérer, adoucir, amoindrir 
+soupape:pape 
+soupir:souffle, respiration, plainte 
+source:fontaine, foyer, commencement, début, origine, principe, provenance, germe 
+sourire:rire 
+souterrain:creux, clandestin, antre, cave, crypte, hypogée, mine, galerie 
+soutien:protection, appui, aide, secours, subvention, auxiliaire, défense, recommandation 
+spectacle:représentation, séance, théâtre, gala, tableau, aspect, panorama, vue 
+spectaculaire:impressionnant, frappant, sensationnel, théâtral 
+spécial:particulier, personnel, spécifique, distinct, individuel, original, bizarre, exceptionnel 
+stade:cirque, phase, degré, période, niveau 
+stage:apprentissage, formation 
+station:halte, arrêt, pause, séjour, gare, centrale, attitude, posture 
+statuer:établir, ordonner, régler, décider, déclarer, juger, terminer 
+statut:règlement, ordonnance, état, situation 
+stylo:plume 
+submerger:inonder, noyer, baigner, engloutir, couvrir, plonger, accabler, enfoncer 
+subvention:subside, secours, contribution, aide, allocation, soutien, encouragement, don 
+successeur:continuateur, remplaçant, héritier, dauphin 
+succession:héritage, patrimoine, propriété, testament, legs, suite, défilé, déroulement 
+sueur:transpiration, sudation, moiteur, eau, nage 
+suite:déroulement, continuation, cours, fil, ordre, escorte, accompagnement, complément 
+suivi:régulier, logique 
+sujet:matière, chapitre, article, objet, point, question, champ, problème 
+superficie:surface, étendue, face, aire, espace 
+superlatif:extraordinaire, supérieur, parfait, exagération, sommet, summum 
+supermarché:magasin, hypermarché 
+supplément:complément, surcroît, accessoire, surplus, extra, accroissement, appoint, rabiot 
+support:base, appui, soutien, cale, socle, colonne, étai, monture 
+supposition:hypothèse, présomption, prévision, conjecture, utopie 
+supérieur:meilleur, extra, fin, noble, parfait, premier, singulier, sublime 
+sur:aigre, acide, aigrelet, tourné 
+surface:superficie, aire, espace, niveau, plaine, plan, nappe, périphérie 
+surnom:sobriquet, pseudonyme, qualificatif, nom 
+survol:passage, vol 
+suspension:abandon, arrêt, cessation, interruption, lustre, relâche, trêve, chômage 
+sycophante:dénonciateur, espion, mouchard, délateur 
+symbole:attribut, emblème, devise, image, insigne, représentation, apparence, allégorie 
+syndicat:association, groupement, fédération, trade-union 
+synonyme:pareil, semblable, homologue, équivalent, pair 
+système:méthode, moyen, plan, combinaison, ensemble, manière, combine, systématique 
+sécheresse:siccité, tarissement, pauvreté, dureté, froideur, sévérité, austérité, brièveté 
+séjour:arrêt, pause, villégiature, station, demeure, habitation, logis, logement 
+sénateur:député, parlementaire 
+série:chaîne, cascade, chapelet, kyrielle, litanie, vague, collection, catalogue 
+sévère:impitoyable, implacable, inexorable, inflexible, exigeant, dur, draconien, cruel 
+tableau:liste, rôle, scène, spectacle, description, image, vue, état 
+tablier:sarrau, blouse, vareuse, bourgeron, souquenille 
+tabouret:chaise, fauteuil, banc, banquette, siège, chaire, stalle, trône 
+tache:marque, saleté, souillure, bavure, ordure, pâté, signe, bleu 
+taille:stature, port, envergure, élagage, émondage, ravalement, gabarit, taillis 
+talon:souche, extrémité, reste 
+tape:claque, calotte, coup, gifle, taloche, horion, bouchon, échec 
+tarte:cloche, ridicule, sot, gifle, coup 
+tasse:bol, coupe, jatte, écuelle, tas 
+taxe:taxation, contribution, impôt, cote, imposition, tarif, dîme, taille 
+taxi:voiture, auto, chauffeur 
+teinte:nuance, ton, teinture, coloris, couleur, teint 
+tente:pavillon, abri, chapiteau, gourbi, toile 
+tenue:ordre, conduite, correction, gestion, maintien, allure, démarche, présentation 
+terne:fade, dépoli, mat, passé, morne, triste, gris, mort 
+terrasse:plate-forme, balcon, belvédère, galerie 
+terre:sol, terrain, champ, boue, argile, glèbe, humus, terreau 
+terrible:affreux, grave, extraordinaire, grand, fou, sensationnel, violent, fort 
+texte:original, document, sujet, énoncé, passage, contenu, rédaction, teneur 
+thé:collation, déjeuner, dîner, goûter, petit-déjeuner, souper, réveillon, repas 
+tige:branche, tronc, chaume, paille, tuyau, queue, hampe, pédoncule 
+tiret:rayure, trait, ligne, bande, barre, raie, strie 
+tissu:étoffe, toile, tapis, tapisserie, filet, texture, enchevêtrement, agencement 
+toilette:astiquage, tenue, mise, vêtement, coiffeuse, habillement, ajustement, costume 
+toit:toiture, couvert, couverture, comble, domicile, demeure, maison, habitation 
+tollé:clameur, protestation 
+tomate:vermillon, rouge, carmin, cramoisi, groseille, incarnat, pourpre, rubis 
+ton:voix, son, note, bruit, intonation, accent, expression, force 
+tonne:barrique, baril, feuillette, foudre, fût, futaille, tonneau, tonnelet 
+tonneau:barrique, baril, feuillette, foudre, fût, futaille, tonne, tonnelet 
+tonnerre:bruit, vacarme, grondement, éclat, foudre 
+torche:flambeau, brandon, lampe 
+tornade:bourrasque, cyclone, ouragan, vent 
+torpille:balle, bombe, flèche, grenade, mitraille, obus, pierre, projectile 
+torride:brûlant, chaud, ardent, incandescent, surchauffé, tropical, suffocant, cuisant 
+torsion:convulsion, contraction, spasme, contorsion, grimace, exagération 
+tortue:tort 
+tour:beffroi, clocher, donjon, campanile, promenade, circuit, périple, voyage 
+tourbillon:cyclone, rafale, bourrasque, vent, raz 
+tournoi:concours, lutte, combat, assaut, joute, carrousel 
+tournée:voyage, tour, promenade, balade, excursion, inspection, volée 
+traditionnel:habituel, coutumier, accoutumé, usité, invétéré, orthodoxe, légendaire, proverbial 
+trafic:commerce, brocante, négoce, mercantilisme, simonie, profit, spéculation, agiotage 
+tragédie:catastrophe, drame, malheur, pièce, mélodrame 
+trahison:fourberie, traîtrise, félonie, parjure, perfidie, prévarication, défection, désertion 
+traitable:accommodant, facile, maniable, affable, obéissant 
+traitement:comportement, thérapeutique, cure, médication, régime, remède, rémunération, paie 
+tranche:partie, portion, section, morceau, coupure, division, fraction, part 
+tranchée:fossé, sillon, cavité, canal, entaille, trou, rigole, retranchement 
+traumatisme:blessure, choc 
+travail:action, activité, labeur, devoir, difficulté, besogne, ouvrage, boulot 
+travailleur:zélé, courageux, bûcheur, ouvrier, employé, fonctionnaire, manoeuvre, prolétaire 
+travée:madrier, poutre, longeron, montant 
+tresse:natte, cadenette 
+tribu:ethnie, famille, peuplade, clan, groupe, société 
+tribunal:cour, juridiction, conseil, parquet, chambre, prétoire, palais 
+tricheur:filou, maquilleur, trompeur 
+tricot:maillot, gilet, pull-over, sweater, chandail 
+troisième:tiers 
+trompette:clairon, buccin, bugle, cornet, trompettiste 
+tronc:tête, buste, bassin, corps, torse, madrier, poutre, rondin 
+trop:excessivement, très, beaucoup, assez, bien, fort 
+trophée:butin, dépouille 
+trou:creux, cavité, brèche, excavation, fosse, ouverture, gouffre, chas 
+trouble:boueux, équivoque, louche, vague, terne, bouleversement, chaos, confusion 
+troupeau:groupe, foule, troupe, réunion, bétail, essaim 
+tsar:empereur, souverain 
+tuteur:protecteur, gardien, soutien, appui, échalas, perche, rame, béquille 
+tuyau:tube, conduit, canal, pipeline, indication, information, renseignement 
+typique:caractéristique, symbolique, original 
+tyran:despote, autocrate, oppresseur, potentat 
+téléphone:fil, bigophone 
+témoignage:attestation, rapport, citation, déclaration, foi, déposition, renseignement, démonstration 
+témoin:garant, spectateur, présent, tiers 
+téméraire:audacieux, aventureux, courageux, irréfléchi, osé, présomptueux, risqué, hardi 
+uniforme:régulier, uni, continu, plat, pareil, semblable, costume, tenue 
+universitaire:élève, étudiant, écolier 
+université:école, enseignement, faculté 
+usine:manufacture, fabrique, industrie, boîte, établissement, entreprise, atelier 
+vacarme:tapage, tintamarre, tumulte, chambard, chahut, boucan, bruit, charivari 
+vache:gros, méchant, génisse, veau, hirondelle, rosse, chameau 
+vague:faible, indécis, indéfini, indéterminé, trouble, flou, houle, flot 
+valable:valide, légal, réglementaire, régulier, recevable, efficace, salutaire, convenable 
+valise:bagage, malle, sac, mallette 
+vallon:vallée, val, thalweg 
+valse:val 
+vandale:destructeur, dévastateur, démolisseur, barbare, ravageur, exterminateur, désolateur, brute 
+vanité:frivolité, futilité, inconsistance, insignifiance, néant, vide, inutilité, inanité 
+vantard:bluffeur, fanfaron, hâbleur, orgueilleux, bravache, crâne 
+vapeur:brouillard, brume, nuage, nue, fumée, émanation, exhalaison, gaz 
+variété:diversité, disparité, dissemblance, inégalité, espèce, forme, type, sorte 
+vaste:immense, énorme, abondant, ample, colossal, considérable, copieux, grand 
+vendeur:marchand, détaillant, débitant 
+vengeance:revanche, représailles, punition, vendetta, châtiment, talion 
+vente:liquidation, débit, commerce, écoulement, enchère, vent 
+ventre:abdomen, bedaine, panse, brioche, obésité, estomac, corps, sein 
+ver:asticot, larve, mouche 
+verger:plantation, jardin 
+verre:gobelet, coupe, flûte, godet, pot, vitre, carreau, glace 
+vert:jeune, nouveau, gaillard, résistant, sain, rude, violent, dur 
+victime:proie, dupe, jouet, martyr, décédé, mort 
+victoire:succès, triomphe 
+vide:désert, creux, pauvre, taré, bête, nu, vierge, néant 
+vie:vitalité, vigueur, esprit, expression, existence, âge, durée, vivant 
+vierge:pucelle, puceau, virginal, blanc, innocent, naïf, nouveau, vide 
+vif:remuant, pétulant, allègre, agile, actif, alerte, fringant, vivant 
+vigne:vin, cru 
+ville:cité, localité, métropole, municipalité, capitale, centre, agglomération 
+vin:cru, vigne 
+violation:infraction, violement, profanation, outrage 
+violet:pourpre, rouge 
+violon:violoniste, cellule, cachot 
+violoniste:violon 
+visionnaire:halluciné, illuminé, fou, devin 
+visite:inspection, fouille, perquisition, ronde, tournée, arraisonnement, entrevue, rencontre 
+visiteur:touriste, voyageur 
+vocation:appel, disposition, attirance, goût, inclination, penchant, tendance, destination 
+voie:chemin, passage, route, rue, avenue, chaussée, artère, trace 
+voile:voilage, rideau, gaze, crêpe, enveloppe, masque, couvert, mante 
+voilier:navire, yacht, bateau 
+voisin:semblable, proche, adjacent, prochain, ami 
+voix:son, ton, locuteur, chant, bruit, cri, aboiement, vote 
+vol:volée, nuage, passage, survol, fauconnerie, volerie, détournement, pillage 
+volet:contrevent, persienne, coulisse, jalousie, partie 
+voleur:cambrioleur, larron, brigand, déprédateur, détrousseur, bandit, truand, spoliateur 
+volonté:dessein, détermination, intention, résolution, prétention, volition, décision, désir 
+volée:bande, groupe, troupe, essaim, décharge, salve, coup, correction 
+voyage:tournée, tour, excursion, promenade, expédition, navigation, exode, croisière 
+voyageur:passager, touriste, promeneur, navigateur, explorateur, globe-trotter, représentant, nomade 
+voyou:grossier, malpropre, vaurien, chenapan, garnement, vadrouille, crapule, gouape 
+vrai:véritable, véridique, certain, exact, incontestable, absolu, sûr, juste 
+vue:regard, spectacle, panorama, paysage, aspect, position, vision, conception 
+vélo:bicyclette, bécane, clou, machine 
+véritable:vraisemblable, vrai, naturel, réel, franc, sincère, exact, juste 
+vérité:sincérité, franchise, fidélité, exactitude, justesse, valeur, authenticité, réalité 
+éblouissant:admirable, brillant, étincelant, resplendissant, fascinant, éclatant, aveuglant, merveilleux 
+ébullition:éruption, effervescence, excitation, fermentation, bouillonnement 
+écart:distance, différence, divergence, erreur, faute, aberration, fredaine, variation 
+échafaudage:édifice, pyramide 
+échantillon:modèle, type, spécimen, essai, idée, aperçu, exemple, fragment 
+écharde:pointe, piquant, épine, ronce 
+écharpe:gonfalon, ceinture, mantille, fichu 
+échelle:escalier, marche, comparaison, proportion, rapport, mesure, barème, graduation 
+écho:répétition, reproduction, imitation, répercussion, résonance 
+éclair:lueur, reflet, étincelle, flamme, fulguration, flash, foudre, tonnerre 
+école:lycée, institution, collège, faculté, gymnase, bazar, boîte, bahut 
+écolier:élève, étudiant, lycéen, collégien, potache, tapir, bizut, bleu 
+écran:abri, éventail, paravent, cinéma, cran 
+écrasement:torpeur, anéantissement 
+écrivain:auteur, chroniqueur, littérateur, publiciste, styliste, logographe 
+écueil:rocher, roche, brisant, récif, danger, piège 
+égratignure:écorchure, éraflure, blessure 
+éleveur:cultivateur, agronome, campagnard, laboureur, agriculteur, planteur, paysan, fermier 
+élève:disciple, écolier, étudiant, apprenti, collégien, lycéen, éducation 
+élément:milieu, sujet, substance, partie, détail, donnée, facteur, germe 
+élévation:augmentation, accroissement, hausse, accession, avènement, érection, hauteur, éminence 
+émeute:révolte, mutinerie, rébellion, agitation, insurrection, sédition, révolution, tumulte 
+émission:diffusion, manifestation, production, émanation, mission 
+émoi:émotion, agitation, excitation, impression, inquiétude, saisissement, trouble, alarme 
+énigme:charade, logogriphe, mystère, problème, secret 
+énorme:immense, infini, colossal, géant, gigantesque, volumineux, vaste, mondial 
+épaule:omoplate, mécanique 
+épave:loque, fragment 
+épidémie:contagion, choléra, mode, engouement, entraînement 
+épisode:aventure, incident, acte, conjoncture, parenthèse, péripétie 
+époque:période, saison, siècle, ère, échéance, moment, date, jour 
+épreuve:malheur, peine, danger, douleur, chagrin, péril, adversité, calamité 
+épée:sabre, glaive, yatagan, cimeterre, briquet, espadon, estoc, flamberge 
+équité:justice, impartialité, égalité 
+éruption:apparition, évacuation, efflorescence, ébullition, roséole 
+étang:lac, bassin, lagune, marais, mare 
+étape:halte, repos, arrêt, escale, gîte, trajet, route, entrepôt 
+éternité:futur, lendemain, postérité, avenir 
+étincelle:éclair, lueur, flammèche, bluette 
+étiquette:écriteau, affiche, désignation, indication, marque, cérémonial, formulaire, protocole 
+étoffe:tissu, textile, valeur, espèce 
+étrange:bizarre, curieux, singulier, drôle, excentrique, extraordinaire, louche 
+étranger:tiers, extérieur, isolé, inconnu, exotique, profane, immigrant, cosmopolite 
+étranglement:étouffement, compression, suffocation, constriction, strangulation, rétrécissement, resserrement 
+étreindre:embrasser, enlacer, presser, serrer, prendre, saisir, tenir, resserrer 
+étude:application, travail, recherche, analyse, discussion, enquête, examen, expérimentation 
+étudiant:élève, universitaire, écolier 
+étui:enveloppe, fourreau, gaine 
+évadé:échappé 
+évaluation:estimation, appréciation, calcul, détermination, expertise, prix, mesure, valeur 
+évasion:fuite, changement, distraction, divertissement 
+événement:accident, circonstance, éventualité, incident, occurrence, aventure, conjoncture, occasion 

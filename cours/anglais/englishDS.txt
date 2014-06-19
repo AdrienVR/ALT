@@ -1,0 +1,23 @@
+devise:currency
+facture:bill, invoice
+enchere:bid
+douanes:customs
+possesseur d'action:share-holder
+contrefacon:counterfeiting
+sceller:seal,to seal
+tourner:to spin, spin
+étanche:airtight seal
+tapis roulant:conveyor belt
+perforeuse:punch
+empiler:to stack,stack
+résidu:scraps
+joint:gasket
+vilbrequin:crankshaft
+souple:lithe
+layer:couche
+to compel:contraindre
+abordable:affordable
+taux de change:currency exchange rate
+prêt:loan
+emprunter:borrow,to borrow
+

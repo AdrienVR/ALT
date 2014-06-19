@@ -1,0 +1,8 @@
+﻿な:na
+に:ni
+ぬ:nu
+ね:ne
+の:no
+にゃ:nya
+にゅ:nyu
+にょ:nyo

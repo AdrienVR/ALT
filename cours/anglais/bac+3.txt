@@ -1,0 +1,38 @@
+solicitor:avocat( de la défense)
+chef:maitre d'oeuvre
+shift:changement
+futur+subjonctif=:présent
+overhelmed:submerge
+wages:week salary(no qualification)
+rate of pay:taux horaire
+bind:relier,lier
+run-of-the-mill:ordinaire,banal
+stuck in a rut:bloqué,enlisé
+snowed under:débordé
+career:nom(for lifetime choose)
+job:nom nombrable(talk about smthg specific)
+commute:faire la navette
+board meeting:conseil d'administration
+job interview:entretien d'embauche
+retirement award:retraite
+reduce:condensed,compressed,squash-down
+thus:ainsi
+manure:fumier
+run up against:tomber sur
+fibber:bobard
+stills:clichés
+actually:en fait
+bark:aboiement
+stills:clichés
+sapping:bouffe
+to wind:remonter(une horloge)
+awkward:embarassant
+bulky:gros
+job seeker:demandeur d'emploi
+job applicant:postulant à un emploi
+redundancy:licenciement(économique)
+layoff:licenciement
+job cuts:suppresions d'emploi
+placement:stage
+steady:stable
+odd jobs:petits boulots
