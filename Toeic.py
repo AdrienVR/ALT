@@ -3,7 +3,7 @@
 ## Python
 ## 23 08 2013
 
-from PyQt4.QtCore import SIGNAL
+from PySide.QtCore import SIGNAL
 
 from State import State
 

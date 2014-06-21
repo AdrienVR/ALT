@@ -4,15 +4,15 @@ import os
 import sys
 import time
 
-from PyQt4 import uic
-from PyQt4.QtCore import Qt, SIGNAL
-from PyQt4.QtGui import QApplication, QMainWindow
+from PySide import uic
+from PySide.QtCore import Qt, SIGNAL
+from PySide.QtGui import QApplication, QMainWindow
 
 from Cours import *
 import LevelWindow
 import Preferences
-import PyQt4.QtCore as Core
-import PyQt4.QtGui as Gui
+import PySide.QtCore as Core
+import PySide.QtGui as Gui
 from QCM import *
 from Recognizer import *
 from State import *

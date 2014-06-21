@@ -3,11 +3,11 @@
 import os
 import sys
 
-from PyQt4 import uic
-from PyQt4.QtCore import SIGNAL, SLOT
-from PyQt4.QtGui import QApplication, QMainWindow, QDialog
+from PySide import uic
+from PySide.QtCore import SIGNAL, SLOT
+from PySide.QtGui import QApplication, QMainWindow, QDialog
 
-import PyQt4.QtGui as Gui
+import PySide.QtGui as Gui
 
 
 UiLevelWindow,  Klass = uic.loadUiType('LevelWindow.ui') 

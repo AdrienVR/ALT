@@ -5,8 +5,8 @@ utiliser : python setup.py build pour compiler.
 import os
 import sys
 
-import PyQt4
-import PyQt4.uic
+import PySide
+import PySide.uic
 from cx_Freeze import setup, Executable
 
 

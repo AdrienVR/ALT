@@ -7,7 +7,7 @@
 from random import sample
 import sys
 
-from PyQt4.QtGui import QApplication
+from PySide.QtGui import QApplication
 
 import LevelWindow
 

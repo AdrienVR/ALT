@@ -3,7 +3,7 @@
 
 from os import getcwd, listdir, path
 
-from PyQt4.QtCore import SIGNAL
+from PySide.QtCore import SIGNAL
 
 from Question import *
 from State import State
