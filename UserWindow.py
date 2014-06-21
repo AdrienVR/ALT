@@ -3,7 +3,7 @@
 import os
 import sys
 
-from PySide import uic
+#from PySide import uic
 from PySide.QtCore import SIGNAL, SLOT
 from PySide.QtGui import QApplication, QMainWindow, QDialog
 
@@ -11,10 +11,10 @@ import Compte
 import PySide.QtCore as Core
 import PySide.QtGui as Gui
 
+from Ui_UserWindow import Ui_UserWindow
+#UiUserWindow,  Klass = uic.loadUiType('UserWindow.ui')
 
-UiUserWindow,  Klass = uic.loadUiType('UserWindow.ui') 
-
-class Window(QDialog,  UiUserWindow):
+class Window(QDialog,  Ui_UserWindow):
     def __init__(self,  conteneur=None,contain=None):
         self.contain=contain
         if conteneur is None : conteneur = self
@@ -23,9 +23,9 @@ class Window(QDialog,  UiUserWindow):
 
         self.selected=""
         self.user=None
-        
+
         self.account=Compte.Account()
-        
+
         for x in self.account.getNames():
           if self.selected=="":
               self.selected=x
@@ -35,7 +35,7 @@ class Window(QDialog,  UiUserWindow):
               self.selected="Nouveau"
               self.lineEditNewName.setEnabled(True)
         self.comboBoxAccount.addItem("Nouveau")
-          
+
         self.createConnexions()
         self.bool=True
         self.optionOn()
@@ -43,7 +43,7 @@ class Window(QDialog,  UiUserWindow):
             self.pushButtonDelete.setEnabled(False)
             self.pushButtonExport.setEnabled(False)
         self.show()
-        
+
     def actionOK(self):
       if self.lineEditNewName.isEnabled() and self.lineEditNewName.text()!="":
             self.selected=self.lineEditNewName.text()
@@ -54,7 +54,7 @@ class Window(QDialog,  UiUserWindow):
             else : self.user=Compte.User(self.selected)
             self.done(1)
             #fin
-        
+
     def changedSelect(self):
       if str(self.comboBoxAccount.currentText())=="Nouveau":
           self.lineEditNewName.setEnabled(True)
@@ -67,7 +67,7 @@ class Window(QDialog,  UiUserWindow):
           self.pushButtonDelete.setEnabled(True)
           self.pushButtonExport.setEnabled(True)
           self.selected=str(self.comboBoxAccount.currentText())
-        
+
     def createConnexions(self):
         self.connect(self.lineEditNewName,SIGNAL("returnPressed()"),self.actionOK )
         self.connect(self.pushButtonOK, SIGNAL("clicked()"), self.actionOK )
@@ -97,7 +97,7 @@ class Window(QDialog,  UiUserWindow):
         translator=Core.QTranslator ()
         translator.load(Core.QString("qt_") + locale, Core.QLibraryInfo.location(Core.QLibraryInfo.TranslationsPath))
         self.contain.installTranslator(translator)
-        if Gui.QMessageBox.Yes== Gui.QMessageBox.question(self, 'Message', 
+        if Gui.QMessageBox.Yes== Gui.QMessageBox.question(self, 'Message',
                      u"Êtes-vous sûr de vouloir supprimer ce profil ?", Gui.QMessageBox.Yes, Gui.QMessageBox.No):
             self.comboBoxAccount.removeItem(self.comboBoxAccount.currentIndex())
             os.remove("users/"+self.selected+".bin")
@@ -109,10 +109,10 @@ class Window(QDialog,  UiUserWindow):
       return self.user
 
 if __name__ == "__main__":
- 
+
     a = QApplication(sys.argv)
     f = Window(contain=a)
     f.show()
     r = a.exec_()
-    
+
 

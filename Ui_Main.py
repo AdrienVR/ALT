@@ -4,7 +4,7 @@ import os
 import sys
 import time
 
-from PySide import uic
+#from PySide import uic
 from PySide.QtCore import Qt, SIGNAL
 from PySide.QtGui import QApplication, QMainWindow
 
@@ -22,10 +22,10 @@ import UserWindow
 
 Recognizer().synonymes()
 
+from Ui_Assimilator import Ui_MainWindow
+#UiMainWindow,  Klass = uic.loadUiType('Assimilator.ui')
 
-UiMainWindow,  Klass = uic.loadUiType('Assimilator.ui')
-
-class MainWindow(QMainWindow,  UiMainWindow):
+class MainWindow(QMainWindow,  Ui_MainWindow):
     def __init__(self,  conteneur=None):
         if conteneur is None : conteneur = self
         QMainWindow.__init__(conteneur)
