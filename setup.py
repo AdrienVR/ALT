@@ -30,7 +30,7 @@ packages = ["encodings",
             "OpenGL",
             "OpenGL.arrays" # or just this one
             ]
- 
+#
 setup(
     name = "Learning",
     version = "0.2",
