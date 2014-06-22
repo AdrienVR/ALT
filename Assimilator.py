@@ -4,26 +4,25 @@ import os
 import sys
 import time
 
-#from PySide import uic
 from PySide.QtCore import Qt, SIGNAL
 from PySide.QtGui import QApplication, QMainWindow
+import PySide.QtCore as Core
+import PySide.QtGui as Gui
 
 from Cours import *
 import LevelWindow
 import Preferences
-import PySide.QtCore as Core
-import PySide.QtGui as Gui
 from QCM import *
 from Recognizer import *
 from State import *
 from Toeic import *
 import UserWindow
 
+from dep import *
 
 Recognizer().synonymes()
 
 from Ui_Assimilator import Ui_MainWindow
-#UiMainWindow,  Klass = uic.loadUiType('Assimilator.ui')
 
 class MainWindow(QMainWindow,  Ui_MainWindow):
     def __init__(self,  conteneur=None):
