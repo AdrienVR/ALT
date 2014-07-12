@@ -445,7 +445,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
         self.labelNiveau.show()
 
         self.dictChapter=self.toeic
-        self.qcmKey=self.user.toeic.getAnswer()
+        self.qcmKey=self.user.toeic.getAnswer().strip()
         self.update()
         self.setQCM()
         self.MainStackedWidget.setCurrentIndex(1)
@@ -453,7 +453,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
 
     def setQCM(self):
         if self.type=="toeic":
-            self.qcm=self.toeic.questionnaire[self.qcmKey]
+            self.qcm=self.toeic.questionnaire[self.qcmKey.strip()]
             self.labelQuestion.setText(self.qcm["question"])
             self.labelSpeak.setText("Question "+str(self.user.toeic.exp)+"/"+str(self.toeic.nb))
             for x in "ABCD":

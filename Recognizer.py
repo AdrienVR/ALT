@@ -27,7 +27,7 @@ class Recognizer():
         b=a.readlines()
         a.close()
         for x in b:
-            x=x.replace("\n","")
+            x=x.strip()
             i,j=x.split(":")
             i=dec.decode(i)
             j=dec.decode(j)
@@ -50,8 +50,7 @@ class Recognizer():
             mot.replace("-"," ")
         if self.PLURIEL:
             mot=self.singulariser(mot)
-        while mot[-1]==" ":mot=mot[:-1]
-        while mot[0]==" ":mot=mot[1:]
+        mot=mot.strip()
         return mot
 
     def traduire(self,mot,rep):
