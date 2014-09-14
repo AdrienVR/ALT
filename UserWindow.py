@@ -11,7 +11,7 @@ import Compte
 import PySide.QtCore as Core
 import PySide.QtGui as Gui
 
-from Ui_UserWindow import Ui_UserWindow
+from dep.Ui_UserWindow import Ui_UserWindow
 #UiUserWindow,  Klass = uic.loadUiType('UserWindow.ui')
 
 class Window(QDialog,  Ui_UserWindow):

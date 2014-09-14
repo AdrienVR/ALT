@@ -18,11 +18,9 @@ from State import *
 from Toeic import *
 import UserWindow
 
-from dep import *
-
 Recognizer().synonymes()
 
-from Ui_Assimilator import Ui_MainWindow
+from dep.Ui_Assimilator import Ui_MainWindow
 
 class MainWindow(QMainWindow,  Ui_MainWindow):
     def __init__(self,  conteneur=None):
@@ -39,7 +37,7 @@ class MainWindow(QMainWindow,  Ui_MainWindow):
 
         self.toeic=Toeic()
         self.cours=Cours()
-        self.questionnaire=Questionnaire()
+        self.questionnaire=QCM()
 
         self.UserWindow=None
         self.LevelWindow=None
@@ -58,9 +56,7 @@ class MainWindow(QMainWindow,  Ui_MainWindow):
 
         self.timeBegin=0
 
-        self.init()
-
-    def init(self):
+        #launching
         self.MainStackedWidget.setCurrentIndex(0)
         self.update()
         self.show()
@@ -72,9 +68,10 @@ class MainWindow(QMainWindow,  Ui_MainWindow):
     def createConnexions(self):
 
         self.connect(self.pushButtonProfil,  SIGNAL("clicked()"), self.profil)
-        self.connect(self.toolButtonQCM,  SIGNAL("clicked()"), self.actionQCM)
-        self.connect(self.toolButtonTraduction,  SIGNAL("clicked()"), self.actionTrad)
-        self.connect(self.toolButtonCours,  SIGNAL("clicked()"), self.actionCours)
+
+        self.connect(self.toolButtonToeic,  SIGNAL("clicked()"), self.actionToeic)
+        self.connect(self.toolButtonTraduction,  SIGNAL("clicked()"), self.actionTraduction)
+        self.connect(self.toolButtonQcm,  SIGNAL("clicked()"), self.actionQcm)
 
         self.connect(self.pushButtonBack,  SIGNAL("clicked()"), self.retourMenu)
         self.connect(self.pushButtonBack3,  SIGNAL("clicked()"), self.retourMenu)
@@ -302,7 +299,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
 
     #######################Traduction Vocabulaire#####################
 
-    def actionTrad(self):
+    def actionTraduction(self):
         self.type="qcm"
         self.MainStackedWidget.setCurrentIndex(2)
         self.listSujet.clear()
@@ -322,7 +319,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
 
     ####################### Cours persos ###############################
 
-    def actionCours(self):
+    def actionQcm(self):
         self.type="cours"
         self.MainStackedWidget.setCurrentIndex(2)
         self.listSujet.clear()
@@ -390,7 +387,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
 
     ####################### QCM #####################
 
-    def actionGoQCM(self):
+    def actionQcm(self):
 
         self.labelEnonceCours.setText(self.dictChapter[self.coursKey])
         self.update()
@@ -422,7 +419,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
         self.MainStackedWidget.setCurrentIndex(1)
         self.timeBegin=time.time()
 
-    def actionQCM(self):
+    def actionToeic(self):
         self.type="toeic"
         if self.user.toeic.niveau=="":
             ## Nouvel utilisateur, ou nouveau QCM

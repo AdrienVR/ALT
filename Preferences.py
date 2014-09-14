@@ -9,7 +9,7 @@ from PySide.QtGui import QApplication, QMainWindow, QDialog
 
 import PySide.QtGui as Gui
 
-from Ui_Preferences import Ui_PreferenceWindow
+from dep.Ui_Preferences import Ui_PreferenceWindow
 #UiPreferencesWindow,  Klass = uic.loadUiType('Preferences.ui')
 
 class PreferencesWindow(QDialog,  Ui_PreferenceWindow):

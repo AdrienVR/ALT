@@ -244,7 +244,7 @@ p, li { white-space: pre-wrap; }
        </size>
       </property>
       <property name="currentIndex">
-       <number>0</number>
+       <number>1</number>
       </property>
       <widget class="QWidget" name="Menu">
        <layout class="QVBoxLayout" name="verticalLayout_5">
@@ -350,7 +350,7 @@ p, li { white-space: pre-wrap; }
               </spacer>
              </item>
              <item>
-              <widget class="QToolButton" name="toolButtonQCM">
+              <widget class="QToolButton" name="toolButtonToeic">
                <property name="sizePolicy">
                 <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
                  <horstretch>0</horstretch>
@@ -429,7 +429,7 @@ p, li { white-space: pre-wrap; }
               </spacer>
              </item>
              <item>
-              <widget class="QToolButton" name="toolButtonTraduction">
+              <widget class="QToolButton" name="toolButtonQcm">
                <property name="sizePolicy">
                 <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
                  <horstretch>0</horstretch>
@@ -498,7 +498,7 @@ p, li { white-space: pre-wrap; }
               </spacer>
              </item>
              <item>
-              <widget class="QToolButton" name="toolButtonCours">
+              <widget class="QToolButton" name="toolButtonTraduction">
                <property name="sizePolicy">
                 <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
                  <horstretch>0</horstretch>

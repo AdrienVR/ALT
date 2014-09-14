@@ -9,12 +9,11 @@ from Question import *
 from State import State
 
 
-class Questionnaire():
-  # Constructeur
+class QCM():
   def __init__(self):
     self.qcm={}
     self.charger()
-    
+
   def charger(self):
     curr=getcwd()
     for x in listdir(curr+"/qcm"):
@@ -26,10 +25,10 @@ class Questionnaire():
             if path.isfile(path.join(curr+"/qcm/"+x, y)):
               y=y[:y.find(".")]
               self.load(x,y)
-                
+
   def create(self,x):
     self.qcm[x]={}
-  
+
   def load(self,x,y):
         try:
           a=open("qcm/"+x+"/"+y+".txt")
@@ -39,17 +38,18 @@ class Questionnaire():
           #verification fichier
           old=""
           m=0
-          for xi in z:
-            if old==xi:
-              #print "f"
+          for ligne in z:
+            ligne = ligne.strip()
+            if old==ligne:
+              print "same line"
               raise
-            if xi[0]=='\n':
+            if ligne[0]=='':
               if m<4:
-                #print "<4"
+                print "<4"
                 raise
               m=0
             else : m+=1
-            old=xi
+            old=ligne
           #end
           for codec in ["utf-8","ISO-8859-15","utf-16",""]:
                 try:
@@ -64,7 +64,7 @@ class Questionnaire():
           print y," nickel"
           return True
         except:
-          print "err "+x+y
+          print "erreur de chgt "+x+y
           return False
 
   def loader(self,blocs):
@@ -105,7 +105,7 @@ class Questionnaire():
 
       didi[i]=q
     return didi
-        
+
   ###############
   ## GETTERS
   ###############

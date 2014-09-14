@@ -11,7 +11,7 @@ import PySide.QtGui as Gui
 
 
 #UiLevelWindow,  Klass = uic.loadUiType('LevelWindow.ui')
-from Ui_LevelWindow import Ui_UserWindow
+from dep.Ui_LevelWindow import Ui_UserWindow
 
 class Window(QDialog,  Ui_UserWindow):
     def __init__(self,  conteneur=None):
