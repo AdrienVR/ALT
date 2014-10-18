@@ -19,11 +19,12 @@ from State import *
 from Toeic import *
 import UserWindow
 
+from os import path
 
 Recognizer().synonymes()
 
 
-UiMainWindow,  Klass = uic.loadUiType('Assimilator.ui')
+UiMainWindow,  Klass = uic.loadUiType(path.join("dep","Assimilator.ui"))
 
 class MainWindow(QMainWindow,  UiMainWindow):
     def __init__(self,  conteneur=None):

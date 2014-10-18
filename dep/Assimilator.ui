@@ -21,14 +21,11 @@
   </property>
   <property name="windowIcon">
    <iconset resource="res.qrc">
-    <normaloff>:/icons/1-48.ico</normaloff>
-    <normalon>:/icons/1-48.ico</normalon>
-    <disabledoff>:/icons/3-48.ico</disabledoff>
-    <disabledon>:/icons/3-48.ico</disabledon>
-    <activeoff>:/icons/1-48.ico</activeoff>
-    <activeon>:/icons/1-48.ico</activeon>
-    <selectedoff>:/icons/2-48.ico</selectedoff>
-    <selectedon>:/icons/2-48.ico</selectedon>:/icons/1-48.ico</iconset>
+    <normaloff>:/icons/img/1-48.ico</normaloff>
+    <disabledoff>:/icons/img/3-48.ico</disabledoff>
+    <disabledon>:/icons/img/3-48.ico</disabledon>
+    <selectedoff>:/icons/img/2-48.ico</selectedoff>
+    <selectedon>:/icons/img/2-48.ico</selectedon>:/icons/img/1-48.ico</iconset>
   </property>
   <property name="autoFillBackground">
    <bool>false</bool>

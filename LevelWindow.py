@@ -8,9 +8,9 @@ from PyQt4.QtCore import SIGNAL, SLOT
 from PyQt4.QtGui import QApplication, QMainWindow, QDialog
 
 import PyQt4.QtGui as Gui
+from os import path
 
-
-UiLevelWindow,  Klass = uic.loadUiType('LevelWindow.ui') 
+UiLevelWindow,  Klass = uic.loadUiType(path.join("dep",'LevelWindow.ui')) 
 
 class Window(QDialog,  UiLevelWindow):
     def __init__(self,  conteneur=None):

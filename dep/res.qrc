@@ -1,8 +1,8 @@
 <RCC>
   <qresource prefix="icons">
-    <file>1-48.ico</file>
-    <file>2-48.ico</file>
-    <file>3-48.ico</file>
+    <file>img/1-48.ico</file>
+    <file>img/2-48.ico</file>
+    <file>img/3-48.ico</file>
   </qresource>
   <qresource prefix="flags">
     <file>toeic.png</file>
