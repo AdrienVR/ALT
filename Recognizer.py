@@ -5,6 +5,7 @@
 ### MaJ 15/11/13
 
 from DecoderAll import *
+import os
 
 
 class Recognizer():
@@ -23,24 +24,26 @@ class Recognizer():
     def synonymes(self):
         dec=Decoder()
         syn={}
-        a=open("SynFr.txt")
+        a=open(os.path.join("dep","SynFr.txt"))
         b=a.readlines()
         a.close()
         for x in b:
-            x=x.replace("\n","")
+            x=x.strip()
             i,j=x.split(":")
             i=dec.decode(i)
             j=dec.decode(j)
             syn[i]=j
-        self.__class__.staticSynonymes=syn
+        Recognizer.staticSynonymes=syn
 
     def normalise(self,mot):
         """normalise un mot"""
+        if(len(mot)==0):
+            return mot
         mot=mot.lower()
         mot.replace(u"œ","oe")
         for x in u",;:!?./§%*¨^£¤~#|`_\\/<>":
             mot.replace(x,"")
-        
+
         if self.ACCENT:
             for x in range(len(self.accents)):
                 mot.replace(self.accents[x],self.equival[x])
@@ -49,8 +52,7 @@ class Recognizer():
             mot.replace("-"," ")
         if self.PLURIEL:
             mot=self.singulariser(mot)
-        while mot[-1]==" ":mot=mot[:-1]
-        while mot[0]==" ":mot=mot[1:]
+        mot=mot.strip()
         return mot
 
     def traduire(self,mot,rep):
@@ -67,7 +69,7 @@ class Recognizer():
                     if x in rep:bonnes+=1
             if bonnes>len(rep)-2:
                 return True
-            
+
         if self.DYSLEXIE:
             bonnes=0
             total=len(rep)
@@ -87,16 +89,18 @@ class Recognizer():
             else : return False
         else:
             if mot==rep:return True
-            
-        if rep in self.__class__.staticSynonymes.keys():
-            for syn in self.__class__.staticSynonymes[rep].split(","):
+
+        if rep in Recognizer.staticSynonymes.keys():
+            for syn in Recognizer.staticSynonymes[rep].split(","):
                 syn=self.normalise(syn)
                 if self.accepter(mot,syn):return True
-        
+
         return False
-        
-        
+
+
     def singulariser(self,mot):
+        if(len(mot)==0):
+            return mot
         if mot[-1] in ["s","x"]:
             if mot[-1]=="s":
                 mot=mot[:-1]
@@ -110,11 +114,12 @@ class Recognizer():
         """
         Savoir si le mot est correct
         """
-        if len(mot)<1: print "false length1"#return False
+        #if len(mot)<1: print "false length1"#return False
+        if len(mot)<1: return False
         mot=self.normalise(mot)
         corr=corr.split("(")[0]#retire les commentaires
         corr=self.normalise(corr)
-        
+
         if mot==corr: return True
         lMots=mot.split()
 

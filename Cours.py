@@ -13,9 +13,9 @@ class Cours():
   # Constructeur
   def __init__(self):
     self.cours={}
-    
+
     self.charger()
-    
+
   def charger(self):
     curr=getcwd()
     for x in listdir(curr+"/cours"):
@@ -27,10 +27,10 @@ class Cours():
             if path.isfile(path.join(curr+"/cours/"+x, y)):
               y=y[:y.find(".")]
               self.load(x,y)
-                
+
   def create(self,x):
     self.cours[x]={}
-  
+
   def load(self,x,y):
         try:
           a=open("cours/"+x+"/"+y+".txt")
@@ -46,13 +46,13 @@ class Cours():
             print nb,y
             raise "Pas assez de questions : mauvais fichier"
           #end
-          
+
           self.cours[x][y]={}
 
           for codec in ["utf-8","ISO-8859-15","utf-16",""]:
                 try:
                     for j in z:
-                      j=j.replace("\n","").decode(codec)
+                      j=j.strip().decode(codec)
                       u=j.split(":")[1]
                       v=j.split(":")[0]
                       self.cours[x][y][u]=v
@@ -82,8 +82,8 @@ def QCours(mw):
         mw.connect(mw.lineEditCours,  SIGNAL("textEdited (const QString&)"), mw.clearValidite)
         mw.connect(mw.pushButtonCpa3, SIGNAL("released()"), mw.saisPas)
         mw.connect(mw.pushButtonValideCours, SIGNAL("released()"), mw.checkCours)
-        
+
 def inTrue(mot,corr):
-    
+
     return Recognizer().isInList(mot,corr)
-    
+

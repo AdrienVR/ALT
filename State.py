@@ -11,7 +11,6 @@ from PyQt4.QtGui import QApplication
 
 import LevelWindow
 
-
 #from Recognizer import *
 class State():
   """ Décrit une classe qui gère une liste d'index de questions"""
@@ -73,7 +72,7 @@ class State():
     """ s'occupe de changer la question de place"""
     #for x in self.question.keys():print x
     prochain=self.level
-    
+
     if result == "done":
       self.signe+=1
       if self.level==0:
@@ -105,7 +104,7 @@ class State():
       except:
           self.question[prochain]=list([self.previous])
     return
-      
+
   def experience(self):
     ## il faut calculer le nombre de bonnes réponses d'affilée.
     if self.exp==0:
@@ -132,6 +131,6 @@ class State():
     elif self.niveau==u"Haut niveau":
           self.tours={"su":999,"decouvert":99,"mauvais":20,"dur":28,"vague":32}
     return
-    
+
   def getAnswer(self):
     return self.suivant("zap")

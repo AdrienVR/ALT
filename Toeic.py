@@ -17,7 +17,7 @@ class Toeic():
     self.explications=[]
     self.identifiant=""
     self.complet=""
-    
+
     self.questionnaire=self.charge()#liste de questions
     self.nb=len(self.questionnaire)
 
@@ -31,7 +31,7 @@ class Toeic():
 
     self.h={}
     pp=['about', 'above', 'across', 'after', 'against', 'among', 'around', 'as', 'at', 'before', 'behind', 'below', 'beneath', 'beside', 'between', 'beyond', 'but', 'by', 'despite', 'down', 'during', 'except', 'for', 'from', 'in', 'inside', 'into', 'near', 'next', 'of', 'on', 'opposite', 'out', 'outside', 'over', 'per', 'plus', 'round', 'since', 'than', 'through', 'till', 'to', 'toward', 'under', 'unlike', 'until', 'up', 'via', 'with', 'within', 'without', '', 'two words', 'according to', 'because of', 'close to', 'due to', 'except for', 'far from', 'inside of', 'instead of', 'near to', 'next to', 'outside of', 'prior to', '', 'three words', 'as far as', 'as well as', 'in addition to', 'in front of', 'in spite of', 'on behalf of', 'on top of']
-    
+
     for x in self.questionnaire[:-1]:
       self.suivant()
       if self.choix[self.reponse][0].upper() in "ABCD" and not self.choix[self.reponse][1].lower() in "azertyuiopqsdfghjklmwxcvbn " :
@@ -40,10 +40,10 @@ class Toeic():
       else :
                 self.identifiant=str(self.choix[self.reponse][0:])
                 self.complet=self.identifiant
-      self.identifiant.replace("\n","")
+      self.identifiant = self.identifiant.strip()
       if self.identifiant in pp+self.h.keys():
         self.identifiant=roll(self.question)+" "+self.identifiant
-        self.identifiant.replace("\n","")
+        self.identifiant = self.identifiant.strip()
         if self.identifiant in self.h.keys():self.identifiant+="_2"
       self.h[self.identifiant]={"question":self.question,
                                 "choix":dict({"A":self.choix["A"],"B":self.choix["B"],"C":self.choix["C"],"D":self.choix["D"]}),
@@ -55,7 +55,7 @@ class Toeic():
     self.questionnaire=self.h
     self.h=None
     self.index=0
-      
+
   def charge(self):
     f=open("toeic/toeic.txt")
     a=f.readlines()
@@ -66,7 +66,7 @@ class Toeic():
         b=a[x]
         l=[]
         while b!="\n" and x < len(a)-1:
-            l.append(b.replace("\n",""))
+            l.append(b.strip())
             x+=1
             b=a[x]
         c.append(l)
@@ -84,7 +84,7 @@ class Toeic():
     self.reponse=self.questionnaire[self.index][-1]
 
     if self.index>=self.nb: self.toeic.index=0
-    
+
   def getKeys(self):
     return self.questionnaire.keys()
 

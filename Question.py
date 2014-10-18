@@ -4,7 +4,7 @@
 ## 22 10 2013
 
 class Question():
-  
+
   def __init__(self):
     """Définit une classe qui gère une question à nombre de réponses variable."""
     self.question=""
@@ -12,7 +12,7 @@ class Question():
     self.reponse=""
     self.explications=""
     self.identifiant=""
-  
+
   def extract(self,fichier):
     blocs=[]
     ind=1
@@ -26,7 +26,7 @@ class Question():
                   if len(bloc)>0:
                     if type(bloc[0])!=type(5):
                        bloc.insert(0,len(bloc)-1+1)##donne l'index de début de commentaires
-                bloc.append(ligne.replace("\n",""))
+                bloc.append(ligne.strip())
           old=ind+1
       except:
         for ligne in fichier[old:len(fichier)] :
@@ -34,7 +34,7 @@ class Question():
                   if len(bloc)>0:
                     if type(bloc[0])!=type(5):
                        bloc.insert(0,len(bloc)-1+1)##donne l'index de début de commentaires
-                bloc.append(ligne.replace("\n",""))
+                bloc.append(ligne.strip())
         ind=0
       if len(bloc)!=0:
         blocs.append(bloc)
