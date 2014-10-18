@@ -17,6 +17,7 @@ from Recognizer import *
 from State import *
 from Toeic import *
 import UserWindow
+from Stats import *
 
 Recognizer().synonymes()
 
@@ -35,7 +36,14 @@ class MainWindow(QMainWindow,  Ui_MainWindow):
         self.user=None
         self.nom=""
 
+        self.stats = Stats(self.progressBarQCM,
+                           self.progressBarTraduction,
+                           self.progressBarCours,
+                           self.progressBarQCM_2)
+
         self.toeic=Toeic()
+        self.stats.initPb("toeic", self.toeic.nb)
+        self.stats.initPb("toeic2", self.toeic.nb)
         self.cours=Cours()
         self.questionnaire=QCM()
 
@@ -64,6 +72,7 @@ class MainWindow(QMainWindow,  Ui_MainWindow):
             self.profil()
         self.recog=Recognizer(self.user.getMod(),0)
         self.retourMenu()
+        self.computeQCMScore()
 
     def createConnexions(self):
 
@@ -213,15 +222,6 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
         self.labelExp.setText(u"Total de questions répondues : "+unicode(exp))
         #self.labelNiveau.clear()
         #self.labelIndex.clear()
-
-        if self.nom!="":
-            if 1 in self.user.toeic.question.keys():
-                self.progressBarQCM.setMaximum(len(self.user.toeic.question[0]))
-                self.progressBarQCM.setValue(len(self.user.toeic.question[1]))
-##                self.progressBarQCM_2.setMaximum(len(self.user.toeic.question[0]))
-##                self.progressBarQCM_2.setValue(len(self.user.toeic.question[1]))
-##                self.progressBarTraduction.setValue(0)#len(self.user.voc.question[1]))
-##                self.progressBarTrad_2.setValue(0)#len(self.user.voc.question[1]))
 
     def update2(self):#,item):
         self.labelNiveau.setText("Niveau "+self.user.toeic.niveau)
@@ -448,6 +448,15 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
         self.MainStackedWidget.setCurrentIndex(1)
         self.timeBegin=time.time()
 
+    def computeQCMScore(self):
+            somme=0
+            for x in ["su","decouvert"]:
+                somme+=len(self.user.toeic.question[x])
+            self.labelBonjour.setText(u"Questions réussies : "+unicode(somme))
+            self.stats.update("toeic", somme)
+            self.stats.update("toeic2", somme)
+
+
     def setQCM(self):
         if self.type=="toeic":
             self.qcm=self.toeic.questionnaire[self.qcmKey.strip()]
@@ -457,15 +466,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
                 self.answer[x].show()
                 self.answer[x].setText(x+" : "+self.qcm["choix"][x])
             self.update()
-            somme=0
-            for x in ["su","decouvert"]:
-                somme+=len(self.user.toeic.question[x])
-            self.labelBonjour.setText(u"Questions réussies : "+unicode(somme))
-            somme2=0
-            for x in self.user.toeic.question.keys():
-                somme2+=len(self.user.toeic.question[x])
-            self.progressBarQCM_2.setValue(float(somme)/float(somme2))
-            self.progressBarQCM.setValue(float(somme)/float(somme2))
+            self.computeQCMScore()
 
         elif self.type=="qcm":
             self.qcm=self.questionnaire.qcm[self.sujet][self.chapter][self.qcmKey].getDict()
