@@ -532,6 +532,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
         else :
             self.qcmKey=self.user.qcmpersos[self.sujpter].getAnswer()
         self.setQCM()
+        self.computeQCMScore()
 
     ###### end #########
 
