@@ -465,8 +465,6 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
             for x in "ABCD":
                 self.answer[x].show()
                 self.answer[x].setText(x+" : "+self.qcm["choix"][x])
-            self.update()
-            self.computeQCMScore()
 
         elif self.type=="qcm":
             self.qcm=self.questionnaire.qcm[self.sujet][self.chapter][self.qcmKey].getDict()
@@ -478,7 +476,9 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
                 if x=="E":break
                 self.answer[x].show()
                 self.answer[x].setText(x+" : "+self.qcm["choix"][x])
-            self.update()
+
+        self.update()
+        self.computeQCMScore()
 
         self.timeBegin=time.time()
 
