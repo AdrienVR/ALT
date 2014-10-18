@@ -1,0 +1,6 @@
+
+# ignore the following in commit :
+build/
+
+*.pyc
+*.bin
