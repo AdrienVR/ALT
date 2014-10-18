@@ -106,6 +106,8 @@ class MainWindow(QMainWindow,  Ui_MainWindow):
 ##        print "prout",event.oldSize().height()
 
     def profil(self):
+        if self.user != None:
+            self.user.save()
         self.UserWindow=UserWindow.Window(contain=a)
         self.labelIndex.hide()
         self.labelNiveau.hide()
@@ -115,6 +117,7 @@ class MainWindow(QMainWindow,  Ui_MainWindow):
             self.nom=self.user.nom
             self.user.save()
             self.update()
+        self.computeQCMScore()
 
     def level(self):
             niv=""
@@ -524,6 +527,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
         else :
             self.qcmKey=self.user.qcmpersos[self.sujpter].getAnswer()
         self.setQCM()
+        self.computeQCMScore()
 
     ###### end #########
 
