@@ -1,1 +1,1 @@
-python setup.py build
+python Assimilator.py
