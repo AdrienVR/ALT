@@ -9,11 +9,11 @@ This software is a good tool to train for the TOEIC test.
 ## Dependency
 
 * [Python 2.7](https://www.python.org/download/releases/2.7.8/)
-* [pyQt4](http://www.riverbankcomputing.co.uk/software/pyqt/download)
+* [PySide](https://pypi.python.org/pypi/PySide#installing-pyside-on-a-windows-system)
 
 ## Instructions
 
-This branch master is the PySide branch. An other branch contains code with PyQt API.
+This branch is the PySide branch. Master branch contains code with PyQt API.
 main : Assimilator.py
 
 | ![Python 2.7](https://www.python.org/static/img/python-logo.png "Python 2.7") | ![Qt4](http://www.fevrierdorian.com/blog/public/logos/Qt_logo002.png "Qt4") |
