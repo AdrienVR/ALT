@@ -16,7 +16,7 @@ This software is a good tool to train for the TOEIC test.
 This branch is the PySide branch. Master branch contains code with PyQt API.
 main : Assimilator.py
 
-| ![Python 2.7](https://www.python.org/static/img/python-logo.png "Python 2.7") | ![Qt4](http://www.fevrierdorian.com/blog/public/logos/Qt_logo002.png "Qt4") | http://srinikom.github.io/pyside-docs/_static/pysidelogo.png |
+| ![Python 2.7](https://www.python.org/static/img/python-logo.png "Python 2.7") | ![Qt4](http://www.fevrierdorian.com/blog/public/logos/Qt_logo002.png "Qt4") | https://srinikom.github.io/pyside-docs/_static/pysidelogo.png |
 |:----:|:----:|:----:|
 
 ## Author
