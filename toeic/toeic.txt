@@ -4078,20 +4078,13 @@ take
 do 
 handle 
 deal 
-B
+D
 
 3 - What would you say to a member of your staff who always ....... his work in late?
 delivered
 handed 
 produced 
-completed 
-D
-
-4 - What would you say to a member of your staff who always ....... his work in late?
-believe 
-show 
-decide 
-honour 
+completed
 B
 
 5 - Finally now that we've asked you several questions, do you want to ....... any to us?
@@ -4099,7 +4092,7 @@ place
 put 
 offer 
 consider
-D
+B
 
 1 - There is an additional ....... added to the price of the product if you want to have it delivered to your house.
 figure 
