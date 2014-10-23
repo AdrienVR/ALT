@@ -527,6 +527,8 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
                 s+="The correct answer is "+self.qcm["reponse"]+" : "+self.qcm["choix"][self.qcm["reponse"]]+".\n"
             self.statusBar().showMessage("T'es nul !",1000)
             a.information(self,u"Mauvaise réponse",s)
+        else:
+            self.statusBar().showMessage("Bonne réponse !",3000)
         if self.type=="toeic":
             self.qcmKey=self.user.toeic.suivant(result)
         else :

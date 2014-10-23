@@ -43,73 +43,73 @@ The correct answer is C.
 C
 
 1/ Try and be a little more cheerful because if you don't bear ___ soon, you'll make everyone else miserable.
-a. through
-b. along
-c. up
-d. to
+through
+along
+up
+to
 C
 
 2/ We were in a small rowing boat and were terrified that the streamer hadn't seen us as it was bearing ____ on us.
-a. down
-b. across
-c. over
-d. under
+down
+across
+over
+under
 A
 
 3/ I fully understand your comments and bearing those in ____, I have made the appropriate decision.
-a. brain
-b. mind
-c. thought
-d. sense
+brain
+mind
+thought
+sense
 B
 
 4/ As we have all worked very hard this year, I'm hoping that our efforts will bear ____.
-a. produce
-b. benefits
-c. yields
-d. fruit
+produce
+benefits
+yields
+fruit
 D
 
 5/ We all have our ___ to bear so I should be grateful if you would stop complaining all the time.
-a. problems
-b. situations
-c. crosses
-d. results
+problems
+situations
+crosses
+results
 C
 
 6/ There is really nothing much you can do to stop it and I'm afraid you'll just have to ___ and bear it.
-a. scorn
-b. grin
-c. laugh
-d. smile
+scorn
+grin
+laugh
+smile
 B
 
 7/ I hope you can be patient for a little longer and bear ___ me while I try and solve the problem.
-a. by
-b. on
-c. at
-d. with
+by
+on
+at
+with
 D
 
 8/ She can been proved right in everything she did as the report quite clearly bears ___.
-a. out
-b. to
-c. for
-d. onto
+out
+to
+for
+onto
 A
 
 9/ The judge dismissed the new evidence completely because it had no bearing ___ the trial.
-a. to
-b. on
-c. into
-d. by
+to
+on
+into
+by
 B
 
 10/ Quite honestly the two case are so completely different that they really don't bear _____
-a. confirmation
-b. contrast
-c. comprehension
-d. comparison
+confirmation
+contrast
+comprehension
+comparison
 D
 
 1 - Organisations that have a strong communications function frequently ....... those that don't; private sector companies that communicate effectively have a 19.4 per cent higher market premium than companies that do not.
@@ -7791,7 +7791,7 @@ were designated
 designated 
 D
 
-3 - Participants fly to the convention can get a group rate.
+3 - Participants _______ fly to the convention can get a group rate.
 they 
 who 
 which 
