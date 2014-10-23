@@ -528,7 +528,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
             self.statusBar().showMessage("T'es nul !",1000)
             a.information(self,u"Mauvaise réponse",s)
         else:
-            self.statusBar().showMessage("Bonne réponse !",3000)
+            self.statusBar().showMessage(u"Bonne réponse !",3000)
         if self.type=="toeic":
             self.qcmKey=self.user.toeic.suivant(result)
         else :
