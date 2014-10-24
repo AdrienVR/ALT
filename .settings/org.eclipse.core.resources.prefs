@@ -8,6 +8,7 @@ encoding/QCM.py=utf-8
 encoding/Question.py=utf-8
 encoding/Recognizer.py=utf-8
 encoding/State.py=utf-8
+encoding/Stats.py=utf-8
 encoding/Toeic.py=utf-8
 encoding/Ui_Main.py=utf-8
 encoding/UserWindow.py=utf-8
