@@ -7,7 +7,7 @@ This software is a good tool to train for the TOEIC test.
 |:----:|:----:|
 
 ## Download
-* For Windows : [ALT 0.4](https://drive.google.com/?tab=mo&authuser=0#folders/0B2xlFxzCEekzNDZrSVQ0c2Y3Vjg)
+* For Windows : [ALT 0.4](https://drive.google.com/file/d/0B2xlFxzCEekzWGRKVk1lb1RxMWc/view?usp=sharing)
 
 ## Dependency
 
