@@ -6,6 +6,9 @@ This software is a good tool to train for the TOEIC test.
 | ![ALT2](https://raw.githubusercontent.com/AdrienVR/ALT/master/alt2.jpg "ALT2") | ![ALT1](https://raw.githubusercontent.com/AdrienVR/ALT/master/alt1.jpg "ALT1") |
 |:----:|:----:|
 
+## Download
+* For Windows : [ALT 0.4](https://drive.google.com/?tab=mo&authuser=0#folders/0B2xlFxzCEekzNDZrSVQ0c2Y3Vjg)
+
 ## Dependency
 
 * [Python 2.7](https://www.python.org/download/releases/2.7.8/)
