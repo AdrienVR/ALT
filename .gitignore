@@ -1,6 +1,7 @@
 
 # ignore the following in commit :
 build/
+dist/
 
 *.pyc
 *.bin
