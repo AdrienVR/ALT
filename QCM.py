@@ -33,39 +33,36 @@ class QCM():
   def load(self,x,y):
         try:
           a=open("qcm/"+x+"/"+y+".txt")
-          z=a.readlines()
+          file_lines=a.readlines()
           a.close()
 
           #verification fichier
           old=""
-          m=0
-          for ligne in z:
-            ligne = ligne.strip()
-            if old==ligne:
-              print "same line"
-              raise
-            if ligne[0]=='':
-              if m<4:
+          bloc_size=0
+          for line in file_lines:
+            line = line.strip()
+            if line=="":
+              if bloc_size<4:
                 print "<4"
-                raise
-              m=0
-            else : m+=1
-            old=ligne
+                raise Exception
+              bloc_size=0
+            else : 
+                bloc_size+=1
+            old=line
           #end
+          
+          #questions loading
           for codec in ["utf-8","ISO-8859-15","utf-16",""]:
                 try:
-                    blocs=Question().extract(z)
+                    blocs=Question().extract(file_lines)
                     self.qcm[x][y]=self.loader(blocs)
                     break
                 except:
                   pass
-##          for ij in self.qcm[x][y].keys():
-##            print str(self.qcm[x][y][ij])
-          #print self.qcm.keys()
-          print y," nickel"
+          print y," loaded correctly"
           return True
-        except:
-          print "erreur de chargement : "+x+y
+        except Exception, e:
+          print "loading error : "+x+"/"+y+"\n"+str(e)+"\n"
           return False
 
   def loader(self,blocs):

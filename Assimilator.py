@@ -201,7 +201,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
                                             réponse3
                                             réponse4
                                             réponse5 (optionnel)
-                                            explications (optionnel)
+                                            #explications (optionnel)
                                             réponse
                                Une ligne vide doit séparer chaque question.
                                             question
