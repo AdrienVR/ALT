@@ -78,6 +78,7 @@ class MainWindow(QMainWindow,  UiMainWindow):
         self.show()
         while self.nom=="":
             self.profil()
+        self.computeQCMScore()
         self.recog=Recognizer(self.user.getMod(),0)
         self.retourMenu()
 
@@ -124,7 +125,6 @@ class MainWindow(QMainWindow,  UiMainWindow):
             self.nom=self.user.nom
             self.user.save()
             self.update()
-        self.computeQCMScore()
         
     def changeLessonLevel(self):
         niv = self.level()
