@@ -61,7 +61,7 @@ class Cours():
                   pass
           return True
         except:
-          print "err "+x+y
+          print "invalid file : "+x+"/"+y+"\n"
           return False
 
   ###############

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 
 
 
@@ -15,3 +16,4 @@ class Stats():
 
     def update(self, string, taux):
         self.dictProgressBars[string].setValue(taux)
+        self.dictProgressBars[string].update()

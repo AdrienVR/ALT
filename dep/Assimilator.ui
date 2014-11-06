@@ -21,14 +21,7 @@
   </property>
   <property name="windowIcon">
    <iconset resource="res.qrc">
-    <normaloff>:/icons/1-48.ico</normaloff>
-    <normalon>:/icons/1-48.ico</normalon>
-    <disabledoff>:/icons/3-48.ico</disabledoff>
-    <disabledon>:/icons/3-48.ico</disabledon>
-    <activeoff>:/icons/1-48.ico</activeoff>
-    <activeon>:/icons/1-48.ico</activeon>
-    <selectedoff>:/icons/2-48.ico</selectedoff>
-    <selectedon>:/icons/2-48.ico</selectedon>:/icons/1-48.ico</iconset>
+    <normaloff>:/icons/1-48.ico</normaloff>:/icons/1-48.ico</iconset>
   </property>
   <property name="autoFillBackground">
    <bool>false</bool>
@@ -244,7 +237,7 @@ p, li { white-space: pre-wrap; }
        </size>
       </property>
       <property name="currentIndex">
-       <number>1</number>
+       <number>0</number>
       </property>
       <widget class="QWidget" name="Menu">
        <layout class="QVBoxLayout" name="verticalLayout_5">
@@ -350,7 +343,7 @@ p, li { white-space: pre-wrap; }
               </spacer>
              </item>
              <item>
-              <widget class="QToolButton" name="toolButtonToeic">
+              <widget class="QToolButton" name="toolButtonQCM">
                <property name="sizePolicy">
                 <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
                  <horstretch>0</horstretch>
@@ -429,7 +422,7 @@ p, li { white-space: pre-wrap; }
               </spacer>
              </item>
              <item>
-              <widget class="QToolButton" name="toolButtonQcm">
+              <widget class="QToolButton" name="toolButtonTraduction">
                <property name="sizePolicy">
                 <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
                  <horstretch>0</horstretch>
@@ -498,7 +491,7 @@ p, li { white-space: pre-wrap; }
               </spacer>
              </item>
              <item>
-              <widget class="QToolButton" name="toolButtonTraduction">
+              <widget class="QToolButton" name="toolButtonCours">
                <property name="sizePolicy">
                 <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
                  <horstretch>0</horstretch>
@@ -1984,16 +1977,25 @@ p, li { white-space: pre-wrap; }
    </property>
   </action>
   <action name="actionImporter">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
    <property name="text">
     <string>Importer</string>
    </property>
   </action>
   <action name="actionExporter">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
    <property name="text">
     <string>Exporter</string>
    </property>
   </action>
   <action name="actionR_initialiser">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
    <property name="text">
     <string>Réinitialiser</string>
    </property>

@@ -106,32 +106,33 @@ class State():
           self.question[prochain]=list([self.previous])
     return
       
+
   def experience(self):
     ## il faut calculer le nombre de bonnes réponses d'affilée.
     if self.exp==0:
-        if self.niveau==u"Débutant":
-          self.signe=-1
-        elif self.niveau==u"Intermédiaire":
-          self.signe=3
-        elif self.niveau==u"Haut niveau" :
+#         if self.niveau==u"Débutant":
+#           self.signe=-1
+#         elif self.niveau==u"Intermédiaire":
+#           self.signe=3
+#         elif self.niveau==u"Haut niveau" :
           self.signe=10
     else :
         if self.signe>9:
           self.niveau=u"Haut niveau"
-        elif self.signe>3:
-          self.niveau=u"Intermédiaire"
-        else : self.niveau=u"Débutant"
+#         elif self.signe>3:
+#           self.niveau=u"Intermédiaire"
+#         else : self.niveau=u"Débutant"
 
   def index(self):
-    #modulo lim 100
-    self.experience()
-    if self.niveau==u"Débutant":
-          self.tours={"su":20,"decouvert":10,"mauvais":50,"dur":17,"vague":28}
-    elif self.niveau==u"Intermédiaire":
-          self.tours={"su":999,"decouvert":50,"mauvais":6,"dur":14,"vague":16}
-    elif self.niveau==u"Haut niveau":
+#     #modulo lim 100
+#     self.experience()
+#     if self.niveau==u"Débutant":
+#           self.tours={"su":20,"decouvert":10,"mauvais":50,"dur":17,"vague":28}
+#     elif self.niveau==u"Intermédiaire":
+#           self.tours={"su":999,"decouvert":50,"mauvais":6,"dur":14,"vague":16}
+#     elif self.niveau==u"Haut niveau":
           self.tours={"su":999,"decouvert":99,"mauvais":20,"dur":28,"vague":32}
-    return
+          return
     
   def getAnswer(self):
     return self.suivant("zap")

@@ -40,10 +40,7 @@ class QCM():
           m=0
           for ligne in z:
             ligne = ligne.strip()
-            if old==ligne:
-              print "same line"
-              raise
-            if ligne[0]=='':
+            if ligne=="":
               if m<4:
                 print "<4"
                 raise
@@ -58,13 +55,10 @@ class QCM():
                     break
                 except:
                   pass
-##          for ij in self.qcm[x][y].keys():
-##            print str(self.qcm[x][y][ij])
-          #print self.qcm.keys()
-          print y," nickel"
+          print y," loaded correctly"
           return True
         except:
-          print "erreur de chgt "+x+y
+          print "loading error "+x+"/"+y+"\n"
           return False
 
   def loader(self,blocs):
