@@ -102,6 +102,7 @@ class MainWindow(QMainWindow,  UiMainWindow):
         self.connect(self.pushButtonGo,  SIGNAL("clicked()"), self.go)
 
         self.connect(self.actionPreferences,  SIGNAL("triggered()"), self.preferences)
+        self.connect(self.actionChange_level, SIGNAL("triggered()"), self.changeLessonLevel)
 
         #self.toolButtonQCM.resizeEvent =  self.pt
 
@@ -124,6 +125,15 @@ class MainWindow(QMainWindow,  UiMainWindow):
             self.user.save()
             self.update()
         self.computeQCMScore()
+        
+    def changeLessonLevel(self):
+        niv = self.level()
+        if self.type=="cours":
+            self.user.persos[self.sujpter].niveau = niv
+        elif self.type=="qcm":
+            self.user.qcmpersos[self.sujpter].niveau=niv
+        else:
+            self.user.toeic.niveau=niv
 
     def level(self):
             niv=""
@@ -169,7 +179,7 @@ class MainWindow(QMainWindow,  UiMainWindow):
             self.labelIndex.setText(self.sujpter)
 
     def helpe(self):
-        a=Gui.QMessageBox()
+        a=Gui.QMessageBox(self)
         if self.type=="cours":
             s=u"""Pour ajouter des cours, allez dans le répertoire d'installation puis dans "cours".
 Vous devez y créer un dossier dont le nom correspond au nom du sujet de votre cours.
@@ -179,6 +189,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque ligne du fichier
                                             question:réponse
                                             question:réponse
                                                    etc..."""
+            a.information(self,u"Information",s)
         elif self.type=="qcm":
             s=u"""Pour ajouter un QCM, allez dans le répertoire d'installation puis dans "qcm".
 Vous devez y créer un dossier dont le nom correspond au nom du sujet de votre QCM.
@@ -189,12 +200,21 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
                                             réponse2
                                             réponse3
                                             réponse4
-                                            explications
+                                            réponse5 (optionnel)
+                                            explications (optionnel)
                                             réponse
-                               Une ligne vide doit séparer chaque question."""
+                               Une ligne vide doit séparer chaque question.
+                                            question
+                                            etc..."""
+            a.information(self,u"Information",s)
         else:
-            s=u"""Ce programme est génial"""
-        a.information(self,u"Information",s)
+            s=u"""Ce programme est génial <br> <br />
+            Auteur : Adrien Vernotte<br> <br />
+            Contact en cas de bug : <A HREF="mailto:a1vernot@enib.fr">a1vernot@enib.fr</A>"""
+            a.setTextFormat(Qt.RichText);
+            a.setWindowTitle(u"À propos");
+            a.setText(s)
+            a.exec_()
 
 
 
@@ -203,6 +223,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
     ##################################################################
 
     def retourMenu(self):
+        self.actionChange_level.setEnabled(False)
         if self.type!="qcm":
             self.MainStackedWidget.setCurrentIndex(0)
             self.sujet=""
@@ -309,6 +330,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
     #######################Traduction Vocabulaire#####################
 
     def actionTrad(self):
+        self.actionChange_level.setEnabled(True)
         self.type="qcm"
         self.MainStackedWidget.setCurrentIndex(2)
         self.listSujet.clear()
@@ -329,6 +351,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
     ####################### Cours persos ###############################
 
     def actionCours(self):
+        self.actionChange_level.setEnabled(True)
         self.type="cours"
         self.MainStackedWidget.setCurrentIndex(2)
         self.listSujet.clear()
@@ -381,7 +404,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
 
             a=Gui.QMessageBox()
 
-            s=u"La bonne réponse était : "+self.coursKey+".\n"
+            s=u"La bonne réponse était : "+unicode(self.coursKey)+".\n"
 
             self.statusBar().showMessage("T'es nul !",1000)
             a.information(self,u"Mauvaise réponse",s)
@@ -437,6 +460,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
         self.stats.update("toeic2", somme)
 
     def actionQCM(self):
+        self.actionChange_level.setEnabled(True)
         self.type="toeic"
         if self.user.toeic.niveau=="":
             ## Nouvel utilisateur, ou nouveau QCM

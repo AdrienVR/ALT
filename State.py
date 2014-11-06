@@ -50,7 +50,7 @@ class State():
     self.tour+=1
     self.exp+=1
 
-    #aleatoire
+    #aleatoire : sample (random.sample)
     self.previous=sample(self.question[self.level],1)[0]
     return self.previous
 

@@ -1981,16 +1981,25 @@ p, li { white-space: pre-wrap; }
    </property>
   </action>
   <action name="actionImporter">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
    <property name="text">
     <string>Importer</string>
    </property>
   </action>
   <action name="actionExporter">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
    <property name="text">
     <string>Exporter</string>
    </property>
   </action>
   <action name="actionR_initialiser">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
    <property name="text">
     <string>Réinitialiser</string>
    </property>
