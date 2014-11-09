@@ -8,8 +8,8 @@ This software is a good tool to train for the TOEIC test.
 
 ## Download
 * For Windows : 
- [ALT 0.5 zip : 22 mo](https://drive.google.com/file/d/0B2xlFxzCEekzcEdraHRyM2dhc1k/view?usp=sharing)
- [ALT 0.5 7z : 16 mo](https://drive.google.com/file/d/0B2xlFxzCEekzSWVHWlVYb3h4UFk/view?usp=sharing)
+ [ALT 0.5 zip : 22 mo](https://drive.google.com/file/d/0B2xlFxzCEekzcEdraHRyM2dhc1k/view?usp=sharing)  
+ [ALT 0.5 7z : 16 mo](https://drive.google.com/file/d/0B2xlFxzCEekzSWVHWlVYb3h4UFk/view?usp=sharing)  
 
 ## Windows Dependencies
 
@@ -18,12 +18,12 @@ This software is a good tool to train for the TOEIC test.
 
 ## Linux Dependencies :
 
-sudo apt-get install python-opengl
-sudo apt-get install python-numpy
-sudo apt-get install python-imaging
-sudo apt-get install python-imaging-tk
-sudo apt-get install python-qt4
-(optional) sudo apt-get install cx-freeze
+sudo apt-get install python-opengl  
+sudo apt-get install python-numpy  
+sudo apt-get install python-imaging  
+sudo apt-get install python-imaging-tk  
+sudo apt-get install python-qt4  
+(optional) sudo apt-get install cx-freeze  
 
 ## Instructions
 
