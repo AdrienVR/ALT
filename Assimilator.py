@@ -92,7 +92,7 @@ class MainWindow(QMainWindow,  UiMainWindow):
         self.connect(self.pushButtonBack,  SIGNAL("clicked()"), self.retourMenu)
         self.connect(self.pushButtonBack3,  SIGNAL("clicked()"), self.retourMenu)
 
-        self.connect(self.pushButtonHelp,  SIGNAL("clicked()"), self.helpe)
+        self.connect(self.pushButtonHelp,  SIGNAL("clicked()"), self.about_me)
 
         self.connect(self.listSujet,  SIGNAL("currentItemChanged (QListWidgetItem *, QListWidgetItem *)"), self.changeSujet)
         self.connect(self.listChapter,  SIGNAL("currentItemChanged (QListWidgetItem *, QListWidgetItem *)"), self.changeChapter)
@@ -189,7 +189,6 @@ dans ce nouveau répertoire, avec le format suivant pour chaque ligne du fichier
                                             question:réponse
                                             question:réponse
                                                    etc..."""
-            a.information(self,u"Information",s)
         elif self.type=="qcm":
             s=u"""Pour ajouter un QCM, allez dans le répertoire d'installation puis dans "qcm".
 Vous devez y créer un dossier dont le nom correspond au nom du sujet de votre QCM.
@@ -206,15 +205,17 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
                                Une ligne vide doit séparer chaque question.
                                             question
                                             etc..."""
-            a.information(self,u"Information",s)
-        else:
-            s=u"""Ce programme est génial <br> <br />
-            Auteur : Adrien Vernotte<br> <br />
-            Contact en cas de bug : <A HREF="mailto:a1vernot@enib.fr">a1vernot@enib.fr</A>"""
-            a.setTextFormat(Qt.RichText);
-            a.setWindowTitle(u"À propos");
-            a.setText(s)
-            a.exec_()
+        a.information(self,u"Information",s)
+            
+    def about_me(self):
+        a=Gui.QMessageBox(self)
+        s=u"""Ce programme est génial <br> <br />
+        Auteur : Adrien Vernotte<br> <br />
+        Contact en cas de bug : <A HREF="mailto:a1vernot@enib.fr">a1vernot@enib.fr</A>"""
+        a.setTextFormat(Qt.RichText);
+        a.setWindowTitle(u"À propos");
+        a.setText(s)
+        a.exec_()
 
 
 
