@@ -498,7 +498,14 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
             self.labelSpeak.setText("Question "+str(self.user.toeic.exp)+"/"+str(self.toeic.nb))
             for x in "ABCD":
                 self.answer[x].show()
-                self.answer[x].setText(x+" : "+self.qcm["choix"][x])
+                answer = self.qcm["choix"][x]
+                #cut the answer in line of length 20
+                lk=len(answer)/20
+                for k in range(lk):
+                  fi=(k+1)*20
+                  while(answer[fi]!=' '):fi+=1
+                  answer=answer[:fi]+"\n"+answer[fi:]
+                self.answer[x].setText(x+" : "+answer)
 
         elif self.type=="qcm":
             self.qcm=self.questionnaire.qcm[self.sujet][self.chapter][self.qcmKey].getDict()
@@ -509,7 +516,14 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
             for x in self.qcm["choix"].keys():
                 if x=="E":break
                 self.answer[x].show()
-                self.answer[x].setText(x+" : "+self.qcm["choix"][x])
+                answer = self.qcm["choix"][x]
+                #cut the answer in line of length 20
+                lk=len(answer)/20
+                for k in range(lk):
+                  fi=(k+1)*20
+                  while(answer[fi]!=' '):fi+=1
+                  answer=answer[:fi]+"\n"+answer[fi:]
+                self.answer[x].setText(x+" : "+answer)
 
         self.update()
         self.computeQCMScore()

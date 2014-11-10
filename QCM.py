@@ -95,6 +95,7 @@ class QCM():
             rep=rep[1:]
       q.reponse=bloc[-1]
 
+      #cut the question in line of length 100
       lk=len(q.question)/100
       for k in range(lk):
         fi=(k+1)*100
