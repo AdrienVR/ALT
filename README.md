@@ -8,8 +8,8 @@ This software is a good tool to train for the TOEIC test.
 
 ## Download
 * For Windows :   
-	[ALT 0.6.1 zip : 22 mo](https://drive.google.com/file/d/0B2xlFxzCEekzWTVCRWZWc0dQUUE/view?usp=sharing)  
-	[ALT 0.6.1 7z : 16 mo](https://drive.google.com/file/d/0B2xlFxzCEekzUlE3TnVXQXhJT00/view?usp=sharing)  
+	[ALT 0.6.1 zip : 22 mo](https://drive.google.com/file/d/0B2xlFxzCEekzOGhjcm5XeW82c2c/view?usp=sharing)  
+	[ALT 0.6.1 7z : 16 mo](https://drive.google.com/file/d/0B2xlFxzCEekzQTd0Y2ZQQmtCbmc/view?usp=sharing)  
 	  
 	[ALT 0.6 zip : 22 mo](https://drive.google.com/file/d/0B2xlFxzCEekzR2pkOHpnRlpLRTQ/view?usp=sharing)  
 	[ALT 0.6 7z : 16 mo](https://drive.google.com/file/d/0B2xlFxzCEekzSGhvUlNXcTM1RkU/view?usp=sharing)  
