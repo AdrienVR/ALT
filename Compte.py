@@ -13,7 +13,8 @@ class User():
   """ décrit la composition d'un compte"""
   #Constructeur
   def __init__(self,name=""):
-    self.mod={"accents":False,"liaison":False,"pluriel":False,"desordre":False}
+    self.mod={"accents":False,"liaison":False,"pluriel":False,
+              "desordre":False, "d":0}
 
     self.nom=name
     self.toeic=State()

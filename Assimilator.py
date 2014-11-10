@@ -159,7 +159,8 @@ class MainWindow(QMainWindow,  UiMainWindow):
                 keys=self.Pw.getKeys()
                 for x in range(len(keys)):
                     self.user.mod[keys[x]]=mod[x]
-            self.recog=Recognizer(self.user.getMod(),0)
+                self.user.mod["d"] = mod[-1]
+            self.recog=Recognizer(self.user.getMod(), self.user.mod["d"])
             return
 
     def afficherEtat(self):

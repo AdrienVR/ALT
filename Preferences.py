@@ -28,6 +28,11 @@ class PreferencesWindow(QDialog,  UiPreferencesWindow):
 
         for x in self.keys:
             self.boxes[x].setChecked(user.mod[x])
+        try:
+            self.lcdNumber.display(user.mod["d"])
+            self.horizontalSlider.setValue(user.mod["d"])
+        except:
+            user.mod["d"]=0
 
         if not boolChapter:
                 self.comboBoxLevel.setDisabled(True)
@@ -47,6 +52,7 @@ class PreferencesWindow(QDialog,  UiPreferencesWindow):
     def actionOK(self):
         for x in self.keys:
             self.result.append(self.boxes[x].isChecked())
+        self.result.append(self.horizontalSlider.value())
         self.done(1)
 
     def actionAnnuler(self):
@@ -55,6 +61,9 @@ class PreferencesWindow(QDialog,  UiPreferencesWindow):
 
     def changedSelect(self):
       self.level=unicode(self.comboBoxLevel.currentText())
+
+    def changePercent(self):
+      self.lcdNumber.display(self.horizontalSlider.value())
 
 ##    def changedMod(self):
 ##      self.selected=unicode(self.comboBoxLevel.currentText())
@@ -65,6 +74,7 @@ class PreferencesWindow(QDialog,  UiPreferencesWindow):
         self.connect(self.comboBoxLevel, SIGNAL("activated(int)"), self.changedSelect )
 ##        for a in self.keys:
 ##            self.connect(self.boxes[a], SIGNAL("toggled()"), self.changeMod )
+        self.connect(self.horizontalSlider, SIGNAL("valueChanged (int)"), self.changePercent)
 
     def getMod(self):
       return self.result

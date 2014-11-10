@@ -37,7 +37,7 @@ targetDir = "./build/"
 setup(
     name = "Assimilation Learning Tool",
     author = "Adrien Vernotte",
-    version = "0.6",
+    version = "0.6.1",
     description = "Outil d'entrainement au TOEIC - LGPL v2.1",
     executables = [Executable("Assimilator.py",
                                 base = base,

@@ -134,8 +134,9 @@ class Recognizer():
                     elif self.accepter(mot1,corr1):good+=1
                 if good==len(lMots):return True
             elif len(lMots)>len(corr.split()):
-		print "taille incorrecte"
-         #       return False
+                pass
+        		#print "taille incorrecte"
+                #       return False
             else :
                 #compter le nombre de mots justes
                 for x in lMots:

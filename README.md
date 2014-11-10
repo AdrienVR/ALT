@@ -23,7 +23,7 @@ sudo apt-get install python-qt4
 
 ## Instructions
 
-Master is the PyQt4 branch. An other branch contains code with the PySide API.
+Master is the PyQt4 branch. An other branch contains code with the PySide API.  
 Main is : Assimilator.py
 
 | ![Python 2.7](https://www.python.org/static/img/python-logo.png "Python 2.7") | ![Qt4](http://www.fevrierdorian.com/blog/public/logos/Qt_logo002.png "Qt4") |
