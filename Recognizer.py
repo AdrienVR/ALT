@@ -42,14 +42,14 @@ class Recognizer():
         mot=mot.lower()
         mot.replace(u"œ","oe")
         for x in u",;:!?./§%*¨^£¤~#|`_\\/<>":
-            mot.replace(x,"")
+            mot = mot.replace(x,"")
 
         if self.ACCENT:
             for x in range(len(self.accents)):
-                mot.replace(self.accents[x],self.equival[x])
+                mot = mot.replace(self.accents[x],self.equival[x])
         if self.LIAISON:
-            mot.replace("'"," ")
-            mot.replace("-"," ")
+            mot = mot.replace("'"," ")
+            mot = mot.replace("-"," ")
         if self.PLURIEL:
             mot=self.singulariser(mot)
         mot=mot.strip()
@@ -62,6 +62,9 @@ class Recognizer():
         return mot,rep
 
     def accepter(self,mot,rep):
+        mot,rep = self.traduire(mot,rep)
+        if (mot == rep):
+            return True
         if self.DESORDRE:
             bonnes=0
             if len(mot)<len(rep)+3:
@@ -93,7 +96,8 @@ class Recognizer():
         if rep in Recognizer.staticSynonymes.keys():
             for syn in Recognizer.staticSynonymes[rep].split(","):
                 syn=self.normalise(syn)
-                if self.accepter(mot,syn):return True
+                if self.accepter(mot,syn):
+                    return True
 
         return False
 

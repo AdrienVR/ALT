@@ -79,7 +79,7 @@ class MainWindow(QMainWindow,  UiMainWindow):
         while self.nom=="":
             self.profil()
         self.computeQCMScore()
-        self.recog=Recognizer(self.user.getMod(),0)
+        self.recog=Recognizer(self.user.getMod(),self.user.mod["d"])
         self.retourMenu()
 
     def createConnexions(self):

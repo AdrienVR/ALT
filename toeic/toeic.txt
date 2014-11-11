@@ -5495,7 +5495,7 @@ sharp
 D
 
 1- The great advantage of having an external zip drive is that you can use it as an extra means of ........
--hoarding
+hoarding
 keeping
 holding
 storage
@@ -5509,7 +5509,7 @@ technically
 A
 
 3- When you look at the modern office today you could compare the changes with those that took place in the industrial ....... in the 19th century.
-revolt [
+revolt
 revolution
 revolting
 revolving
@@ -5559,7 +5559,7 @@ B
 
 5- Job losses are mainly in the ....... sectors of the industry.
 blue-collar
--red-collar
+red-collar
 stiff-collar
 high-collar
 A
@@ -5607,7 +5607,7 @@ not
 C
 
 2- That's really not my concern at all and I'm certainly not ....... the business of telling others what to do.
--in
+in
 out
 of
 by
@@ -6205,7 +6205,7 @@ A
 taken out
 sold off
 bought up
--taken over
+taken over
 C
 
 3- You must try and hurry up because my patience is ....... out.
@@ -6293,7 +6293,7 @@ provision
 D
 
 5- We decided to employ a solicitor who would be able to ....... the extent of our liability in this matter.
--decipher
+decipher
 decide
 defer
 determine
@@ -6825,7 +6825,7 @@ mainly obvious
 C
 
 1- Candidate: Not to me, ........
--it isn't
+it isn't
 it can't be
 it won't be
 it will be
@@ -6937,7 +6937,7 @@ controlled
 C
 
 2- The critics ....... to praise the work of this director whatever films he makes.
--run
+run
 continue
 persist
 insist
@@ -7210,7 +7210,7 @@ healthily
 healthiness
 B
 
-5- The ceiling fans were on, but unfortunately they only----- the hot. humid air.
+5- The ceiling fans were on, but unfortunately they only _______ the hot. humid air.
 stirred up
 poured through
 turned into
@@ -7543,7 +7543,7 @@ D
 same
 same as
 the same
--the same as
+the same as
 D
 
 3- ____ has the marketing environment been more complex and subject to change.

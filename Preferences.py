@@ -34,16 +34,6 @@ class PreferencesWindow(QDialog,  UiPreferencesWindow):
         except:
             user.mod["d"]=0
 
-        if not boolChapter:
-                self.comboBoxLevel.setDisabled(True)
-        else :
-                for x in self.lvls:
-                  if self.selected=="":
-                      self.selected=x
-                  self.comboBoxLevel.addItem(x)
-                #problème, pas savoir dans quel cours c'est
-                self.comboBoxLevel.setCurrentIndex(self.lvls.index(user[argumentMissing].level))
-
         self.result=[]
 
         self.createConnexions()
@@ -59,9 +49,6 @@ class PreferencesWindow(QDialog,  UiPreferencesWindow):
             self.done(1)
             #fin
 
-    def changedSelect(self):
-      self.level=unicode(self.comboBoxLevel.currentText())
-
     def changePercent(self):
       self.lcdNumber.display(self.horizontalSlider.value())
 
@@ -71,7 +58,6 @@ class PreferencesWindow(QDialog,  UiPreferencesWindow):
     def createConnexions(self):
         self.connect(self.pushButtonOK, SIGNAL("clicked()"), self.actionOK )
         self.connect(self.pushButtonAnnuler, SIGNAL("clicked()"), self.actionAnnuler )
-        self.connect(self.comboBoxLevel, SIGNAL("activated(int)"), self.changedSelect )
 ##        for a in self.keys:
 ##            self.connect(self.boxes[a], SIGNAL("toggled()"), self.changeMod )
         self.connect(self.horizontalSlider, SIGNAL("valueChanged (int)"), self.changePercent)

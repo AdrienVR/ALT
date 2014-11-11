@@ -1,9 +1,9 @@
-0:zeroth
+0:zero
 1:first
 2:second
 3:third
 4:fourth
-5:ifth
+5:fifth
 6:sixth
 7:seventh
 8:eighth
@@ -11,7 +11,7 @@
 10:tenth
 11:eleventh
 12:twelfth
-13:hirteenth
+13:thirteenth
 14:fourteenth
 15:fifteenth
 16:sixteenth
@@ -20,7 +20,7 @@
 19:nineteenth
 20:twentieth
 30:thirtieth
-40:fourtieth
+40:fortieth
 50:fiftieth
 60:sixtieth
 70:seventieth
