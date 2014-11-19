@@ -1183,7 +1183,7 @@ advise
 B
 
 4- The Council and the Commission of the EU have been invited to prepare new procedural legislation in ....... border cases, in particular on those elements which are instrumental to a smooth judicial co-operation.
--beyond
+beyond
 both
 cross
 over
@@ -1211,7 +1211,7 @@ monitor
 D
 
 3- Any variation from a budget should be investigated and explained, and ....... action should be taken to correct any problems.
--planned
+planned
 potential
 practiced
 prompt
@@ -1586,21 +1586,21 @@ concern
 favor
 line
 satisfaction
-C
+B
 
 2- Mid-cap stock performance usually falls somewhere in between the returns of their large- and small-cap ........
 companions
 counterparts
 replicas
 surrogates
-A
+B
 
 3- However, mid- and small-cap stock returns tend to be more ....... than the returns of large-cap stocks.
 vaporous
 volatile
 voluminous
 voracious
-D
+B
 
 4- If a smaller company loses a few key executives, or if the economy takes a ....... for the worse, it only takes a few nervous investors to cause the stock to drop drastically.
 dive
@@ -1614,7 +1614,7 @@ Departmentalization
 Differentiation
 Distribution
 Diversification
-A
+D
 
 1- Our annual report was ....... to the shareholders on 31 March.
 submerged
@@ -3437,7 +3437,7 @@ brieftcase
 B
 
 1- I strongly recommend investing in these shares because you will get a very good ....... after only a few years.
--reward
+reward
 reprise
 return
 response

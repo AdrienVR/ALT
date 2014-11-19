@@ -503,7 +503,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
                 lk=len(answer)/20
                 for k in range(lk):
                   fi=(k+1)*20
-                  while(answer[fi]!=' '):fi+=1
+                  while(answer[fi]!=' ' and fi<len(answer)):fi+=1
                   answer=answer[:fi]+"\n"+answer[fi:]
                 self.answer[x].setText(x+" : "+answer)
 
@@ -521,7 +521,7 @@ dans ce nouveau répertoire, avec le format suivant pour chaque question :
                 lk=len(answer)/20
                 for k in range(lk):
                   fi=(k+1)*20
-                  while(answer[fi]!=' '):fi+=1
+                  while(answer[fi]!=' ' and fi<len(answer)):fi+=1
                   answer=answer[:fi]+"\n"+answer[fi:]
                 self.answer[x].setText(x+" : "+answer)
 
