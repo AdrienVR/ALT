@@ -924,7 +924,7 @@ past
 B
 
 2- Cell phones are hand- ....... devices; they are also called wireless or mobile phones.
--carried
+carried
 crafted
 held
 made
@@ -1553,7 +1553,7 @@ basics
 basis
 C
 
-2- Asset classes are the categories that your different investments ....... into  such as cash, bonds, large-cap stocks, small-cap stocks, and international stocks.
+2- Asset classes are the categories that your different investments ....... into such as cash, bonds, large-cap stocks, small-cap stocks, and international stocks.
 fall
 fan
 sift
@@ -2450,7 +2450,7 @@ meet
 D
 
 5- Here you are at last! I hope your ....... here wasn't too horrible.
--travel
+travel
 journey
 trip
 voyage
@@ -2912,7 +2912,7 @@ folds
 A
 
 1- The company insists that all their products are ....... in respect of their quality, specification and look.
--actual
+actual
 indentity
 typical
 uniform
@@ -4158,7 +4158,7 @@ custom
 A
 
 5- She got quite angry about the size of the invoice until it was pointed out that it was the government who .......the value added tax.
--insisted
+insisted
 imposed
 inserted
 indented
@@ -4617,7 +4617,7 @@ away
 along
 back
 home
-B
+D
 
 1- I really see no point in continuing this argument because we have no ....... ground.
 basic
@@ -5796,7 +5796,7 @@ halt
 D
 
 4- It is absolutely essential that the clerk takes care to ....... any decisions that have been reached during the meeting.
--time
+time
 minute
 detail
 measure
@@ -6121,7 +6121,7 @@ C
 step under
 step up
 step by
--step across
+step across
 B
 
 1- The main problem is that a debt ....... has developed recently believing that it is cool to owe large sums of money.
@@ -7259,7 +7259,7 @@ as well as
 further
 C
 
-2- ______in local bus service have brought Increased business to the area.
+2- ______in local bus service have brought increased business to the area.
 Lifts
 Progressions
 Improvements
