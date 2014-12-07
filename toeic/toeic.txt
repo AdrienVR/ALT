@@ -309,7 +309,7 @@ augur
 C
 
 4- Those waiting for clear signs of this new age before acting will forever be destined to observe from the ........
--back seat
+back seat
 bleachers
 caboose
 sidelines
@@ -351,7 +351,7 @@ provenance
 A
 
 5- The emergence of the Internet as a general communication channel has also given ....... to the possibility of widespread electronic commerce.
--hope
+hope
 rise
 thought
 voice
@@ -504,7 +504,7 @@ reprehensible
 C
 
 2- The tax is popular with the man ......., who believes, incorrectly, that it is paid by corporations.
--in the shop
+in the shop
 in the street
 on the block
 on the job
@@ -546,7 +546,7 @@ single
 A
 
 3- While the top corporate tax rate was cut, deductions for capital expenditures were severely ......., and as a result the effective tax rate for many corporations rose.
--amended
+amended
 curtailed
 examined
 extended
@@ -1547,7 +1547,7 @@ correspondence
 C
 
 1- Cathy Smart and the investment analysts at 401k Forum help you get down to the ....... with this article about the different asset classes.
--baseline
+baseline
 basement
 basics
 basis
@@ -1813,7 +1813,7 @@ copies
 A
 
 4- This process starts with a customer order, which initiates a credit ........
--card
+card
 check
 rating
 report
@@ -1828,7 +1828,7 @@ C
 
 1- Most accounting positions require a bachelor's degree in accounting or a related field or ....... combination of education and experience.
 an attained
--a calculated
+a calculated
 a curricular
 an equivalent
 D
@@ -2135,7 +2135,7 @@ improve
 D
 
 5- He agreed because he said it was like having a gun held to his ........
--nose
+nose
 eye
 head
 foot
@@ -2184,7 +2184,7 @@ express
 B
 
 2- Thank you so much for helping me. I really ....... it.
--accept
+accept
 agree
 appreciate
 deserve
@@ -2408,7 +2408,7 @@ before
 D
 
 4- Hi Mary. Where have you been ....... yourself all this time?
--discovering
+discovering
 hiding
 finding
 looking
@@ -2534,7 +2534,7 @@ leave
 C
 
 2- There's no way I can ....... that.
--incline
+incline
 consume
 indicate
 accept
@@ -3143,7 +3143,7 @@ dispute
 A
 
 4- Under the new ....... arrangements coming into force soon all employees can decide what time to start and when to finish.
--malleable
+malleable
 shaped
 flexible
 bending
@@ -3248,7 +3248,7 @@ carefully
 A
 
 4- Thanks to the high standards of service we offer our customers, we have been able to establish an excellent ........
--repute
+repute
 reputable
 reputation
 reputedly
@@ -3451,7 +3451,7 @@ wisest
 B
 
 3- There is no question that the most important ....... in that company is its youthful enthusiasm.
--resort
+resort
 resorted
 resource
 resorting
@@ -4361,7 +4361,7 @@ approach
 B
 
 4- There are times when you have to force yourself to improve your performance and that's simply called self-........
--movement
+movement
 mastery
 manifestation
 motivation
@@ -4501,7 +4501,7 @@ tackled
 B
 
 4- You could have knocked me down with a feather! You mean to say he's ....... cleaned my car.
--certainly
+certainly
 surely
 naturally
 actually
@@ -6405,7 +6405,7 @@ settle
 D
 
 1- The finance director is responsible for ....... the accounts for the business.
--holding
+holding
 keeping
 taking
 finding
@@ -6874,7 +6874,7 @@ Absolutely
 D
 
 3- I really think we should talk about the subject we wanted to in the first place and ....... the issue.
--advise
+advise
 speak
 address
 talk
@@ -7631,7 +7631,7 @@ violations
 A
 
 5- The sales representative's presentation was difficult to understand ______ he spoke very quickly.
--because
+because
 although
 so that
 than
@@ -7927,7 +7927,7 @@ B
 2- A good waiter ______ to explain the menu.
 is never too busy
 never too busy is
--is too busy never
+is too busy never
 being never too busy
 A
 
