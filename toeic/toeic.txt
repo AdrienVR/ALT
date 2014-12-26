@@ -5766,14 +5766,14 @@ withheld
 endured
 suffered
 tolerated
-C
+D
 
 5- All employees are kindly requested to ....... from smoking in the presence of customers.
 stop
 restrain
 refrain
 restrict
-D
+C
 
 1- The meeting went on for three hours and as a result there was no time left to discuss all the topics on the ........
 list
