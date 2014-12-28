@@ -7103,7 +7103,7 @@ to have
 have
 am having
 having
-a)  to have
+	a)  to have
      Note: The infinitive form of the verb, to have, can not be used directly after the subject I.
   	b)  have
      Note: The simple present tense of the verb have should be used here to talk about someone's schedule.
@@ -7118,13 +7118,6 @@ incompetent
 inevitable
 incisive
 intact
-A
-
-2- Today many managers reward only good performers and tend to dismiss employees more frequently.
-released
-reduced
-remarked
-resisted
 A
 
 3- Automobiles are put ______ of gear by moving the gearshift to neutral.
