@@ -230,6 +230,9 @@
      </item>
      <item>
       <widget class="QPushButton" name="pushButtonExport">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
        <property name="maximumSize">
         <size>
          <width>100</width>
@@ -243,6 +246,9 @@
      </item>
      <item>
       <widget class="QPushButton" name="pushButtonImport">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
        <property name="maximumSize">
         <size>
          <width>100</width>
